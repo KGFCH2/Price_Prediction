@@ -1,0 +1,1975 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min Price,Max Price,Modal Price
+Himachal Pradesh,Kangra,Palampur,Carrot,Carrot,FAQ,7/27/2023,3000,3500,3250
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,7/27/2023,6000,6500,6000
+Punjab,Amritsar,Mehta,Carrot,Carrot,FAQ,7/27/2023,2300,2300,2300
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,7/28/2023,6500,7500,7000
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,7/28/2023,2000,3000,2500
+Gujarat,Surat,Surat,Carrot,Other,FAQ,7/28/2023,1200,2000,1600
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,7/28/2023,2500,3000,2750
+Haryana,Ambala,Ambala Cantt.,Carrot,Carrot,FAQ,7/28/2023,1000,1500,1200
+Himachal Pradesh,Chamba,Chamba,Carrot,Other,FAQ,7/28/2023,3500,4000,3750
+Himachal Pradesh,Hamirpur,Hamirpur,Carrot,Other,FAQ,7/28/2023,3500,4000,3700
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Carrot,Other,FAQ,7/28/2023,3500,4000,3750
+Himachal Pradesh,Kangra,Kangra,Carrot,Other,FAQ,7/28/2023,3000,3500,3250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Carrot,Carrot,FAQ,7/28/2023,3200,3600,3400
+Himachal Pradesh,Kangra,Palampur,Carrot,Carrot,FAQ,7/28/2023,3000,3500,3250
+Himachal Pradesh,Kullu,Bhuntar,Carrot,Other,FAQ,7/28/2023,2000,2200,2100
+Himachal Pradesh,Mandi,Mandi(Mandi),Carrot,Carrot,FAQ,7/28/2023,1000,3500,2500
+Himachal Pradesh,Sirmore,Paonta Sahib,Carrot,Other,FAQ,7/28/2023,3000,4000,3500
+Himachal Pradesh,Solan,Solan,Carrot,Other,FAQ,7/28/2023,2000,2500,2200
+Jammu and Kashmir,Srinagar,Parimpore,Carrot,Other,FAQ,7/28/2023,2500,3000,2800
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,7/28/2023,4000,6000,5000
+Karnataka,Chamrajnagar,Chamaraj Nagar,Carrot,Carrot,FAQ,7/28/2023,2500,3000,2700
+Karnataka,Chikmagalur,Bagepalli,Carrot,Carrot,FAQ,7/28/2023,1000,1500,1300
+Karnataka,Chikmagalur,Chikkamagalore,Carrot,Other,FAQ,7/28/2023,2917,2917,2917
+Karnataka,Kolar,Bangarpet,Carrot,Carrot,FAQ,7/28/2023,1500,3000,2200
+Karnataka,Kolar,Chintamani,Carrot,Carrot,FAQ,7/28/2023,2500,3500,3000
+Karnataka,Shimoga,Shimoga,Carrot,Carrot,FAQ,7/28/2023,2800,3000,2900
+Kerala,Alappuzha,Chengannur,Carrot,Other,FAQ,7/28/2023,4400,4800,4500
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,7/28/2023,6000,6500,6000
+Kerala,Kollam,Anchal,Carrot,Carrot,FAQ,7/28/2023,8200,8400,8300
+Kerala,Kottayam,Kuruppanthura,Carrot,Carrot,FAQ,7/28/2023,7500,8600,8000
+Kerala,Kozhikode(Calicut),Kallachi,Carrot,Carrot,FAQ,7/28/2023,4800,5200,5000
+Kerala,Malappuram,Kondotty,Carrot,Other,FAQ,7/28/2023,6000,6200,6100
+Kerala,Palakad,Pattambi,Carrot,Carrot,FAQ,7/28/2023,4800,5200,4900
+Kerala,Thirssur,Chelakkara,Carrot,Other,FAQ,7/28/2023,8000,8500,8200
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,FAQ,7/28/2023,2000,2500,2250
+Maharashtra,Pune,Pune,Carrot,Other,FAQ,7/28/2023,1000,2000,1500
+Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,7/28/2023,1100,1400,1250
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,7/28/2023,2000,2500,2250
+Meghalaya,East Khasi Hills,Shillong,Carrot,Carrot,FAQ,7/28/2023,7000,10000,9000
+Odisha,Sundergarh,Sargipali,Carrot,Other,FAQ,7/28/2023,4000,4500,4200
+Punjab,Bhatinda,Bathinda,Carrot,Other,FAQ,7/28/2023,1800,2200,1800
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Carrot,Other,FAQ,7/28/2023,700,1100,900
+Punjab,Mohali,Lalru,Carrot,Other,FAQ,7/28/2023,2000,2000,2000
+Punjab,Sangrur,Bhawanigarh,Carrot,Other,FAQ,7/28/2023,1900,2000,1950
+Rajasthan,Bikaner,Bikaner(F&V),Carrot,Other,FAQ,7/28/2023,1300,1500,1400
+Telangana,Adilabad,Laxettipet,Carrot,Carrot,FAQ,7/28/2023,5000,5000,5000
+Telangana,Hyderabad,Bowenpally,Carrot,Carrot,FAQ,7/28/2023,600,4000,3500
+Telangana,Hyderabad,Gudimalkapur,Carrot,Carrot,FAQ,7/28/2023,1800,3500,2000
+Telangana,Hyderabad,Mahboob Manison,Carrot,Carrot,FAQ,7/28/2023,3000,3000,3000
+Telangana,Karimnagar,Karimnagar,Carrot,Carrot,FAQ,7/28/2023,3000,3000,3000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Carrot,Carrot,FAQ,7/28/2023,3000,4000,3500
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Carrot,Carrot,FAQ,7/28/2023,4500,4500,4500
+Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,7/28/2023,4500,5000,4750
+Tripura,Sepahijala,Bishramganj,Carrot,Carrot,FAQ,7/28/2023,4000,5000,5000
+Uttar Pradesh,Sultanpur,Sultanpur,Carrot,Carrot,FAQ,7/28/2023,2700,3000,2800
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Carrot,Other,FAQ,7/28/2023,3500,4000,3800
+West Bengal,Darjeeling,Darjeeling,Carrot,Other,FAQ,7/28/2023,6100,6300,6200
+West Bengal,Darjeeling,Karsiyang(Matigara),Carrot,Other,FAQ,7/28/2023,5000,6000,5500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,7/29/2023,1500,4000,2750
+Haryana,Ambala,Ambala Cantt.,Carrot,Carrot,FAQ,7/29/2023,1000,1400,1200
+Haryana,Bhiwani,Bhiwani,Carrot,Carrot,FAQ,7/29/2023,1100,1500,1300
+Haryana,Kurukshetra,Shahabad,Carrot,Carrot,FAQ,7/29/2023,1800,1800,1800
+Himachal Pradesh,Solan,Solan,Carrot,Other,FAQ,7/29/2023,2000,2500,2200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Carrot,Carrot,FAQ,7/29/2023,2000,2500,2300
+Kerala,Alappuzha,Aroor,Carrot,Other,FAQ,7/29/2023,4900,5100,5000
+Kerala,Alappuzha,Chengannur,Carrot,Other,FAQ,7/29/2023,4400,4700,4600
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,7/29/2023,6000,6500,6000
+Kerala,Alappuzha,Kayamkulam,Carrot,Other,FAQ,7/29/2023,4400,4600,4500
+Kerala,Ernakulam,Aluva,Carrot,Carrot,FAQ,7/29/2023,4000,6000,5000
+Kerala,Ernakulam,Angamaly,Carrot,Carrot,FAQ,7/29/2023,5500,6500,6000
+Kerala,Ernakulam,Kothamangalam,Carrot,Other,FAQ,7/29/2023,5000,6000,5500
+Kerala,Ernakulam,Perumbavoor,Carrot,Carrot,FAQ,7/29/2023,6000,7000,6500
+Kerala,Ernakulam,Piravam,Carrot,Other,FAQ,7/29/2023,5000,7000,6000
+Kerala,Ernakulam,Thrippunithura,Carrot,Carrot,FAQ,7/29/2023,5500,6500,5700
+Kerala,Idukki,Thodupuzha,Carrot,Other,FAQ,7/29/2023,5000,5500,5500
+Kerala,Idukki,Vandiperiyar,Carrot,Other,FAQ,7/29/2023,1350,1350,1350
+Kerala,Kasargod,Neeleswaram,Carrot,Other,FAQ,7/29/2023,5800,6200,6000
+Kerala,Kollam,Kottarakkara,Carrot,Other,FAQ,7/29/2023,7000,7000,7000
+Kerala,Kozhikode(Calicut),Kallachi,Carrot,Carrot,FAQ,7/29/2023,4800,5200,5000
+Kerala,Kozhikode(Calicut),Palayam,Carrot,Other,FAQ,7/29/2023,4300,4500,4400
+Kerala,Kozhikode(Calicut),Perambra,Carrot,Other,FAQ,7/29/2023,5200,5500,5300
+Kerala,Kozhikode(Calicut),Thamarassery,Carrot,Other,FAQ,7/29/2023,5600,6400,5700
+Kerala,Kozhikode(Calicut),Vengeri(Kozhikode),Carrot,Carrot,FAQ,7/29/2023,4300,4600,4600
+Kerala,Malappuram,Kondotty,Carrot,Other,FAQ,7/29/2023,5800,6000,5900
+Kerala,Malappuram,Manjeri,Carrot,Other,FAQ,7/29/2023,5000,5100,5050
+Kerala,Thirssur,Chavakkad,Carrot,Other,FAQ,7/29/2023,4800,6000,6000
+Kerala,Thiruvananthapuram,Aralamoodu,Carrot,Carrot,FAQ,7/29/2023,3000,7000,7000
+Kerala,Thiruvananthapuram,Neyyatinkara,Carrot,Other,FAQ,7/29/2023,3500,4000,3800
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,FAQ,7/29/2023,1500,1500,1500
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,FAQ,7/29/2023,2000,2500,2200
+Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,7/29/2023,1500,1500,1500
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,7/29/2023,2000,3000,2500
+Meghalaya,West Jaintia Hills,Jowai,Carrot,Carrot,FAQ,7/29/2023,6500,8000,7000
+Odisha,Sundergarh,Bonai,Carrot,Other,FAQ,7/29/2023,4000,4000,4000
+Odisha,Sundergarh,Panposh,Carrot,Other,FAQ,7/29/2023,2200,2600,2500
+Telangana,Hyderabad,Bowenpally,Carrot,Carrot,FAQ,7/29/2023,600,4000,2600
+Telangana,Hyderabad,Gudimalkapur,Carrot,Carrot,FAQ,7/29/2023,2000,4500,2000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Carrot,Carrot,FAQ,7/29/2023,3000,4500,3500
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Carrot,Carrot,FAQ,7/29/2023,4500,4500,4500
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Carrot,Carrot,FAQ,7/29/2023,4500,4500,4500
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Carrot,Carrot,FAQ,7/29/2023,4500,4500,4500
+Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,7/29/2023,3500,4000,3750
+West Bengal,Darjeeling,Karsiyang(Matigara),Carrot,Other,FAQ,7/29/2023,5000,6000,5500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,7/30/2023,2000,3000,2500
+Himachal Pradesh,Kullu,Bhuntar,Carrot,Other,FAQ,7/30/2023,1500,2000,1700
+Kerala,Thirssur,Wadakkanchery,Carrot,Carrot,FAQ,7/30/2023,5500,6000,6000
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,FAQ,7/30/2023,1500,2500,2000
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,FAQ,7/30/2023,2000,2500,2200
+Maharashtra,Pune,Pune,Carrot,Other,FAQ,7/30/2023,1000,2500,1750
+Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,7/30/2023,1300,1600,1450
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,7/30/2023,1500,2000,1750
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Carrot,Carrot,FAQ,7/30/2023,4500,4500,4500
+Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,7/30/2023,4500,5000,4750
+Gujarat,Dahod,Dahod(Veg. Market),Carrot,Carrot,FAQ,7/31/2023,4500,5250,5000
+Gujarat,Junagarh,Talalagir,Carrot,Other,FAQ,7/31/2023,2500,5000,3500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,7/31/2023,2000,3000,2500
+Gujarat,Surat,Surat,Carrot,Other,FAQ,7/31/2023,1300,2000,1650
+Gujarat,Surendranagar,Vadhvan,Carrot,Carrot,FAQ,7/31/2023,2500,3000,2750
+Haryana,Kurukshetra,Shahabad,Carrot,Carrot,FAQ,7/31/2023,1800,1800,1800
+Himachal Pradesh,Hamirpur,Hamirpur,Carrot,Other,FAQ,7/31/2023,3000,4000,3500
+Himachal Pradesh,Kangra,Kangra,Carrot,Other,FAQ,7/31/2023,2500,3000,2750
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Carrot,Carrot,FAQ,7/31/2023,3200,3600,3400
+Himachal Pradesh,Kangra,Palampur,Carrot,Carrot,FAQ,7/31/2023,3000,3500,3250
+Himachal Pradesh,Kullu,Bhuntar,Carrot,Other,FAQ,7/31/2023,1500,2000,1700
+Jammu and Kashmir,Kathua,Kathua,Carrot,Other,FAQ,7/31/2023,3000,4000,3500
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,7/31/2023,3000,5500,4000
+Karnataka,Chamrajnagar,Chamaraj Nagar,Carrot,Carrot,FAQ,7/31/2023,2000,2500,2300
+Karnataka,Chikmagalur,Chikkamagalore,Carrot,Other,FAQ,7/31/2023,2637,3037,2837
+Kerala,Alappuzha,Aroor,Carrot,Other,FAQ,7/31/2023,4800,5000,4900
+Kerala,Alappuzha,Chengannur,Carrot,Other,FAQ,7/31/2023,4800,5100,5000
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,7/31/2023,6000,6500,6000
+Kerala,Alappuzha,Kayamkulam,Carrot,Other,FAQ,7/31/2023,5200,5400,5300
+Kerala,Alappuzha,Mannar,Carrot,Other,FAQ,7/31/2023,5000,5200,5100
+Kerala,Ernakulam,Angamaly,Carrot,Carrot,FAQ,7/31/2023,5500,6500,6000
+Kerala,Ernakulam,Moovattupuzha,Carrot,Carrot,FAQ,7/31/2023,3900,4100,4000
+Kerala,Ernakulam,Perumbavoor,Carrot,Carrot,FAQ,7/31/2023,6000,7000,6500
+Kerala,Ernakulam,Piravam,Carrot,Other,FAQ,7/31/2023,6500,7500,7000
+Kerala,Ernakulam,Thrippunithura,Carrot,Carrot,FAQ,7/31/2023,6000,7000,6200
+Kerala,Idukki,Adimali,Carrot,Carrot,FAQ,7/31/2023,6000,7000,6000
+Kerala,Idukki,Thodupuzha,Carrot,Other,FAQ,7/31/2023,4500,5000,5000
+Kerala,Kollam,Kottarakkara,Carrot,Other,FAQ,7/31/2023,7000,7000,7000
+Kerala,Kottayam,Ettumanoor,Carrot,Carrot,FAQ,7/31/2023,5000,5400,5200
+Kerala,Kottayam,Pala,Carrot,Carrot,FAQ,7/31/2023,5500,7000,6000
+Kerala,Kottayam,Thalayolaparambu,Carrot,Carrot,FAQ,7/31/2023,5000,5600,5400
+Kerala,Kozhikode(Calicut),Perambra,Carrot,Other,FAQ,7/31/2023,5200,5500,5300
+Kerala,Malappuram,Kottakkal,Carrot,Other,FAQ,7/31/2023,5100,5200,5150
+Kerala,Malappuram,Manjeri,Carrot,Other,FAQ,7/31/2023,4800,4900,4850
+Kerala,Malappuram,Thirurrangadi,Carrot,Other,FAQ,7/31/2023,5500,5500,5500
+Kerala,Palakad,Koduvayoor,Carrot,Other,FAQ,7/31/2023,4000,4800,4400
+Kerala,Palakad,Palakkad,Carrot,Carrot,FAQ,7/31/2023,5000,6000,5600
+Kerala,Palakad,Pattambi,Carrot,Carrot,FAQ,7/31/2023,5000,5500,5200
+Kerala,Thirssur,Chelakkara,Carrot,Other,FAQ,7/31/2023,7000,7500,7200
+Kerala,Thirssur,Kodungalloor,Carrot,Other,FAQ,7/31/2023,4400,4400,4400
+Kerala,Thiruvananthapuram,Aralamoodu,Carrot,Carrot,FAQ,7/31/2023,5000,5000,5000
+Kerala,Thiruvananthapuram,Neyyatinkara,Carrot,Other,FAQ,7/31/2023,4500,5000,4700
+Kerala,Thiruvananthapuram,Vamanapuram,Carrot,Other,FAQ,7/31/2023,4500,5000,4800
+Maharashtra,Pune,Pune,Carrot,Other,FAQ,7/31/2023,1000,2500,1750
+Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,7/31/2023,1200,1700,1450
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,7/31/2023,2500,3000,2750
+Maharashtra,Sholapur,Akluj,Carrot,Other,FAQ,7/31/2023,4000,6000,5500
+Meghalaya,East Khasi Hills,Shillong,Carrot,Carrot,FAQ,7/31/2023,8000,9000,8500
+Odisha,Bargarh,Attabira,Carrot,Other,FAQ,7/31/2023,5000,5500,5200
+Odisha,Ganjam,Bhanjanagar,Carrot,Carrot,FAQ,7/31/2023,3000,3200,3100
+Odisha,Koraput,Koraput,Carrot,Other,FAQ,7/31/2023,4200,4400,4300
+Punjab,Barnala,Barnala,Carrot,Carrot,FAQ,7/31/2023,1500,1800,1650
+Punjab,Fazilka,Jalalabad,Carrot,Other,FAQ,7/31/2023,1600,1800,1800
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Carrot,Other,FAQ,7/31/2023,700,1100,900
+Punjab,Mohali,Lalru,Carrot,Other,FAQ,7/31/2023,2000,2000,2000
+Telangana,Karimnagar,Karimnagar,Carrot,Carrot,FAQ,7/31/2023,3500,3500,3500
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Carrot,Carrot,FAQ,7/31/2023,3500,5000,4000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Carrot,Carrot,FAQ,7/31/2023,4500,4500,4500
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Carrot,Carrot,FAQ,7/31/2023,4500,4500,4500
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Carrot,Carrot,FAQ,7/31/2023,4500,4500,4500
+Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,7/31/2023,3600,4000,3800
+West Bengal,Dakshin Dinajpur,Gangarampur(Dakshin Dinajpur),Carrot,Other,FAQ,7/31/2023,3000,3500,3300
+West Bengal,Darjeeling,Kalimpong,Carrot,Other,FAQ,7/31/2023,8000,10000,9000
+Chattisgarh,Durg,Durg,Carrot,Carrot,FAQ,8/1/2023,2500,3000,2750
+Gujarat,Ahmedabad,Ahmedabad,Carrot,Other,FAQ,8/1/2023,1200,2100,1700
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Carrot,Carrot,FAQ,8/1/2023,2000,4000,3000
+Gujarat,Surat,Surat,Carrot,Other,FAQ,8/1/2023,1000,2000,1500
+Haryana,Jhajar,Bahadurgarh,Carrot,Other,FAQ,8/1/2023,2500,3500,3000
+Haryana,Kurukshetra,Shahabad,Carrot,Carrot,FAQ,8/1/2023,1800,1800,1800
+Haryana,Kurukshetra,Thanesar,Carrot,Carrot,FAQ,8/1/2023,2500,3500,3000
+Himachal Pradesh,Chamba,Chamba,Carrot,Other,FAQ,8/1/2023,3500,4000,3750
+Himachal Pradesh,Hamirpur,Hamirpur,Carrot,Other,FAQ,8/1/2023,3000,4000,3500
+Himachal Pradesh,Kangra,Palampur,Carrot,Carrot,FAQ,8/1/2023,3000,3500,3250
+Himachal Pradesh,Kullu,Bhuntar,Carrot,Other,FAQ,8/1/2023,1500,2000,1700
+Himachal Pradesh,Mandi,Mandi(Mandi),Carrot,Carrot,FAQ,8/1/2023,2000,3000,2500
+Himachal Pradesh,Shimla,Shimla,Carrot,Carrot,FAQ,8/1/2023,3000,4000,3200
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Carrot,Other,FAQ,8/1/2023,2500,3000,2750
+Jammu and Kashmir,Kathua,Kathua,Carrot,Other,FAQ,8/1/2023,3000,4000,3500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Carrot,Carrot,FAQ,8/1/2023,4000,4200,4100
+Karnataka,Bangalore,Doddaballa Pur,Carrot,Other,FAQ,8/1/2023,2000,3000,2500
+Karnataka,Bangalore,Ramanagara,Carrot,Carrot,FAQ,8/1/2023,4000,6000,5000
+Karnataka,Chamrajnagar,Chamaraj Nagar,Carrot,Carrot,FAQ,8/1/2023,2200,2600,2400
+Karnataka,Chikmagalur,Bagepalli,Carrot,Carrot,FAQ,8/1/2023,2000,2500,2200
+Karnataka,Davangere,Davangere,Carrot,Carrot,FAQ,8/1/2023,2800,3200,3000
+Karnataka,Kolar,Bangarpet,Carrot,Carrot,FAQ,8/1/2023,1300,3000,2100
+Karnataka,Kolar,Chickkaballapura,Carrot,Carrot,FAQ,8/1/2023,2500,3000,2900
+Karnataka,Kolar,Chintamani,Carrot,Carrot,FAQ,8/1/2023,2500,3500,3000
+Karnataka,Kolar,Kolar,Carrot,Carrot,FAQ,8/1/2023,1500,3500,2500
+Karnataka,Shimoga,Shimoga,Carrot,Carrot,FAQ,8/1/2023,3800,4000,3900
+Kerala,Alappuzha,Chengannur,Carrot,Other,FAQ,8/1/2023,4800,5100,5000
+Kerala,Alappuzha,Cherthala,Carrot,Carrot,FAQ,8/1/2023,6000,6150,6100
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,8/1/2023,7000,7500,7000
+Kerala,Alappuzha,Kayamkulam,Carrot,Other,FAQ,8/1/2023,5400,5600,5500
+Kerala,Ernakulam,Angamaly,Carrot,Carrot,FAQ,8/1/2023,5600,6600,6100
+Kerala,Ernakulam,Perumbavoor,Carrot,Carrot,FAQ,8/1/2023,6000,7000,6500
+Kerala,Ernakulam,Thrippunithura,Carrot,Carrot,FAQ,8/1/2023,6000,7000,6200
+Kerala,Idukki,Adimali,Carrot,Carrot,FAQ,8/1/2023,7000,8000,7000
+Kerala,Idukki,Thodupuzha,Carrot,Other,FAQ,8/1/2023,4500,5000,5000
+Kerala,Idukki,Vandiperiyar,Carrot,Other,FAQ,8/1/2023,1680,1680,1680
+Kerala,Kasargod,Neeleswaram,Carrot,Other,FAQ,8/1/2023,6200,6400,6300
+Kerala,Kollam,Chathanoor,Carrot,Other,FAQ,8/1/2023,7800,8200,8000
+Kerala,Kollam,Kottarakkara,Carrot,Other,FAQ,8/1/2023,7000,7000,7000
+Kerala,Kollam,Punalur,Carrot,Other,FAQ,8/1/2023,7000,7400,7200
+Kerala,Kottayam,Kottayam,Carrot,Carrot,FAQ,8/1/2023,5000,5400,5200
+Kerala,Kottayam,Thalayolaparambu,Carrot,Carrot,FAQ,8/1/2023,5200,5600,5500
+Kerala,Kozhikode(Calicut),Kallachi,Carrot,Carrot,FAQ,8/1/2023,4800,5200,5000
+Kerala,Kozhikode(Calicut),Palayam,Carrot,Other,FAQ,8/1/2023,4100,4300,4200
+Kerala,Kozhikode(Calicut),Perambra,Carrot,Other,FAQ,8/1/2023,5200,5500,5300
+Kerala,Kozhikode(Calicut),Thamarassery,Carrot,Other,FAQ,8/1/2023,4300,5000,4600
+Kerala,Malappuram,Kottakkal,Carrot,Other,FAQ,8/1/2023,5100,5300,5150
+Kerala,Malappuram,Manjeri,Carrot,Other,FAQ,8/1/2023,4800,4900,4850
+Kerala,Palakad,Palakkad,Carrot,Carrot,FAQ,8/1/2023,4500,5000,4800
+Kerala,Palakad,Pattambi,Carrot,Carrot,FAQ,8/1/2023,5000,5500,5200
+Kerala,Thirssur,Chavakkad,Carrot,Other,FAQ,8/1/2023,5400,6400,6400
+Kerala,Thirssur,Chelakkara,Carrot,Other,FAQ,8/1/2023,8000,8500,8200
+Kerala,Thirssur,Thrissur,Carrot,Carrot,FAQ,8/1/2023,4000,4500,4200
+Kerala,Thiruvananthapuram,Aralamoodu,Carrot,Carrot,FAQ,8/1/2023,4000,6000,6000
+Kerala,Thiruvananthapuram,Neyyatinkara,Carrot,Other,FAQ,8/1/2023,5400,6000,5700
+Kerala,Thiruvananthapuram,Parassala,Carrot,Carrot,FAQ,8/1/2023,3000,3000,3000
+Madhya Pradesh,Katni,Katni(F&V),Carrot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Ahmednagar,Ahmednagar,Carrot,Other,FAQ,8/1/2023,1400,2000,1700
+Maharashtra,Ahmednagar,Rahata,Carrot,Other,FAQ,8/1/2023,1500,2500,2000
+Maharashtra,Jalgaon,Bhusaval,Carrot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Jalgaon,Jalgaon,Carrot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Mumbai,Mumbai,Carrot,Other,FAQ,8/1/2023,3200,3800,3500
+Maharashtra,Nagpur,Kamthi,Carrot,Other,FAQ,8/1/2023,2500,3500,3000
+Maharashtra,Nagpur,Nagpur,Carrot,Other,FAQ,8/1/2023,1800,2000,1950
+Maharashtra,Pune,Khed(Chakan),Carrot,Other,FAQ,8/1/2023,2000,2500,2200
+Maharashtra,Pune,Pune,Carrot,Other,FAQ,8/1/2023,1000,2500,1750
+Maharashtra,Pune,Pune(Khadiki),Carrot,Other,FAQ,8/1/2023,1100,1600,1350
+Maharashtra,Pune,Pune(Moshi),Carrot,Other,FAQ,8/1/2023,2000,3000,2500
+Maharashtra,Raigad,Panvel,Carrot,Other,FAQ,8/1/2023,3000,3200,3100
+Maharashtra,Sholapur,Solapur,Carrot,Other,FAQ,8/1/2023,1500,2500,2000
+Maharashtra,Thane,Kalyan,Carrot,Other,FAQ,8/1/2023,1800,2400,2100
+Meghalaya,East Khasi Hills,Shillong,Carrot,Carrot,FAQ,8/1/2023,7500,10000,9000
+Meghalaya,East Khasi Hills,Sohra,Carrot,Other,FAQ,8/1/2023,80000,84000,82000
+Meghalaya,West Jaintia Hills,Jowai,Carrot,Carrot,FAQ,8/1/2023,7000,9000,8000
+NCT of Delhi,Delhi,Azadpur,Carrot,Carrot,FAQ,8/1/2023,500,3000,1667
+Odisha,Bolangir,Bolangir,Carrot,Other,FAQ,8/1/2023,5800,6000,5800
+Odisha,Sundergarh,Bonai,Carrot,Other,FAQ,8/1/2023,6000,6000,6000
+Odisha,Sundergarh,Sargipali,Carrot,Other,FAQ,8/1/2023,4000,4500,4200
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Carrot,Carrot,FAQ,8/1/2023,600,1000,800
+Punjab,Faridkot,Faridkot,Carrot,Carrot,FAQ,8/1/2023,2000,2500,2000
+Punjab,Fazilka,Jalalabad,Carrot,Other,FAQ,8/1/2023,2000,2000,2000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Carrot,Other,FAQ,8/1/2023,800,1400,1100
+Punjab,Sangrur,Bhawanigarh,Carrot,Other,FAQ,8/1/2023,1800,1800,1800
+Rajasthan,Bikaner,Bikaner(F&V),Carrot,Other,FAQ,8/1/2023,1300,1500,1400
+Rajasthan,Udaipur,Udaipur(F&V),Carrot,Other,FAQ,8/1/2023,2000,2000,2000
+Telangana,Hyderabad,Bowenpally,Carrot,Carrot,FAQ,8/1/2023,600,4000,2500
+Telangana,Hyderabad,Erragadda(Rythu Bazar),Carrot,Carrot,FAQ,8/1/2023,4500,4500,4500
+Telangana,Hyderabad,Gudimalkapur,Carrot,Carrot,FAQ,8/1/2023,1800,4000,2000
+Telangana,Hyderabad,L B Nagar,Carrot,Carrot,FAQ,8/1/2023,4000,6000,5000
+Telangana,Hyderabad,Mahboob Manison,Carrot,Carrot,FAQ,8/1/2023,2000,3000,2500
+Telangana,Karimnagar,Karimnagar,Carrot,Carrot,FAQ,8/1/2023,3500,3500,3500
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Carrot,Carrot,FAQ,8/1/2023,3500,4500,4000
+Telangana,Medak,Siddipet(Rythu Bazar),Carrot,Carrot,FAQ,8/1/2023,2500,3500,3000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Carrot,Carrot,FAQ,8/1/2023,4500,4500,4500
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Carrot,Carrot,FAQ,8/1/2023,4500,4500,4500
+Telangana,Warangal,Warangal,Carrot,Carrot,FAQ,8/1/2023,3800,4000,3900
+Tripura,Sepahijala,Bishalgarh,Carrot,Other,FAQ,8/1/2023,14600,15000,14800
+Tripura,Sepahijala,Bishramganj,Carrot,Carrot,FAQ,8/1/2023,4000,5000,4500
+Uttrakhand,Dehradoon,Dehradoon,Carrot,Other,FAQ,8/1/2023,1800,2500,2200
+West Bengal,Darjeeling,Darjeeling,Carrot,Other,FAQ,8/1/2023,6300,6500,6400
+West Bengal,Darjeeling,Kalimpong,Carrot,Other,FAQ,8/1/2023,8000,10000,9000
+Himachal Pradesh,Kangra,Palampur,Carrot,Carrot,FAQ,8/2/2023,3000,3500,3250
+Kerala,Alappuzha,Harippad,Carrot,Other,FAQ,8/2/2023,7000,7600,7000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Carrot,Carrot,FAQ,8/2/2023,3100,3500,3200
+,,,,,,,,,
+Himachal Pradesh,Kangra,Palampur,Beetroot,Beetroot,FAQ,7/27/2023,3500,4000,3750
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,7/27/2023,4000,4500,4000
+Chattisgarh,Bilaspur,Tiphra,Beetroot,Beetroot,FAQ,7/28/2023,2000,2500,2300
+Gujarat,Surat,Surat,Beetroot,Other,FAQ,7/28/2023,1200,2000,1600
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Beetroot,Beetroot,FAQ,7/28/2023,3800,4200,4000
+Himachal Pradesh,Kangra,Palampur,Beetroot,Beetroot,FAQ,7/28/2023,3500,4000,3750
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,7/28/2023,2000,2400,2200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Beetroot,Beetroot,FAQ,7/28/2023,1500,2500,2000
+Karnataka,Chikmagalur,Bagepalli,Beetroot,Beetroot,FAQ,7/28/2023,1800,2200,2000
+Karnataka,Chikmagalur,Chikkamagalore,Beetroot,Beetroot,FAQ,7/28/2023,1488,1488,1488
+Karnataka,Kolar,Chintamani,Beetroot,Beetroot,FAQ,7/28/2023,2000,2500,2200
+Karnataka,Shimoga,Shimoga,Beetroot,Beetroot,FAQ,7/28/2023,1800,2000,1900
+Kerala,Alappuzha,Chengannur,Beetroot,Beetroot,FAQ,7/28/2023,4400,4800,4500
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,7/28/2023,4000,4500,4000
+Kerala,Kollam,Anchal,Beetroot,Other,FAQ,7/28/2023,4800,5000,4900
+Kerala,Kottayam,Kuruppanthura,Beetroot,Beetroot,FAQ,7/28/2023,3600,4800,4000
+Kerala,Kozhikode(Calicut),Kallachi,Beetroot,Beetroot,FAQ,7/28/2023,4800,5200,5000
+Kerala,Malappuram,Kondotty,Beetroot,Other,FAQ,7/28/2023,2500,2700,2600
+Kerala,Palakad,Pattambi,Beetroot,Other,FAQ,7/28/2023,2600,3000,2800
+Kerala,Thirssur,Chelakkara,Beetroot,Other,FAQ,7/28/2023,3000,3500,3200
+Maharashtra,Pune,Pune,Beetroot,Other,FAQ,7/28/2023,800,2000,1400
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,7/28/2023,1000,2000,1500
+Maharashtra,Pune,Pune(Pimpri),Beetroot,Other,FAQ,7/28/2023,1500,1500,1500
+Meghalaya,East Khasi Hills,Shillong,Beetroot,Beetroot,FAQ,7/28/2023,7000,8500,8000
+Rajasthan,Bikaner,Bikaner(F&V),Beetroot,Other,FAQ,7/28/2023,1300,1500,1400
+Telangana,Hyderabad,Bowenpally,Beetroot,Beetroot,FAQ,7/28/2023,600,1200,1000
+Telangana,Hyderabad,Gudimalkapur,Beetroot,Beetroot,FAQ,7/28/2023,1000,2000,1500
+Telangana,Hyderabad,Mahboob Manison,Beetroot,Beetroot,FAQ,7/28/2023,2000,2000,2000
+Telangana,Karimnagar,Karimnagar,Beetroot,Beetroot,FAQ,7/28/2023,3000,3000,3000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Beetroot,Beetroot,FAQ,7/28/2023,3000,4000,3500
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Beetroot,Beetroot,FAQ,7/28/2023,1500,1500,1500
+Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,7/28/2023,3200,3600,3400
+Karnataka,Chamrajnagar,Chamaraj Nagar,Beetroot,Beetroot,FAQ,7/29/2023,1500,2400,2000
+Kerala,Alappuzha,Aroor,Beetroot,Other,FAQ,7/29/2023,4000,4200,4100
+Kerala,Alappuzha,Chengannur,Beetroot,Beetroot,FAQ,7/29/2023,4300,4600,4400
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,7/29/2023,4000,4500,4000
+Kerala,Alappuzha,Kayamkulam,Beetroot,Other,FAQ,7/29/2023,1600,1800,1700
+Kerala,Ernakulam,Angamaly,Beetroot,Beetroot,FAQ,7/29/2023,4000,5000,4500
+Kerala,Ernakulam,Piravam,Beetroot,Other,FAQ,7/29/2023,5000,6500,6000
+Kerala,Ernakulam,Thrippunithura,Beetroot,Beetroot,FAQ,7/29/2023,6400,7200,6600
+Kerala,Idukki,Thodupuzha,Beetroot,Other,FAQ,7/29/2023,3200,3400,3400
+Kerala,Idukki,Vandiperiyar,Beetroot,Other,FAQ,7/29/2023,1020,1020,1020
+Kerala,Kasargod,Neeleswaram,Beetroot,Other,FAQ,7/29/2023,5400,5600,5500
+Kerala,Kollam,Kottarakkara,Beetroot,Other,FAQ,7/29/2023,4000,4000,4000
+Kerala,Kozhikode(Calicut),Kallachi,Beetroot,Beetroot,FAQ,7/29/2023,4600,5000,4800
+Kerala,Kozhikode(Calicut),Palayam,Beetroot,Other,FAQ,7/29/2023,3900,4100,4000
+Kerala,Kozhikode(Calicut),Perambra,Beetroot,Other,FAQ,7/29/2023,4700,5000,4900
+Kerala,Kozhikode(Calicut),Thamarassery,Beetroot,Other,FAQ,7/29/2023,3200,3900,3400
+Kerala,Malappuram,Kondotty,Beetroot,Other,FAQ,7/29/2023,2500,2700,2600
+Kerala,Malappuram,Manjeri,Beetroot,Other,FAQ,7/29/2023,2800,2900,2850
+Kerala,Thirssur,Chavakkad,Beetroot,Other,FAQ,7/29/2023,2800,3600,3600
+Kerala,Thirssur,Thrissur,Beetroot,Beetroot,FAQ,7/29/2023,3000,3000,3000
+Kerala,Thiruvananthapuram,Aralamoodu,Beetroot,Beetroot,FAQ,7/29/2023,3000,3000,3000
+Kerala,Thiruvananthapuram,Neyyatinkara,Beetroot,Beetroot,FAQ,7/29/2023,4500,5000,4800
+Maharashtra,Pune,Pune(Khadiki),Beetroot,Other,FAQ,7/29/2023,1200,1200,1200
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,7/29/2023,1000,2000,1500
+Maharashtra,Pune,Pune(Pimpri),Beetroot,Other,FAQ,7/29/2023,1500,1800,1600
+Telangana,Hyderabad,Bowenpally,Beetroot,Beetroot,FAQ,7/29/2023,600,3000,1200
+Telangana,Hyderabad,Gudimalkapur,Beetroot,Beetroot,FAQ,7/29/2023,2000,2000,2000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Beetroot,Beetroot,FAQ,7/29/2023,12000,14000,13000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Beetroot,Beetroot,FAQ,7/29/2023,3500,3500,3500
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Beetroot,Beetroot,FAQ,7/29/2023,3500,3500,3500
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Beetroot,Beetroot,FAQ,7/29/2023,3500,3500,3500
+Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,7/29/2023,1800,2000,1900
+Kerala,Thirssur,Wadakkanchery,Beetroot,Beetroot,FAQ,7/30/2023,3600,4000,4000
+Maharashtra,Pune,Pune,Beetroot,Other,FAQ,7/30/2023,1000,2000,1500
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,7/30/2023,2000,2000,2000
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Beetroot,Beetroot,FAQ,7/30/2023,2800,2800,2800
+Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,7/30/2023,3000,3200,3100
+Gujarat,Surat,Surat,Beetroot,Other,FAQ,7/31/2023,1100,1800,1450
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Beetroot,Beetroot,FAQ,7/31/2023,3800,4200,4000
+Himachal Pradesh,Kangra,Palampur,Beetroot,Beetroot,FAQ,7/31/2023,3500,4000,3750
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,7/31/2023,2000,2400,2200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Beetroot,Beetroot,FAQ,7/31/2023,1200,1800,1500
+Karnataka,Chikmagalur,Chikkamagalore,Beetroot,Beetroot,FAQ,7/31/2023,1265,1665,1465
+Kerala,Alappuzha,Aroor,Beetroot,Other,FAQ,7/31/2023,4000,4200,4100
+Kerala,Alappuzha,Chengannur,Beetroot,Beetroot,FAQ,7/31/2023,3800,4100,4000
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,7/31/2023,4000,4500,4000
+Kerala,Alappuzha,Kayamkulam,Beetroot,Other,FAQ,7/31/2023,2200,2400,2300
+Kerala,Alappuzha,Mannar,Beetroot,Other,FAQ,7/31/2023,4000,4200,4100
+Kerala,Ernakulam,Angamaly,Beetroot,Beetroot,FAQ,7/31/2023,3800,4800,4300
+Kerala,Ernakulam,Moovattupuzha,Beetroot,Other,FAQ,7/31/2023,4000,4200,4100
+Kerala,Ernakulam,Piravam,Beetroot,Other,FAQ,7/31/2023,4500,6000,5000
+Kerala,Ernakulam,Thrippunithura,Beetroot,Beetroot,FAQ,7/31/2023,6000,7000,6200
+Kerala,Idukki,Adimali,Beetroot,Beetroot,FAQ,7/31/2023,5000,6000,6000
+Kerala,Idukki,Thodupuzha,Beetroot,Other,FAQ,7/31/2023,2800,3000,3000
+Kerala,Kollam,Kottarakkara,Beetroot,Other,FAQ,7/31/2023,4000,4000,4000
+Kerala,Kottayam,Ettumanoor,Beetroot,Other,FAQ,7/31/2023,2800,3200,3000
+Kerala,Kottayam,Kuruppanthura,Beetroot,Beetroot,FAQ,7/31/2023,4000,4900,4600
+Kerala,Kottayam,Pala,Beetroot,Beetroot,FAQ,7/31/2023,4800,6000,5500
+Kerala,Kottayam,Thalayolaparambu,Beetroot,Beetroot,FAQ,7/31/2023,3300,3700,3500
+Kerala,Kozhikode(Calicut),Perambra,Beetroot,Other,FAQ,7/31/2023,4800,4900,4900
+Kerala,Malappuram,Manjeri,Beetroot,Other,FAQ,7/31/2023,2800,2900,2850
+Kerala,Malappuram,Thirurrangadi,Beetroot,Other,FAQ,7/31/2023,3200,3600,3500
+Kerala,Palakad,Koduvayoor,Beetroot,Other,FAQ,7/31/2023,2600,3500,3000
+Kerala,Palakad,Palakkad,Beetroot,Beetroot,FAQ,7/31/2023,3000,3600,3400
+Kerala,Palakad,Pattambi,Beetroot,Other,FAQ,7/31/2023,2600,3000,2800
+Kerala,Thirssur,Chelakkara,Beetroot,Other,FAQ,7/31/2023,3000,3500,3200
+Kerala,Thirssur,Kodungalloor,Beetroot,Other,FAQ,7/31/2023,2600,2600,2600
+Kerala,Thiruvananthapuram,Aralamoodu,Beetroot,Beetroot,FAQ,7/31/2023,3000,3000,3000
+Kerala,Thiruvananthapuram,Neyyatinkara,Beetroot,Beetroot,FAQ,7/31/2023,3500,4000,3800
+Kerala,Thiruvananthapuram,Vamanapuram,Beetroot,Other,FAQ,7/31/2023,3500,4000,3800
+Maharashtra,Pune,Pune,Beetroot,Other,FAQ,7/31/2023,1000,2000,1500
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,7/31/2023,1000,2000,1500
+Meghalaya,East Khasi Hills,Shillong,Beetroot,Beetroot,FAQ,7/31/2023,7000,8000,7500
+Punjab,Barnala,Barnala,Beetroot,Beetroot,FAQ,7/31/2023,2300,2400,2350
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Beetroot,Beetroot,FAQ,7/31/2023,3000,4000,3500
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Beetroot,Beetroot,FAQ,7/31/2023,2800,2800,2800
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Beetroot,Beetroot,FAQ,7/31/2023,2800,2800,2800
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Beetroot,Beetroot,FAQ,7/31/2023,2800,2800,2800
+Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,7/31/2023,3000,3200,3100
+Gujarat,Ahmedabad,Ahmedabad,Beetroot,Other,FAQ,8/1/2023,800,2000,1500
+Gujarat,Surat,Surat,Beetroot,Other,FAQ,8/1/2023,1200,1800,1500
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Beetroot,Beetroot,FAQ,8/1/2023,2000,2000,2000
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Beetroot,Beetroot,FAQ,8/1/2023,3800,4200,4000
+Himachal Pradesh,Kangra,Palampur,Beetroot,Beetroot,FAQ,8/1/2023,3500,4000,3750
+Himachal Pradesh,Mandi,Mandi(Mandi),Beetroot,Beetroot,FAQ,8/1/2023,2000,2000,2000
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Beetroot,Other,FAQ,8/1/2023,1800,2200,2000
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Beetroot,Beetroot,FAQ,8/1/2023,3000,3500,3300
+Karnataka,Bangalore,Doddaballa Pur,Beetroot,Beetroot,FAQ,8/1/2023,2400,3000,2700
+Karnataka,Bangalore,Ramanagara,Beetroot,Beetroot,FAQ,8/1/2023,2000,2400,2200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Beetroot,Beetroot,FAQ,8/1/2023,1000,1800,1400
+Karnataka,Chikmagalur,Bagepalli,Beetroot,Beetroot,FAQ,8/1/2023,1200,1500,1350
+Karnataka,Davangere,Davangere,Beetroot,Beetroot,FAQ,8/1/2023,1500,2000,1800
+Karnataka,Kolar,Bangarpet,Beetroot,Beetroot,FAQ,8/1/2023,800,1300,1000
+Karnataka,Kolar,Chickkaballapura,Beetroot,Beetroot,FAQ,8/1/2023,1200,1400,1300
+Karnataka,Kolar,Chintamani,Beetroot,Beetroot,FAQ,8/1/2023,1000,1700,1500
+Karnataka,Kolar,Kolar,Beetroot,Beetroot,FAQ,8/1/2023,1000,1500,1300
+Karnataka,Shimoga,Shimoga,Beetroot,Beetroot,FAQ,8/1/2023,1800,2000,1900
+Kerala,Alappuzha,Alappuzha,Beetroot,Other,FAQ,8/1/2023,5500,6500,6000
+Kerala,Alappuzha,Chengannur,Beetroot,Beetroot,FAQ,8/1/2023,3600,4200,4000
+Kerala,Alappuzha,Cherthala,Beetroot,Other,FAQ,8/1/2023,6500,6650,6600
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,8/1/2023,4000,4500,4000
+Kerala,Alappuzha,Kayamkulam,Beetroot,Other,FAQ,8/1/2023,2400,2600,2500
+Kerala,Ernakulam,Angamaly,Beetroot,Beetroot,FAQ,8/1/2023,3800,4800,4300
+Kerala,Ernakulam,Thrippunithura,Beetroot,Beetroot,FAQ,8/1/2023,6000,7000,6200
+Kerala,Idukki,Adimali,Beetroot,Beetroot,FAQ,8/1/2023,4000,5000,4000
+Kerala,Idukki,Thodupuzha,Beetroot,Other,FAQ,8/1/2023,2800,3000,3000
+Kerala,Idukki,Vandiperiyar,Beetroot,Other,FAQ,8/1/2023,1080,1080,1080
+Kerala,Kasargod,Neeleswaram,Beetroot,Other,FAQ,8/1/2023,5400,5600,5500
+Kerala,Kollam,Kottarakkara,Beetroot,Other,FAQ,8/1/2023,4000,4000,4000
+Kerala,Kottayam,Kottayam,Beetroot,Beetroot,FAQ,8/1/2023,3700,4100,3900
+Kerala,Kottayam,Thalayolaparambu,Beetroot,Beetroot,FAQ,8/1/2023,3300,3700,3500
+Kerala,Kozhikode(Calicut),Kallachi,Beetroot,Beetroot,FAQ,8/1/2023,4800,5200,5000
+Kerala,Kozhikode(Calicut),Palayam,Beetroot,Other,FAQ,8/1/2023,3900,4100,4000
+Kerala,Malappuram,Manjeri,Beetroot,Other,FAQ,8/1/2023,2800,2900,2850
+Kerala,Palakad,Palakkad,Beetroot,Beetroot,FAQ,8/1/2023,3000,3600,3400
+Kerala,Palakad,Pattambi,Beetroot,Other,FAQ,8/1/2023,3500,4000,3800
+Kerala,Thirssur,Chavakkad,Beetroot,Other,FAQ,8/1/2023,3600,4400,4400
+Kerala,Thirssur,Chelakkara,Beetroot,Other,FAQ,8/1/2023,3000,3500,3200
+Kerala,Thirssur,Thrissur,Beetroot,Beetroot,FAQ,8/1/2023,2500,2800,2500
+Kerala,Thiruvananthapuram,Aralamoodu,Beetroot,Beetroot,FAQ,8/1/2023,3000,3000,3000
+Kerala,Thiruvananthapuram,Neyyatinkara,Beetroot,Beetroot,FAQ,8/1/2023,3400,4000,3600
+Kerala,Thiruvananthapuram,Parassala,Beetroot,Beetroot,FAQ,8/1/2023,4000,4200,4000
+Madhya Pradesh,Katni,Katni(F&V),Beetroot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Beetroot,Other,FAQ,8/1/2023,1800,2200,2000
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Beetroot,Other,FAQ,8/1/2023,1000,2000,1500
+Maharashtra,Jalgaon,Bhusaval,Beetroot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Jalgaon,Jalgaon,Beetroot,Other,FAQ,8/1/2023,2000,2000,2000
+Maharashtra,Mumbai,Mumbai,Beetroot,Other,FAQ,8/1/2023,2000,3000,2500
+Maharashtra,Nagpur,Nagpur,Beetroot,Other,FAQ,8/1/2023,2000,2500,2350
+Maharashtra,Pune,Pune,Beetroot,Other,FAQ,8/1/2023,800,2000,1400
+Maharashtra,Pune,Pune(Khadiki),Beetroot,Other,FAQ,8/1/2023,1200,1200,1200
+Maharashtra,Pune,Pune(Moshi),Beetroot,Other,FAQ,8/1/2023,1500,2000,1750
+Maharashtra,Pune,Pune(Pimpri),Beetroot,Other,FAQ,8/1/2023,2000,2000,2000
+Meghalaya,East Khasi Hills,Shillong,Beetroot,Beetroot,FAQ,8/1/2023,6000,7500,7000
+Meghalaya,East Khasi Hills,Sohra,Beetroot,Other,FAQ,8/1/2023,92000,96000,94000
+NCT of Delhi,Delhi,Azadpur,Beetroot,Beetroot,FAQ,8/1/2023,500,1800,1150
+Punjab,Fazilka,Abohar,Beetroot,Beetroot,FAQ,8/1/2023,1500,2500,1800
+Rajasthan,Bikaner,Bikaner(F&V),Beetroot,Other,FAQ,8/1/2023,1300,1500,1400
+Telangana,Hyderabad,Bowenpally,Beetroot,Beetroot,FAQ,8/1/2023,600,2200,1200
+Telangana,Hyderabad,Erragadda(Rythu Bazar),Beetroot,Beetroot,FAQ,8/1/2023,2800,2800,2800
+Telangana,Hyderabad,Gudimalkapur,Beetroot,Beetroot,FAQ,8/1/2023,1200,2000,1500
+Telangana,Hyderabad,L B Nagar,Beetroot,Beetroot,FAQ,8/1/2023,2000,3000,2500
+Telangana,Hyderabad,Mahboob Manison,Beetroot,Beetroot,FAQ,8/1/2023,2200,2200,2200
+Telangana,Karimnagar,Karimnagar,Beetroot,Beetroot,FAQ,8/1/2023,3000,3000,3000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Beetroot,Beetroot,FAQ,8/1/2023,3000,3500,3200
+Telangana,Nalgonda,Venkateswarnagar,Beetroot,Beetroot,FAQ,8/1/2023,2500,2500,2500
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Beetroot,Beetroot,FAQ,8/1/2023,2500,2500,2500
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Beetroot,Beetroot,FAQ,8/1/2023,2500,2500,2500
+Telangana,Warangal,Warangal,Beetroot,Beetroot,FAQ,8/1/2023,2800,3000,2900
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Beetroot,Beetroot,FAQ,8/2/2023,3800,4200,4000
+Himachal Pradesh,Kangra,Palampur,Beetroot,Beetroot,FAQ,8/2/2023,3500,4000,3750
+Kerala,Alappuzha,Harippad,Beetroot,Other,FAQ,8/2/2023,4000,4500,4000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Beetroot,Beetroot,FAQ,8/2/2023,3000,3500,3200
+,,,,,,,,,
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,7/27/2023,2350,3000,2700
+Himachal Pradesh,Kangra,Palampur,Cabbage,Cabbage,FAQ,7/27/2023,2200,2500,2350
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,7/27/2023,3000,3500,3000
+Nagaland,Kohima,Jalukie,Cabbage,Cabbage,FAQ,7/27/2023,7000,7200,7100
+Chattisgarh,Bilaspur,Tiphra,Cabbage,Cabbage,FAQ,7/28/2023,900,1100,1000
+Chattisgarh,Rajnandgaon,Rajnandgaon,Cabbage,Cabbage,FAQ,7/28/2023,1200,1600,1400
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,7/28/2023,1400,2000,1850
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cabbage,Other,FAQ,7/28/2023,2000,2650,2325
+Gujarat,Bharuch,Ankleshwar,Cabbage,Cabbage,FAQ,7/28/2023,600,1600,900
+Gujarat,Dahod,Dahod(Veg. Market),Cabbage,Cabbage,FAQ,7/28/2023,1000,2200,1500
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Cabbage,Other,FAQ,7/28/2023,1500,1500,1500
+Gujarat,Junagarh,Talalagir,Cabbage,Other,FAQ,7/28/2023,1500,3500,2500
+Gujarat,Morbi,Vankaner(Sub yard),Cabbage,Other,FAQ,7/28/2023,2000,2500,2250
+Gujarat,Navsari,Bilimora,Cabbage,Other,FAQ,7/28/2023,1000,2000,1500
+Gujarat,Porbandar,Porbandar,Cabbage,Cabbage,FAQ,7/28/2023,2000,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cabbage,Cabbage,FAQ,7/28/2023,1500,3500,2500
+Gujarat,Rajkot,Morbi,Cabbage,Cabbage,FAQ,7/28/2023,2000,2500,2250
+Gujarat,Surat,Surat,Cabbage,Other,FAQ,7/28/2023,900,1800,1350
+Gujarat,Surendranagar,Vadhvan,Cabbage,Cabbage,FAQ,7/28/2023,2000,2500,2250
+Gujarat,Vadodara(Baroda),Padra,Cabbage,Other,FAQ,7/28/2023,1500,2000,1750
+Haryana,Ambala,Ambala Cantt.,Cabbage,Cabbage,FAQ,7/28/2023,600,1200,800
+Haryana,Ambala,Barara,Cabbage,Other,FAQ,7/28/2023,700,800,700
+Haryana,Ambala,Naraingarh,Cabbage,Other,FAQ,7/28/2023,500,1000,900
+Haryana,Gurgaon,Pataudi,Cabbage,Other,FAQ,7/28/2023,1400,1600,1500
+Haryana,Hissar,Hansi,Cabbage,Other,FAQ,7/28/2023,1500,1500,1500
+Haryana,Kurukshetra,Shahabad,Cabbage,Cabbage,FAQ,7/28/2023,1500,2000,1700
+Haryana,Mahendragarh-Narnaul,Narnaul,Cabbage,Other,FAQ,7/28/2023,1500,2000,1800
+Haryana,Mewat,Punhana,Cabbage,Other,FAQ,7/28/2023,1000,1500,1300
+Haryana,Palwal,Hassanpur,Cabbage,Cabbage,FAQ,7/28/2023,1000,1000,1000
+Haryana,Sirsa,Sirsa,Cabbage,Cabbage,FAQ,7/28/2023,2000,2000,2000
+Haryana,Sonipat,Ganaur,Cabbage,Cabbage,FAQ,7/28/2023,3000,4000,3500
+Haryana,Yamuna Nagar,Radaur,Cabbage,Other,FAQ,7/28/2023,2000,2000,2000
+Himachal Pradesh,Chamba,Chamba,Cabbage,Other,FAQ,7/28/2023,800,1000,900
+Himachal Pradesh,Hamirpur,Hamirpur,Cabbage,Other,FAQ,7/28/2023,1600,2000,1800
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Cabbage,Other,FAQ,7/28/2023,1600,2000,1800
+Himachal Pradesh,Kangra,Kangra,Cabbage,Other,FAQ,7/28/2023,2000,2200,2100
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cabbage,Cabbage,FAQ,7/28/2023,2400,2800,2600
+Himachal Pradesh,Kangra,Palampur,Cabbage,Cabbage,FAQ,7/28/2023,2200,2500,2350
+Himachal Pradesh,Kullu,Bandrol,Cabbage,Other,FAQ,7/28/2023,500,700,600
+Himachal Pradesh,Kullu,Bhuntar,Cabbage,Other,FAQ,7/28/2023,800,1000,900
+Himachal Pradesh,Kullu,Kullu,Cabbage,Other,FAQ,7/28/2023,700,800,800
+Himachal Pradesh,Mandi,Mandi(Mandi),Cabbage,Cabbage,FAQ,7/28/2023,1000,1200,1100
+Himachal Pradesh,Shimla,Shimla,Cabbage,Other,FAQ,7/28/2023,1000,2000,1400
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Cabbage,Other,FAQ,7/28/2023,1500,2000,1600
+Himachal Pradesh,Sirmore,Nahan,Cabbage,Other,FAQ,7/28/2023,1800,2000,1900
+Himachal Pradesh,Sirmore,Paonta Sahib,Cabbage,Other,FAQ,7/28/2023,2000,3500,2750
+Himachal Pradesh,Solan,Solan,Cabbage,Other,FAQ,7/28/2023,2000,2500,2200
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,7/28/2023,1200,1600,1400
+Karnataka,Chamrajnagar,Chamaraj Nagar,Cabbage,Cabbage,FAQ,7/28/2023,600,1200,900
+Karnataka,Chikmagalur,Bagepalli,Cabbage,Cabbage,FAQ,7/28/2023,800,1100,1000
+Karnataka,Davangere,Honnali,Cabbage,Cabbage,Medium,7/28/2023,600,1200,1000
+Karnataka,Kolar,Bangarpet,Cabbage,Cabbage,FAQ,7/28/2023,500,700,600
+Karnataka,Kolar,Chintamani,Cabbage,Cabbage,FAQ,7/28/2023,200,300,250
+Karnataka,Shimoga,Shimoga,Cabbage,Cabbage,FAQ,7/28/2023,2800,3000,2900
+Kerala,Alappuzha,Chengannur,Cabbage,Other,FAQ,7/28/2023,3400,3800,3500
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,7/28/2023,3000,3500,3000
+Kerala,Kollam,Anchal,Cabbage,Other,FAQ,7/28/2023,5500,5700,5600
+Kerala,Kozhikode(Calicut),Kallachi,Cabbage,Cabbage,FAQ,7/28/2023,2400,2800,2600
+Kerala,Malappuram,Kondotty,Cabbage,Other,FAQ,7/28/2023,2000,2200,2100
+Kerala,Palakad,Pattambi,Cabbage,Other,FAQ,7/28/2023,1690,2000,1800
+Kerala,Thirssur,Chelakkara,Cabbage,Other,FAQ,7/28/2023,2400,2800,2500
+Madhya Pradesh,Dewas,Dewas(F&V),Cabbage,Other,FAQ,7/28/2023,500,1500,900
+Madhya Pradesh,Harda,Harda(F&V),Cabbage,Other,FAQ,7/28/2023,1000,1200,1100
+Madhya Pradesh,Khargone,Khargone,Cabbage,Cabbage,FAQ,7/28/2023,500,800,600
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,FAQ,7/28/2023,600,700,650
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,FAQ,7/28/2023,1000,1500,1250
+Maharashtra,Pune,Pune,Cabbage,Other,FAQ,7/28/2023,500,1500,1000
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,7/28/2023,700,1000,850
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,7/28/2023,700,1000,850
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,7/28/2023,1100,1500,1300
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Cabbage,Other,FAQ,7/28/2023,1000,1700,1400
+Maharashtra,Sangli,Islampur,Cabbage,Other,FAQ,7/28/2023,800,1200,1000
+Maharashtra,Thane,Kalyan,Cabbage,Other,FAQ,7/28/2023,1000,1500,1250
+Nagaland,Kiphire,Kipheri,Cabbage,Cabbage,FAQ,7/28/2023,3000,3200,3100
+Nagaland,Kohima,Jalukie,Cabbage,Cabbage,FAQ,7/28/2023,7000,7300,7200
+Nagaland,Kohima,Kohima,Cabbage,Cabbage,FAQ,7/28/2023,5500,6000,5800
+Odisha,Bargarh,Bargarh(Barapalli),Cabbage,Cabbage,FAQ,7/28/2023,2100,2300,2200
+Odisha,Bolangir,Kantabaji,Cabbage,Cabbage,FAQ,7/28/2023,2500,4000,3500
+Odisha,Boudh,Boudh,Cabbage,Other,FAQ,7/28/2023,3000,4000,4000
+Odisha,Boudh,Khunthabandha,Cabbage,Other,FAQ,7/28/2023,3000,4000,4000
+Odisha,Dhenkanal,Kamakhyanagar,Cabbage,Cabbage,FAQ,7/28/2023,4000,4500,4000
+Odisha,Mayurbhanja,Baripada,Cabbage,Cabbage,FAQ,7/28/2023,3500,4000,3800
+Odisha,Mayurbhanja,Saraskana,Cabbage,Cabbage,FAQ,7/28/2023,3500,4000,3800
+Odisha,Nayagarh,Sarankul,Cabbage,Other,FAQ,7/28/2023,1900,2200,2100
+Odisha,Rayagada,Rayagada,Cabbage,Cabbage,FAQ,7/28/2023,2400,2500,2500
+Punjab,Bhatinda,Bathinda,Cabbage,Other,FAQ,7/28/2023,700,1000,700
+Punjab,Bhatinda,Bhagta Bhai Ka,Cabbage,Other,FAQ,7/28/2023,2500,2500,2500
+Punjab,Fatehgarh,Bassi Pathana,Cabbage,Cabbage,FAQ,7/28/2023,1500,2000,1800
+Punjab,Fazilka,Jalalabad,Cabbage,Other,FAQ,7/28/2023,1000,1300,1100
+Punjab,Hoshiarpur,Dasuya,Cabbage,Other,FAQ,7/28/2023,1600,2000,1800
+Punjab,Hoshiarpur,Garh Shankar,Cabbage,Cabbage,FAQ,7/28/2023,700,1000,800
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cabbage,Other,FAQ,7/28/2023,1000,2600,1800
+Punjab,Ropar (Rupnagar),Morinda,Cabbage,Cabbage,FAQ,7/28/2023,1500,2000,1800
+Rajasthan,Bikaner,Bikaner(F&V),Cabbage,Other,FAQ,7/28/2023,2200,2400,2300
+Rajasthan,Jaipur,Jaipur(F&V),Cabbage,Cabbage,FAQ,7/28/2023,1800,2200,2000
+Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,7/28/2023,2500,3000,2800
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Cabbage,Other,FAQ,7/28/2023,800,1600,1200
+Telangana,Hyderabad,Bowenpally,Cabbage,Cabbage,FAQ,7/28/2023,600,1300,1100
+Telangana,Hyderabad,Gudimalkapur,Cabbage,Cabbage,FAQ,7/28/2023,800,1200,1000
+Telangana,Hyderabad,Mahboob Manison,Cabbage,Cabbage,FAQ,7/28/2023,1100,1300,1200
+Telangana,Karimnagar,Karimnagar,Cabbage,Cabbage,FAQ,7/28/2023,1400,1400,1400
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,7/28/2023,2000,2500,2000
+Telangana,Medak,Sangareddy,Cabbage,Cabbage,FAQ,7/28/2023,1200,1200,1200
+Telangana,Ranga Reddy,Chevella,Cabbage,Cabbage,FAQ,7/28/2023,2000,2000,2000
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cabbage,Cabbage,FAQ,7/28/2023,1600,1600,1600
+Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,7/28/2023,1800,2000,1900
+Tripura,Sepahijala,Bishramganj,Cabbage,Cabbage,FAQ,7/28/2023,6000,7000,7000
+Uttar Pradesh,Aligarh,Aligarh,Cabbage,Cabbage,FAQ,7/28/2023,1550,1650,1600
+Uttar Pradesh,Aligarh,Charra,Cabbage,Cabbage,FAQ,7/28/2023,1450,1550,1500
+Uttar Pradesh,Auraiya,Dibiapur,Cabbage,Cabbage,FAQ,7/28/2023,1000,1200,1100
+Uttar Pradesh,Badaun,Badayoun,Cabbage,Cabbage,FAQ,7/28/2023,1700,1840,1770
+Uttar Pradesh,Etah,Kasganj,Cabbage,Cabbage,FAQ,7/28/2023,2050,2500,2310
+Uttar Pradesh,Jalaun (Orai),Orai,Cabbage,Cabbage,FAQ,7/28/2023,1500,1700,1600
+Uttar Pradesh,Muzaffarnagar,Kadhle,Cabbage,Cabbage,FAQ,7/28/2023,450,500,475
+Uttar Pradesh,Muzaffarnagar,Kairana,Cabbage,Cabbage,FAQ,7/28/2023,1550,1600,1580
+Uttar Pradesh,Rampur,Rampur,Cabbage,Cabbage,FAQ,7/28/2023,1800,1900,1860
+Uttrakhand,Nanital,Haldwani,Cabbage,Other,FAQ,7/28/2023,1000,1500,1200
+Uttrakhand,UdhamSinghNagar,Rudrapur,Cabbage,Other,FAQ,7/28/2023,8000,9000,8200
+West Bengal,Burdwan,Durgapur,Cabbage,Other,FAQ,7/28/2023,2250,2500,2300
+West Bengal,Darjeeling,Darjeeling,Cabbage,Other,FAQ,7/28/2023,2800,3000,2900
+West Bengal,Darjeeling,Karsiyang(Matigara),Cabbage,Other,FAQ,7/28/2023,3500,4000,3800
+West Bengal,Nadia,Kalyani,Cabbage,Other,FAQ,7/28/2023,2900,3100,3000
+West Bengal,Nadia,Ranaghat,Cabbage,Other,FAQ,7/28/2023,2900,3050,3000
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Cabbage,Cabbage,FAQ,7/28/2023,3300,3500,3400
+Bihar,Kishanganj,Bahadurganj,Cabbage,Cabbage,FAQ,7/29/2023,2000,2200,2100
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,7/29/2023,1000,1500,1350
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cabbage,Cabbage,FAQ,7/29/2023,1250,1500,1400
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cabbage,Other,FAQ,7/29/2023,2000,2700,2350
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Cabbage,Cabbage,FAQ,7/29/2023,1200,2000,1500
+Gujarat,Junagarh,Talalagir,Cabbage,Other,FAQ,7/29/2023,2000,4000,3000
+Gujarat,Navsari,Bilimora,Cabbage,Other,FAQ,7/29/2023,1000,2000,1500
+Gujarat,Navsari,Navsari,Cabbage,Cabbage,FAQ,7/29/2023,1250,2000,1625
+Gujarat,Porbandar,Porbandar,Cabbage,Cabbage,FAQ,7/29/2023,2000,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cabbage,Cabbage,FAQ,7/29/2023,1000,2500,1750
+Gujarat,Rajkot,Morbi,Cabbage,Cabbage,FAQ,7/29/2023,2000,2500,2250
+Gujarat,Vadodara(Baroda),Padra,Cabbage,Other,FAQ,7/29/2023,2000,2250,2125
+Haryana,Ambala,Ambala Cantt.,Cabbage,Cabbage,FAQ,7/29/2023,600,1200,1000
+Haryana,Ambala,Barara,Cabbage,Other,FAQ,7/29/2023,700,900,700
+Haryana,Ambala,Naraingarh,Cabbage,Other,FAQ,7/29/2023,500,1500,1300
+Haryana,Ambala,Shahzadpur,Cabbage,Cabbage,FAQ,7/29/2023,1500,1500,1500
+Haryana,Bhiwani,Bhiwani,Cabbage,Other,FAQ,7/29/2023,2000,2800,2400
+Haryana,Faridabad,Ballabhgarh,Cabbage,Other,FAQ,7/29/2023,1200,1800,1500
+Haryana,Gurgaon,Pataudi,Cabbage,Other,FAQ,7/29/2023,1400,1600,1500
+Haryana,Karnal,"New Grain Market(main), Karnal",Cabbage,Other,FAQ,7/29/2023,400,1000,700
+Haryana,Kurukshetra,Ladwa,Cabbage,Cabbage,FAQ,7/29/2023,1500,1500,1500
+Haryana,Kurukshetra,Shahabad,Cabbage,Cabbage,FAQ,7/29/2023,2000,2200,2100
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Cabbage,Cabbage,FAQ,7/29/2023,500,1200,850
+Haryana,Mahendragarh-Narnaul,Narnaul,Cabbage,Other,FAQ,7/29/2023,1500,2000,2000
+Haryana,Rewari,Kosli,Cabbage,Other,FAQ,7/29/2023,2000,2000,2000
+Haryana,Sirsa,Sirsa,Cabbage,Cabbage,FAQ,7/29/2023,2000,2200,2100
+Haryana,Sonipat,Ganaur,Cabbage,Cabbage,FAQ,7/29/2023,3000,4000,3500
+Haryana,Yamuna Nagar,Jagadhri,Cabbage,Other,FAQ,7/29/2023,900,1000,1000
+Haryana,Yamuna Nagar,Radaur,Cabbage,Other,FAQ,7/29/2023,1800,2000,1900
+Himachal Pradesh,Solan,Solan,Cabbage,Other,FAQ,7/29/2023,2000,2500,2200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Cabbage,Cabbage,FAQ,7/29/2023,500,1200,900
+Kerala,Alappuzha,Aroor,Cabbage,Other,FAQ,7/29/2023,2200,2400,2300
+Kerala,Alappuzha,Chengannur,Cabbage,Other,FAQ,7/29/2023,3200,3500,3400
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,7/29/2023,3000,3600,3000
+Kerala,Alappuzha,Kayamkulam,Cabbage,Other,FAQ,7/29/2023,1700,1900,1800
+Kerala,Ernakulam,Aluva,Cabbage,Cabbage,FAQ,7/29/2023,2000,3000,2500
+Kerala,Ernakulam,Angamaly,Cabbage,Cabbage,FAQ,7/29/2023,3000,4000,3500
+Kerala,Ernakulam,Kothamangalam,Cabbage,Other,FAQ,7/29/2023,2500,3000,2800
+Kerala,Ernakulam,Perumbavoor,Cabbage,Cabbage,FAQ,7/29/2023,2400,3400,2800
+Kerala,Ernakulam,Piravam,Cabbage,Other,FAQ,7/29/2023,3500,5000,4000
+Kerala,Ernakulam,Thrippunithura,Cabbage,Cabbage,FAQ,7/29/2023,4000,5000,4200
+Kerala,Idukki,Thodupuzha,Cabbage,Other,FAQ,7/29/2023,2500,3000,3000
+Kerala,Idukki,Vandiperiyar,Cabbage,Other,FAQ,7/29/2023,1020,1020,1020
+Kerala,Kasargod,Kanjangadu,Cabbage,Cabbage,FAQ,7/29/2023,2400,3000,2600
+Kerala,Kasargod,Neeleswaram,Cabbage,Other,FAQ,7/29/2023,3200,3600,3400
+Kerala,Kollam,Kottarakkara,Cabbage,Other,FAQ,7/29/2023,5000,5000,5000
+Kerala,Kozhikode(Calicut),Kallachi,Cabbage,Cabbage,FAQ,7/29/2023,2400,2800,2600
+Kerala,Kozhikode(Calicut),Palayam,Cabbage,Other,FAQ,7/29/2023,1900,2100,2000
+Kerala,Kozhikode(Calicut),Perambra,Cabbage,Other,FAQ,7/29/2023,2500,2800,2600
+Kerala,Kozhikode(Calicut),Thamarassery,Cabbage,Other,FAQ,7/29/2023,1800,2400,1900
+Kerala,Malappuram,Kondotty,Cabbage,Other,FAQ,7/29/2023,2000,2200,2100
+Kerala,Malappuram,Manjeri,Cabbage,Other,FAQ,7/29/2023,2300,2400,2350
+Kerala,Thirssur,Chavakkad,Cabbage,Other,FAQ,7/29/2023,2000,3200,3000
+Kerala,Thirssur,Thrissur,Cabbage,Cabbage,FAQ,7/29/2023,1400,1500,1400
+Kerala,Thiruvananthapuram,Aralamoodu,Cabbage,Cabbage,FAQ,7/29/2023,3000,3000,3000
+Kerala,Thiruvananthapuram,Neyyatinkara,Cabbage,Other,FAQ,7/29/2023,3300,4000,3600
+Madhya Pradesh,Khargone,Khargone,Cabbage,Cabbage,FAQ,7/29/2023,500,1000,800
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,FAQ,7/29/2023,500,500,500
+Maharashtra,Ahmednagar,Rahuri,Cabbage,Other,FAQ,7/29/2023,500,1500,1000
+Maharashtra,Kolhapur,Kolhapur,Cabbage,Other,FAQ,7/29/2023,600,1500,1000
+Maharashtra,Nashik,Nasik,Cabbage,Other,FAQ,7/29/2023,835,1835,1170
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,FAQ,7/29/2023,1000,1400,1200
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,7/29/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,7/29/2023,500,1000,750
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,7/29/2023,1500,1500,1500
+Maharashtra,Satara,Vai,Cabbage,Other,FAQ,7/29/2023,1000,1200,1100
+Meghalaya,West Jaintia Hills,Jowai,Cabbage,Cabbage,FAQ,7/29/2023,3000,4000,3500
+Nagaland,Kohima,Jalukie,Cabbage,Cabbage,FAQ,7/29/2023,10800,11000,10900
+Odisha,Bargarh,Bargarh(Barapalli),Cabbage,Cabbage,FAQ,7/29/2023,2200,2400,2300
+Odisha,Gajapati,Parlakhemundi,Cabbage,Other,FAQ,7/29/2023,1900,2000,2000
+Odisha,Sundergarh,Bonai,Cabbage,Other,FAQ,7/29/2023,4000,5000,5000
+Odisha,Sundergarh,Panposh,Cabbage,Other,FAQ,7/29/2023,2200,2600,2500
+Punjab,Bhatinda,Bathinda,Cabbage,Other,FAQ,7/29/2023,700,1000,700
+Punjab,Fazilka,Jalalabad,Cabbage,Other,FAQ,7/29/2023,1500,1600,1500
+Punjab,Ropar (Rupnagar),Morinda,Cabbage,Cabbage,FAQ,7/29/2023,1500,2000,1800
+Punjab,Tarntaran,Naushera Pannuan,Cabbage,Cabbage,FAQ,7/29/2023,1800,2000,1900
+Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,7/29/2023,2500,3000,2800
+Telangana,Hyderabad,Bowenpally,Cabbage,Cabbage,FAQ,7/29/2023,600,1500,1000
+Telangana,Hyderabad,Gudimalkapur,Cabbage,Cabbage,FAQ,7/29/2023,1000,1500,1100
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,7/29/2023,2000,3500,2500
+Telangana,Medak,Vantamamidi,Cabbage,Cabbage,FAQ,7/29/2023,500,800,650
+Telangana,Ranga Reddy,Chevella,Cabbage,Cabbage,FAQ,7/29/2023,2000,2000,2000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cabbage,Cabbage,FAQ,7/29/2023,1800,1800,1800
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cabbage,Cabbage,FAQ,7/29/2023,1800,1800,1800
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cabbage,Cabbage,FAQ,7/29/2023,1800,1800,1800
+Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,7/29/2023,1200,1400,1300
+Uttar Pradesh,Aligarh,Charra,Cabbage,Cabbage,FAQ,7/29/2023,1500,1600,1550
+Uttar Pradesh,Auraiya,Achalda,Cabbage,Cabbage,FAQ,7/29/2023,2300,2400,2350
+Uttar Pradesh,Barabanki,Barabanki,Cabbage,Cabbage,FAQ,7/29/2023,2400,2650,2450
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cabbage,Cabbage,FAQ,7/29/2023,1420,1500,1450
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Cabbage,Cabbage,FAQ,7/29/2023,1450,1560,1490
+West Bengal,Darjeeling,Karsiyang(Matigara),Cabbage,Other,FAQ,7/29/2023,3500,4000,3800
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,7/30/2023,2100,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cabbage,Cabbage,FAQ,7/30/2023,1000,3000,2000
+Himachal Pradesh,Kullu,Bhuntar,Cabbage,Other,FAQ,7/30/2023,600,800,700
+Himachal Pradesh,Mandi,Mandi(Takoli),Cabbage,Other,FAQ,7/30/2023,600,900,800
+Kerala,Thirssur,Wadakkanchery,Cabbage,Cabbage,FAQ,7/30/2023,3200,3500,3500
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,FAQ,7/30/2023,500,1000,700
+Maharashtra,Kolhapur,Kolhapur,Cabbage,Other,FAQ,7/30/2023,600,1500,1000
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,FAQ,7/30/2023,1000,1500,1250
+Maharashtra,Pune,Pune,Cabbage,Other,FAQ,7/30/2023,600,1400,1000
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,7/30/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,7/30/2023,700,1000,850
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,7/30/2023,1600,2000,1800
+NCT of Delhi,Delhi,Keshopur,Cabbage,Cabbage,FAQ,7/30/2023,800,2400,1600
+Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,7/30/2023,2500,3000,2800
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cabbage,Cabbage,FAQ,7/30/2023,1700,1700,1700
+Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,7/30/2023,1800,2000,1900
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cabbage,Cabbage,FAQ,7/30/2023,1420,1500,1450
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Cabbage,Cabbage,FAQ,7/30/2023,1430,1560,1490
+Uttrakhand,Nanital,Haldwani,Cabbage,Other,FAQ,7/30/2023,800,2000,1500
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,7/31/2023,1800,2300,2000
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cabbage,Cabbage,FAQ,7/31/2023,4500,5000,4800
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cabbage,Other,FAQ,7/31/2023,2000,2750,2375
+Gujarat,Dahod,Dahod(Veg. Market),Cabbage,Cabbage,FAQ,7/31/2023,1000,2200,1500
+Gujarat,Junagarh,Talalagir,Cabbage,Other,FAQ,7/31/2023,1500,4000,2500
+Gujarat,Morbi,Vankaner(Sub yard),Cabbage,Other,FAQ,7/31/2023,4000,4500,4250
+Gujarat,Porbandar,Porbandar,Cabbage,Cabbage,FAQ,7/31/2023,2000,3000,2500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cabbage,Cabbage,FAQ,7/31/2023,2000,3500,2750
+Gujarat,Surat,Surat,Cabbage,Other,FAQ,7/31/2023,800,1800,1300
+Gujarat,Surendranagar,Vadhvan,Cabbage,Cabbage,FAQ,7/31/2023,1500,2500,2000
+Gujarat,Vadodara(Baroda),Padra,Cabbage,Other,FAQ,7/31/2023,1250,1500,1400
+Haryana,Gurgaon,Gurgaon,Cabbage,Other,FAQ,7/31/2023,800,1200,1000
+Haryana,Hissar,Hansi,Cabbage,Other,FAQ,7/31/2023,1500,1500,1500
+Haryana,Kurukshetra,Shahabad,Cabbage,Cabbage,FAQ,7/31/2023,1500,2000,1700
+Himachal Pradesh,Bilaspur,Bilaspur,Cabbage,Cabbage,FAQ,7/31/2023,1800,2200,2000
+Himachal Pradesh,Hamirpur,Hamirpur,Cabbage,Other,FAQ,7/31/2023,2500,3000,2750
+Himachal Pradesh,Kangra,Kangra,Cabbage,Other,FAQ,7/31/2023,2200,2400,2300
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cabbage,Cabbage,FAQ,7/31/2023,2400,2800,2600
+Himachal Pradesh,Kangra,Palampur,Cabbage,Cabbage,FAQ,7/31/2023,2200,2500,2350
+Himachal Pradesh,Kullu,Bhuntar,Cabbage,Other,FAQ,7/31/2023,600,800,700
+Himachal Pradesh,Kullu,Kullu,Cabbage,Other,FAQ,7/31/2023,700,800,700
+Himachal Pradesh,Mandi,Mandi(Takoli),Cabbage,Other,FAQ,7/31/2023,600,1200,800
+Himachal Pradesh,Shimla,Shimla,Cabbage,Other,FAQ,7/31/2023,2000,2500,2100
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Cabbage,Other,FAQ,7/31/2023,2000,2500,2200
+Jammu and Kashmir,Kathua,Kathua,Cabbage,Other,FAQ,7/31/2023,2000,2200,2100
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,7/31/2023,1000,1600,1200
+Karnataka,Chamrajnagar,Chamaraj Nagar,Cabbage,Cabbage,FAQ,7/31/2023,800,1400,1100
+Karnataka,Chamrajnagar,Gundlupet,Cabbage,Cabbage,FAQ,7/31/2023,1200,1200,1200
+Karnataka,Chikmagalur,Chikkamagalore,Cabbage,Cabbage,FAQ,7/31/2023,834,834,834
+Karnataka,Davangere,Honnali,Cabbage,Cabbage,Medium,7/31/2023,600,1000,800
+Kerala,Alappuzha,Aroor,Cabbage,Other,FAQ,7/31/2023,2800,3000,2900
+Kerala,Alappuzha,Chengannur,Cabbage,Other,FAQ,7/31/2023,2900,3200,3000
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,7/31/2023,3000,3500,3000
+Kerala,Alappuzha,Kayamkulam,Cabbage,Other,FAQ,7/31/2023,1300,1500,1400
+Kerala,Alappuzha,Mannar,Cabbage,Other,FAQ,7/31/2023,3000,3200,3100
+Kerala,Ernakulam,Angamaly,Cabbage,Cabbage,FAQ,7/31/2023,3600,4600,4100
+Kerala,Ernakulam,Moovattupuzha,Cabbage,Cabbage,FAQ,7/31/2023,2700,2900,2800
+Kerala,Ernakulam,Perumbavoor,Cabbage,Cabbage,FAQ,7/31/2023,2500,3500,3000
+Kerala,Ernakulam,Piravam,Cabbage,Other,FAQ,7/31/2023,3500,4500,4000
+Kerala,Ernakulam,Thrippunithura,Cabbage,Cabbage,FAQ,7/31/2023,3500,4400,3700
+Kerala,Idukki,Adimali,Cabbage,Cabbage,FAQ,7/31/2023,4000,5000,4000
+Kerala,Idukki,Thodupuzha,Cabbage,Other,FAQ,7/31/2023,2500,3000,3000
+Kerala,Kasargod,Kanjangadu,Cabbage,Cabbage,FAQ,7/31/2023,2600,3200,2800
+Kerala,Kollam,Kottarakkara,Cabbage,Other,FAQ,7/31/2023,5000,5000,5000
+Kerala,Kottayam,Ettumanoor,Cabbage,Other,FAQ,7/31/2023,3000,3400,3200
+Kerala,Kottayam,Pala,Cabbage,Cabbage,FAQ,7/31/2023,2200,3200,2500
+Kerala,Kottayam,Thalayolaparambu,Cabbage,Cabbage,FAQ,7/31/2023,3000,3500,3300
+Kerala,Kozhikode(Calicut),Perambra,Cabbage,Other,FAQ,7/31/2023,2500,3000,2600
+Kerala,Malappuram,Kottakkal,Cabbage,Other,FAQ,7/31/2023,2700,2800,2750
+Kerala,Malappuram,Manjeri,Cabbage,Other,FAQ,7/31/2023,2000,2100,2050
+Kerala,Malappuram,Thirurrangadi,Cabbage,Other,FAQ,7/31/2023,2100,2400,2400
+Kerala,Palakad,Koduvayoor,Cabbage,Other,FAQ,7/31/2023,1600,2500,2000
+Kerala,Palakad,Palakkad,Cabbage,Cabbage,FAQ,7/31/2023,2000,2600,2400
+Kerala,Palakad,Pattambi,Cabbage,Other,FAQ,7/31/2023,2000,2400,2200
+Kerala,Thirssur,Chelakkara,Cabbage,Other,FAQ,7/31/2023,2500,2800,2600
+Kerala,Thirssur,Kodungalloor,Cabbage,Other,FAQ,7/31/2023,2500,2500,2500
+Kerala,Thiruvananthapuram,Aralamoodu,Cabbage,Cabbage,FAQ,7/31/2023,3500,3500,3500
+Kerala,Thiruvananthapuram,Kattakada,Cabbage,Other,FAQ,7/31/2023,4000,4500,4500
+Kerala,Thiruvananthapuram,Neyyatinkara,Cabbage,Other,FAQ,7/31/2023,3500,4000,3800
+Kerala,Thiruvananthapuram,Vamanapuram,Cabbage,Cabbage,FAQ,7/31/2023,4000,4500,4200
+Madhya Pradesh,Badwani,Badwani,Cabbage,Cabbage,FAQ,7/31/2023,1200,1200,1200
+Madhya Pradesh,Dewas,Dewas(F&V),Cabbage,Other,FAQ,7/31/2023,500,1600,600
+Madhya Pradesh,Khargone,Badwaha,Cabbage,Cabbage,FAQ,7/31/2023,1000,1650,1100
+Madhya Pradesh,Khargone,Khargone,Cabbage,Cabbage,FAQ,7/31/2023,500,800,600
+Maharashtra,Ahmednagar,Shrirampur,Cabbage,Other,FAQ,7/31/2023,600,700,650
+Maharashtra,Pune,Pune,Cabbage,Other,FAQ,7/31/2023,800,1500,1150
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,7/31/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,7/31/2023,800,1000,900
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,7/31/2023,1500,1700,1600
+Maharashtra,Satara,Karad,Cabbage,Other,FAQ,7/31/2023,1000,1200,1200
+Maharashtra,Sholapur,Akluj,Cabbage,Other,FAQ,7/31/2023,700,1100,1000
+Meghalaya,East Khasi Hills,Shillong,Cabbage,Cabbage,FAQ,7/31/2023,1800,2000,1900
+Nagaland,Kohima,Jalukie,Cabbage,Cabbage,FAQ,7/31/2023,10500,10700,10600
+Nagaland,Kohima,Kohima,Cabbage,Cabbage,FAQ,7/31/2023,6000,6200,6100
+Odisha,Bargarh,Attabira,Cabbage,Cabbage,FAQ,7/31/2023,1600,2000,1750
+Odisha,Bargarh,Bargarh(Barapalli),Cabbage,Cabbage,FAQ,7/31/2023,2800,3000,2900
+Odisha,Bhadrak,Sahidngar,Cabbage,Cabbage,FAQ,7/31/2023,2000,3000,2500
+Odisha,Boudh,Boudh,Cabbage,Other,FAQ,7/31/2023,3500,4000,4000
+Odisha,Boudh,Khunthabandha,Cabbage,Other,FAQ,7/31/2023,3000,3500,3500
+Odisha,Gajapati,Parlakhemundi,Cabbage,Other,FAQ,7/31/2023,1900,2000,2000
+Odisha,Ganjam,Bhanjanagar,Cabbage,Cabbage,FAQ,7/31/2023,2600,2800,2700
+Odisha,Koraput,Koraput,Cabbage,Other,FAQ,7/31/2023,2500,2700,2600
+Odisha,Koraput,Koraput(Semilguda),Cabbage,Other,FAQ,7/31/2023,2500,2700,2600
+Odisha,Mayurbhanja,Baripada,Cabbage,Cabbage,FAQ,7/31/2023,3000,3500,3200
+Odisha,Nayagarh,Bahadajholla,Cabbage,Other,FAQ,7/31/2023,2000,2400,2200
+Odisha,Rayagada,Rayagada,Cabbage,Cabbage,FAQ,7/31/2023,1700,1800,1800
+Odisha,Sundergarh,Panposh,Cabbage,Other,FAQ,7/31/2023,2400,2800,2700
+Punjab,Barnala,Barnala,Cabbage,Other,FAQ,7/31/2023,1000,2600,1800
+Punjab,Bhatinda,Bhagta Bhai Ka,Cabbage,Other,FAQ,7/31/2023,2500,2500,2500
+Punjab,Fatehgarh,Bassi Pathana,Cabbage,Cabbage,FAQ,7/31/2023,1700,1900,1800
+Punjab,Hoshiarpur,Garh Shankar,Cabbage,Cabbage,FAQ,7/31/2023,800,1200,1000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cabbage,Other,FAQ,7/31/2023,1200,3000,2100
+Punjab,Mohali,Kurali,Cabbage,Other,FAQ,7/31/2023,1500,1600,1550
+Punjab,Ropar (Rupnagar),Morinda,Cabbage,Cabbage,FAQ,7/31/2023,1000,1500,1200
+Punjab,Tarntaran,Naushera Pannuan,Cabbage,Cabbage,FAQ,7/31/2023,1800,2000,1900
+Rajasthan,Jalore,Jalore,Cabbage,Other,FAQ,7/31/2023,2600,3000,2800
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Cabbage,Other,FAQ,7/31/2023,1000,1500,1300
+Telangana,Karimnagar,Karimnagar,Cabbage,Cabbage,FAQ,7/31/2023,1600,1600,1600
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,7/31/2023,2000,2500,2000
+Telangana,Medak,Sangareddy,Cabbage,Cabbage,FAQ,7/31/2023,1500,1500,1500
+Telangana,Ranga Reddy,Chevella,Cabbage,Cabbage,FAQ,7/31/2023,2000,2000,2000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cabbage,Cabbage,FAQ,7/31/2023,1700,1700,1700
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cabbage,Cabbage,FAQ,7/31/2023,1700,1700,1700
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cabbage,Cabbage,FAQ,7/31/2023,1700,1700,1700
+Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,7/31/2023,1800,2000,1900
+Uttar Pradesh,Aligarh,Charra,Cabbage,Cabbage,FAQ,7/31/2023,1550,1650,1600
+Uttar Pradesh,Auraiya,Achalda,Cabbage,Cabbage,FAQ,7/31/2023,2300,2400,2360
+Uttar Pradesh,Badaun,Badayoun,Cabbage,Cabbage,FAQ,7/31/2023,1730,1840,1780
+Uttar Pradesh,Bulandshahar,Sikarpur,Cabbage,Cabbage,FAQ,7/31/2023,1600,1800,1700
+Uttar Pradesh,Ghaziabad,Noida,Cabbage,Cabbage,FAQ,7/31/2023,1440,1550,1490
+Uttar Pradesh,Jalaun (Orai),Orai,Cabbage,Cabbage,FAQ,7/31/2023,1500,1700,1600
+Uttar Pradesh,Mathura,Mathura,Cabbage,Cabbage,FAQ,7/31/2023,1400,1800,1600
+Uttar Pradesh,Muzaffarnagar,Kadhle,Cabbage,Cabbage,FAQ,7/31/2023,450,500,475
+Uttar Pradesh,Muzaffarnagar,Kairana,Cabbage,Cabbage,FAQ,7/31/2023,1950,2000,1980
+Uttrakhand,Nanital,Haldwani,Cabbage,Other,FAQ,7/31/2023,1000,1500,1200
+West Bengal,Burdwan,Durgapur,Cabbage,Other,FAQ,7/31/2023,2500,2750,2600
+West Bengal,Darjeeling,Kalimpong,Cabbage,Cabbage,FAQ,7/31/2023,4000,5000,4500
+West Bengal,Nadia,Kalyani,Cabbage,Other,FAQ,7/31/2023,2900,3100,3000
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Cabbage,Cabbage,FAQ,7/31/2023,4300,4500,4400
+Chattisgarh,Durg,Durg,Cabbage,Cabbage,FAQ,8/1/2023,1600,1800,1700
+Gujarat,Ahmedabad,Ahmedabad,Cabbage,Other,FAQ,8/1/2023,1500,2500,2150
+Gujarat,Amreli,Dhari,Cabbage,Cabbage,FAQ,8/1/2023,2000,2700,2400
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cabbage,Cabbage,FAQ,8/1/2023,1500,2000,1800
+Gujarat,Bharuch,Ankleshwar,Cabbage,Cabbage,FAQ,8/1/2023,1000,1800,1200
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Cabbage,Cabbage,FAQ,8/1/2023,1200,1500,1350
+Gujarat,Junagarh,Talalagir,Cabbage,Other,FAQ,8/1/2023,1000,3000,2000
+Gujarat,Kheda,Kapadvanj,Cabbage,Other,FAQ,8/1/2023,2300,2400,2350
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Cabbage,Cabbage,FAQ,8/1/2023,2200,3250,2500
+Gujarat,Morbi,Vankaner(Sub yard),Cabbage,Other,FAQ,8/1/2023,2000,2500,2250
+Gujarat,Navsari,Navsari,Cabbage,Cabbage,FAQ,8/1/2023,1500,1750,1625
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cabbage,Cabbage,FAQ,8/1/2023,2000,3000,2500
+Gujarat,Rajkot,Morbi,Cabbage,Cabbage,FAQ,8/1/2023,1800,2200,2000
+Gujarat,Surat,Bardoli(Katod),Cabbage,Other,FAQ,8/1/2023,2500,3600,3250
+Gujarat,Surat,Surat,Cabbage,Other,FAQ,8/1/2023,700,2000,1350
+Haryana,Ambala,Shahzadpur,Cabbage,Cabbage,FAQ,8/1/2023,2000,2000,2000
+Haryana,Jhajar,Bahadurgarh,Cabbage,Other,FAQ,8/1/2023,800,1800,1500
+Haryana,Kurukshetra,Pehowa,Cabbage,Other,FAQ,8/1/2023,1500,2300,1900
+Haryana,Kurukshetra,Shahabad,Cabbage,Cabbage,FAQ,8/1/2023,1500,2000,1700
+Haryana,Kurukshetra,Thanesar,Cabbage,Cabbage,FAQ,8/1/2023,2000,3000,2500
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Cabbage,Cabbage,FAQ,8/1/2023,1500,1500,1500
+Haryana,Rohtak,Rohtak,Cabbage,Other,FAQ,8/1/2023,500,700,600
+Haryana,Yamuna Nagar,Jagadhri,Cabbage,Other,FAQ,8/1/2023,1200,1600,1500
+Haryana,Yamuna Nagar,Radaur,Cabbage,Other,FAQ,8/1/2023,2000,2200,2100
+Haryana,Yamuna Nagar,Sadhaura,Cabbage,Cabbage,FAQ,8/1/2023,1600,1900,1800
+Himachal Pradesh,Chamba,Chamba,Cabbage,Other,FAQ,8/1/2023,1200,1400,1300
+Himachal Pradesh,Hamirpur,Hamirpur,Cabbage,Other,FAQ,8/1/2023,2500,3000,2750
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cabbage,Cabbage,FAQ,8/1/2023,2400,2800,2600
+Himachal Pradesh,Kangra,Palampur,Cabbage,Cabbage,FAQ,8/1/2023,2200,2500,2350
+Himachal Pradesh,Kullu,Bhuntar,Cabbage,Other,FAQ,8/1/2023,500,1000,700
+Himachal Pradesh,Mandi,Mandi(Mandi),Cabbage,Cabbage,FAQ,8/1/2023,1200,1800,1500
+Himachal Pradesh,Mandi,Mandi(Takoli),Cabbage,Other,FAQ,8/1/2023,1000,1800,1500
+Himachal Pradesh,Shimla,Shimla,Cabbage,Other,FAQ,8/1/2023,1600,2000,1700
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Cabbage,Other,FAQ,8/1/2023,3000,3500,3200
+Himachal Pradesh,Sirmore,Paonta Sahib,Cabbage,Other,FAQ,8/1/2023,1500,2500,2000
+Himachal Pradesh,Una,Una,Cabbage,Cabbage,FAQ,8/1/2023,2000,3000,2500
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Cabbage,Other,FAQ,8/1/2023,1600,2000,1800
+Jammu and Kashmir,Kathua,Kathua,Cabbage,Other,FAQ,8/1/2023,2000,2400,2200
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cabbage,Cabbage,FAQ,8/1/2023,1000,1200,1100
+Karnataka,Bangalore,Ramanagara,Cabbage,Cabbage,FAQ,8/1/2023,1000,1300,1200
+Karnataka,Belgaum,Belgaum,Cabbage,Cabbage,FAQ,8/1/2023,2500,3000,2800
+Karnataka,Bellary,Hospet,Cabbage,Cabbage,FAQ,8/1/2023,600,800,700
+Karnataka,Chamrajnagar,Chamaraj Nagar,Cabbage,Cabbage,FAQ,8/1/2023,600,1200,900
+Karnataka,Chikmagalur,Bagepalli,Cabbage,Cabbage,FAQ,8/1/2023,800,1200,1000
+Karnataka,Davangere,Davangere,Cabbage,Cabbage,FAQ,8/1/2023,500,700,500
+Karnataka,Kolar,Chintamani,Cabbage,Cabbage,FAQ,8/1/2023,200,300,250
+Karnataka,Kolar,Kolar,Cabbage,Cabbage,FAQ,8/1/2023,600,1000,800
+Karnataka,Shimoga,Shimoga,Cabbage,Cabbage,FAQ,8/1/2023,2800,3000,2900
+Kerala,Alappuzha,Chengannur,Cabbage,Other,FAQ,8/1/2023,3000,3300,3100
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,8/1/2023,3000,3500,3000
+Kerala,Alappuzha,Kayamkulam,Cabbage,Other,FAQ,8/1/2023,1200,1400,1300
+Kerala,Ernakulam,Angamaly,Cabbage,Cabbage,FAQ,8/1/2023,3600,4600,4100
+Kerala,Ernakulam,Perumbavoor,Cabbage,Cabbage,FAQ,8/1/2023,2500,3500,3000
+Kerala,Ernakulam,Thrippunithura,Cabbage,Cabbage,FAQ,8/1/2023,4000,5000,4200
+Kerala,Idukki,Adimali,Cabbage,Cabbage,FAQ,8/1/2023,4000,5000,4000
+Kerala,Idukki,Thodupuzha,Cabbage,Other,FAQ,8/1/2023,2500,3000,3000
+Kerala,Idukki,Vandiperiyar,Cabbage,Other,FAQ,8/1/2023,1050,1050,1050
+Kerala,Kasargod,Kanjangadu,Cabbage,Cabbage,FAQ,8/1/2023,2600,3200,2800
+Kerala,Kasargod,Neeleswaram,Cabbage,Other,FAQ,8/1/2023,3200,3600,3400
+Kerala,Kollam,Chathanoor,Cabbage,Other,FAQ,8/1/2023,3800,4200,4000
+Kerala,Kollam,Kottarakkara,Cabbage,Other,FAQ,8/1/2023,5000,5000,5000
+Kerala,Kollam,Punalur,Cabbage,Cabbage,FAQ,8/1/2023,3600,4000,3800
+Kerala,Kottayam,Kottayam,Cabbage,Cabbage,FAQ,8/1/2023,2500,2900,2700
+Kerala,Kottayam,Thalayolaparambu,Cabbage,Cabbage,FAQ,8/1/2023,3000,3500,3300
+Kerala,Kozhikode(Calicut),Kallachi,Cabbage,Cabbage,FAQ,8/1/2023,2400,2800,2600
+Kerala,Kozhikode(Calicut),Palayam,Cabbage,Other,FAQ,8/1/2023,1800,2000,1900
+Kerala,Kozhikode(Calicut),Thamarassery,Cabbage,Other,FAQ,8/1/2023,1800,2400,2000
+Kerala,Malappuram,Kottakkal,Cabbage,Other,FAQ,8/1/2023,2700,2800,2750
+Kerala,Malappuram,Manjeri,Cabbage,Other,FAQ,8/1/2023,2000,2100,2050
+Kerala,Palakad,Palakkad,Cabbage,Cabbage,FAQ,8/1/2023,2200,2600,2500
+Kerala,Palakad,Pattambi,Cabbage,Other,FAQ,8/1/2023,2000,2400,2200
+Kerala,Thirssur,Chavakkad,Cabbage,Other,FAQ,8/1/2023,2000,3000,3000
+Kerala,Thirssur,Chelakkara,Cabbage,Other,FAQ,8/1/2023,2400,2800,2500
+Kerala,Thirssur,Thrissur,Cabbage,Cabbage,FAQ,8/1/2023,1500,1600,1500
+Kerala,Thiruvananthapuram,Aralamoodu,Cabbage,Cabbage,FAQ,8/1/2023,3500,3500,3500
+Kerala,Thiruvananthapuram,Neyyatinkara,Cabbage,Other,FAQ,8/1/2023,3500,4000,3800
+Madhya Pradesh,Dewas,Dewas(F&V),Cabbage,Other,FAQ,8/1/2023,400,1500,600
+Madhya Pradesh,Dewas,Haatpipliya,Cabbage,Cabbage,FAQ,8/1/2023,1200,1600,1400
+Madhya Pradesh,Khargone,Khargone,Cabbage,Cabbage,FAQ,8/1/2023,500,1000,800
+Madhya Pradesh,Mandsaur,Mandsaur(F&V),Cabbage,Other,FAQ,8/1/2023,1450,2010,1880
+Maharashtra,Ahmednagar,Ahmednagar,Cabbage,Other,FAQ,8/1/2023,400,1500,950
+Maharashtra,Ahmednagar,Rahata,Cabbage,Other,FAQ,8/1/2023,500,1500,1000
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cabbage,Other,FAQ,8/1/2023,1000,1400,1200
+Maharashtra,Aurangabad,Aurangabad,Cabbage,Other,FAQ,8/1/2023,1000,1400,1200
+Maharashtra,Jalgaon,Bhusaval,Cabbage,Other,FAQ,8/1/2023,1200,1800,1400
+Maharashtra,Jalgaon,Jalgaon,Cabbage,Other,FAQ,8/1/2023,800,1000,900
+Maharashtra,Kolhapur,Kolhapur,Cabbage,Other,FAQ,8/1/2023,600,1700,1000
+Maharashtra,Mumbai,Mumbai,Cabbage,Other,FAQ,8/1/2023,1200,2000,1600
+Maharashtra,Nagpur,Kamthi,Cabbage,Other,FAQ,8/1/2023,1500,2500,2000
+Maharashtra,Nagpur,Nagpur,Cabbage,Other,FAQ,8/1/2023,1200,1400,1350
+Maharashtra,Nandurbar,Navapur,Cabbage,Other,FAQ,8/1/2023,700,1000,792
+Maharashtra,Pune,Khed(Chakan),Cabbage,Other,FAQ,8/1/2023,800,1400,1100
+Maharashtra,Pune,Pune,Cabbage,Other,FAQ,8/1/2023,600,2000,1300
+Maharashtra,Pune,Pune(Khadiki),Cabbage,Other,FAQ,8/1/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Cabbage,Other,FAQ,8/1/2023,800,1000,900
+Maharashtra,Pune,Pune(Pimpri),Cabbage,Other,FAQ,8/1/2023,1200,1700,1450
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Cabbage,Other,FAQ,8/1/2023,1000,1700,1400
+Maharashtra,Satara,Karad,Cabbage,Other,FAQ,8/1/2023,1000,1400,1400
+Maharashtra,Satara,Satara,Cabbage,Other,FAQ,8/1/2023,1000,1500,1250
+Maharashtra,Sholapur,Solapur,Cabbage,Other,FAQ,8/1/2023,700,1000,800
+Maharashtra,Thane,Kalyan,Cabbage,Other,FAQ,8/1/2023,1200,1800,1500
+Meghalaya,East Khasi Hills,Shillong,Cabbage,Cabbage,FAQ,8/1/2023,1800,2200,2000
+Meghalaya,East Khasi Hills,Sohra,Cabbage,Other,FAQ,8/1/2023,22000,25000,24000
+Meghalaya,West Jaintia Hills,Jowai,Cabbage,Cabbage,FAQ,8/1/2023,2500,3500,3000
+Nagaland,Kiphire,Kipheri,Cabbage,Cabbage,FAQ,8/1/2023,3340,3510,3420
+Nagaland,Kohima,Jalukie,Cabbage,Cabbage,FAQ,8/1/2023,10500,10700,10600
+NCT of Delhi,Delhi,Azadpur,Cabbage,Cabbage,FAQ,8/1/2023,800,2400,1667
+Odisha,Bargarh,Bargarh(Barapalli),Cabbage,Cabbage,FAQ,8/1/2023,2100,2300,2200
+Odisha,Bolangir,Bolangir,Cabbage,Other,FAQ,8/1/2023,3800,4000,3800
+Odisha,Bolangir,Tusura,Cabbage,Other,FAQ,8/1/2023,3800,4000,3800
+Odisha,Boudh,Boudh,Cabbage,Other,FAQ,8/1/2023,3500,4000,4000
+Odisha,Boudh,Khunthabandha,Cabbage,Other,FAQ,8/1/2023,3000,3500,3500
+Odisha,Koraput,Koraput(Semilguda),Cabbage,Other,FAQ,8/1/2023,3100,3300,3200
+Odisha,Mayurbhanja,Baripada,Cabbage,Cabbage,FAQ,8/1/2023,3500,4000,3800
+Odisha,Nayagarh,Bahadajholla,Cabbage,Other,FAQ,8/1/2023,2000,2400,2200
+Odisha,Nayagarh,Sarankul,Cabbage,Other,FAQ,8/1/2023,2000,2400,2200
+Odisha,Rayagada,Rayagada,Cabbage,Cabbage,FAQ,8/1/2023,1700,1800,1800
+Odisha,Sundergarh,Bonai,Cabbage,Other,FAQ,8/1/2023,12000,12000,12000
+Odisha,Sundergarh,Panposh,Cabbage,Other,FAQ,8/1/2023,1200,1600,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Cabbage,Cabbage,FAQ,8/1/2023,900,1600,1200
+Punjab,Bhatinda,Bhagta Bhai Ka,Cabbage,Other,FAQ,8/1/2023,2100,2100,2100
+Punjab,Faridkot,Faridkot,Cabbage,Cabbage,FAQ,8/1/2023,2000,2000,2000
+Punjab,Fatehgarh,Bassi Pathana,Cabbage,Cabbage,FAQ,8/1/2023,1500,1800,1600
+Punjab,Fazilka,Jalalabad,Cabbage,Other,FAQ,8/1/2023,1500,1500,1500
+Punjab,Hoshiarpur,Dasuya,Cabbage,Other,FAQ,8/1/2023,1200,1500,1350
+Punjab,Hoshiarpur,Garh Shankar,Cabbage,Cabbage,FAQ,8/1/2023,800,1000,900
+Punjab,Hoshiarpur,Mukerian(Talwara),Cabbage,Cabbage,FAQ,8/1/2023,2500,3500,3000
+Punjab,Hoshiarpur,Tanda Urmur,Cabbage,Other,FAQ,8/1/2023,1500,2000,1800
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cabbage,Other,FAQ,8/1/2023,1400,2500,1900
+Punjab,Moga,Baghapurana,Cabbage,Cabbage,FAQ,8/1/2023,1000,1400,1200
+Punjab,Mohali,Lalru,Cabbage,Other,FAQ,8/1/2023,1400,1400,1400
+Punjab,Muktsar,Giddarbaha,Cabbage,Cabbage,FAQ,8/1/2023,4500,5000,4800
+Punjab,Pathankot,Pathankot,Cabbage,Cabbage,FAQ,8/1/2023,1300,1500,1500
+Punjab,Ropar (Rupnagar),Morinda,Cabbage,Cabbage,FAQ,8/1/2023,1000,1500,1200
+Punjab,Sangrur,Bhawanigarh,Cabbage,Other,FAQ,8/1/2023,2000,2000,2000
+Punjab,Tarntaran,Naushera Pannuan,Cabbage,Cabbage,FAQ,8/1/2023,1800,2000,1900
+Rajasthan,Bikaner,Bikaner(F&V),Cabbage,Other,FAQ,8/1/2023,1500,1700,1600
+Rajasthan,Udaipur,Udaipur(F&V),Cabbage,Other,FAQ,8/1/2023,1500,2500,2000
+Telangana,Hyderabad,Bowenpally,Cabbage,Cabbage,FAQ,8/1/2023,500,1800,1200
+Telangana,Hyderabad,Erragadda(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2100,2100,2100
+Telangana,Hyderabad,Gudimalkapur,Cabbage,Cabbage,FAQ,8/1/2023,800,1400,1000
+Telangana,Hyderabad,L B Nagar,Cabbage,Cabbage,FAQ,8/1/2023,1000,1500,1250
+Telangana,Hyderabad,Mahboob Manison,Cabbage,Cabbage,FAQ,8/1/2023,1100,1300,1200
+Telangana,Karimnagar,Karimnagar,Cabbage,Cabbage,FAQ,8/1/2023,1500,1700,1600
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2000,2500,2200
+Telangana,Mahbubnagar,Mahabubnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2800,3200,3000
+Telangana,Medak,Siddipet(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2000,3000,2400
+Telangana,Medak,Vantamamidi,Cabbage,Cabbage,FAQ,8/1/2023,800,1000,900
+Telangana,Nalgonda,Miryalguda(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2800,0,3000
+Telangana,Nalgonda,Venkateswarnagar,Cabbage,Cabbage,FAQ,8/1/2023,3000,3000,3000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cabbage,Cabbage,FAQ,8/1/2023,2100,2100,2100
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cabbage,Cabbage,FAQ,8/1/2023,2100,2100,2100
+Telangana,Warangal,Warangal,Cabbage,Cabbage,FAQ,8/1/2023,1500,1800,1650
+Tripura,Sepahijala,Bishalgarh,Cabbage,Other,FAQ,8/1/2023,5500,6000,5800
+Tripura,Sepahijala,Bishramganj,Cabbage,Cabbage,FAQ,8/1/2023,6000,7000,6500
+Uttar Pradesh,Auraiya,Achalda,Cabbage,Cabbage,FAQ,8/1/2023,2200,2350,2300
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cabbage,Cabbage,FAQ,8/1/2023,1420,1500,1450
+Uttar Pradesh,Mathura,Mathura,Cabbage,Cabbage,FAQ,8/1/2023,1600,2000,1750
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Cabbage,Cabbage,FAQ,8/1/2023,1480,1570,1520
+Uttar Pradesh,Pillibhit,Pilibhit,Cabbage,Cabbage,FAQ,8/1/2023,1780,1850,1810
+Uttar Pradesh,Pillibhit,Puranpur,Cabbage,Cabbage,FAQ,8/1/2023,1760,1850,1805
+Uttar Pradesh,Saharanpur,Chutmalpur,Cabbage,Cabbage,FAQ,8/1/2023,700,900,800
+Uttar Pradesh,Saharanpur,Saharanpur,Cabbage,Cabbage,FAQ,8/1/2023,1350,1650,1500
+Uttrakhand,UdhamSinghNagar,Kashipur,Cabbage,Other,FAQ,8/1/2023,2000,2400,2300
+Uttrakhand,UdhamSinghNagar,Rudrapur,Cabbage,Other,FAQ,8/1/2023,8000,10000,8500
+West Bengal,Burdwan,Durgapur,Cabbage,Other,FAQ,8/1/2023,1600,2000,1850
+West Bengal,Darjeeling,Darjeeling,Cabbage,Other,FAQ,8/1/2023,2800,3000,2900
+West Bengal,Darjeeling,Kalimpong,Cabbage,Cabbage,FAQ,8/1/2023,4000,5000,4500
+West Bengal,Jalpaiguri,Falakata,Cabbage,Other,FAQ,8/1/2023,2000,2200,2100
+West Bengal,Nadia,Kalyani,Cabbage,Other,FAQ,8/1/2023,2900,3100,3000
+West Bengal,Nadia,Ranaghat,Cabbage,Other,FAQ,8/1/2023,3400,3550,3500
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Cabbage,Cabbage,FAQ,8/1/2023,3200,3400,3300
+Gujarat,Amreli,Damnagar,Cabbage,Cabbage,FAQ,8/2/2023,2100,2500,2350
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cabbage,Cabbage,FAQ,8/2/2023,2400,2800,2600
+Himachal Pradesh,Kangra,Palampur,Cabbage,Cabbage,FAQ,8/2/2023,2200,2500,2350
+Kerala,Alappuzha,Harippad,Cabbage,Other,FAQ,8/2/2023,3000,3500,3000
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cabbage,Cabbage,FAQ,8/2/2023,1800,2500,2000
+,,,,,,,,,
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,7/27/2023,7000,7500,7250
+Himachal Pradesh,Kangra,Palampur,Cauliflower,Cauliflower,FAQ,7/27/2023,4500,7000,4750
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,7/27/2023,4000,4500,4000
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,7/27/2023,1800,1800,1800
+Uttar Pradesh,Bulandshahar,Gulavati,Cauliflower,Cauliflower,FAQ,7/27/2023,1000,1200,1100
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,7/28/2023,1000,3000,2500
+Chattisgarh,Bilaspur,Tiphra,Cauliflower,Cauliflower,FAQ,7/28/2023,2400,2600,2500
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,7/28/2023,6500,7000,6850
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,7/28/2023,3500,4000,3750
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,7/28/2023,1500,3500,2300
+Gujarat,Dahod,Dahod(Veg. Market),Cauliflower,Cauliflower,FAQ,7/28/2023,2000,6000,4000
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Cauliflower,Other,FAQ,7/28/2023,4500,4500,4500
+Gujarat,Morbi,Vankaner(Sub yard),Cauliflower,Other,FAQ,7/28/2023,5000,6000,5500
+Gujarat,Navsari,Bilimora,Cauliflower,Other,FAQ,7/28/2023,800,2000,1400
+Gujarat,Porbandar,Porbandar,Cauliflower,African Sarson,FAQ,7/28/2023,4000,5000,4500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,7/28/2023,2000,5000,3500
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,7/28/2023,700,3300,2000
+Gujarat,Surendranagar,Vadhvan,Cauliflower,Cauliflower,FAQ,7/28/2023,4000,5000,4500
+Gujarat,Vadodara(Baroda),Padra,Cauliflower,Other,FAQ,7/28/2023,2500,3000,2750
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,7/28/2023,1000,2500,2000
+Haryana,Ambala,Barara,Cauliflower,Other,FAQ,7/28/2023,2000,2200,2000
+Haryana,Ambala,Naraingarh,Cauliflower,Cauliflower,FAQ,7/28/2023,2000,3000,3000
+Haryana,Hissar,Barwala(Hisar),Cauliflower,Other,FAQ,7/28/2023,3000,4000,3500
+Haryana,Hissar,Hansi,Cauliflower,Other,FAQ,7/28/2023,4000,4000,4000
+Haryana,Kurukshetra,Shahabad,Cauliflower,Cauliflower,FAQ,7/28/2023,3000,4500,4000
+Haryana,Sonipat,Ganaur,Cauliflower,Other,FAQ,7/28/2023,6000,8000,7000
+Himachal Pradesh,Hamirpur,Hamirpur,Cauliflower,Other,FAQ,7/28/2023,6000,7000,6500
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Cauliflower,Other,FAQ,7/28/2023,6000,7000,6500
+Himachal Pradesh,Kangra,Kangra,Cauliflower,Other,FAQ,7/28/2023,6000,6500,6250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cauliflower,Cauliflower,FAQ,7/28/2023,4800,7000,5900
+Himachal Pradesh,Kangra,Palampur,Cauliflower,Cauliflower,FAQ,7/28/2023,4500,7000,5750
+Himachal Pradesh,Kullu,Bandrol,Cauliflower,Other,FAQ,7/28/2023,1500,5500,3500
+Himachal Pradesh,Kullu,Bhuntar,Cauliflower,Other,FAQ,7/28/2023,2000,5000,3000
+Himachal Pradesh,Kullu,Kullu,Cauliflower,Other,FAQ,7/28/2023,1000,2500,2000
+Himachal Pradesh,Mandi,Mandi(Mandi),Cauliflower,Cauliflower,FAQ,7/28/2023,3000,5000,4000
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Cauliflower,Other,FAQ,7/28/2023,7500,8000,7600
+Himachal Pradesh,Sirmore,Nahan,Cauliflower,Other,FAQ,7/28/2023,4000,5000,4500
+Himachal Pradesh,Sirmore,Paonta Sahib,Cauliflower,Other,FAQ,7/28/2023,6000,8000,7000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,FAQ,7/28/2023,2000,6000,4000
+Karnataka,Chikmagalur,Bagepalli,Cauliflower,Cauliflower,FAQ,7/28/2023,1000,2000,1600
+Karnataka,Chikmagalur,Chikkamagalore,Cauliflower,Local,FAQ,7/28/2023,1111,1111,1111
+Karnataka,Kolar,Chintamani,Cauliflower,Local,FAQ,7/28/2023,150,250,200
+Karnataka,Shimoga,Shimoga,Cauliflower,Cauliflower,FAQ,7/28/2023,3800,4000,3900
+Kerala,Alappuzha,Chengannur,Cauliflower,Other,FAQ,7/28/2023,0,0,6000
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,7/28/2023,4000,4500,4000
+Kerala,Kollam,Anchal,Cauliflower,Cauliflower,FAQ,7/28/2023,4800,5000,4900
+Kerala,Malappuram,Kondotty,Cauliflower,Other,FAQ,7/28/2023,3000,3200,3100
+Kerala,Palakad,Pattambi,Cauliflower,Other,FAQ,7/28/2023,1600,2000,1800
+Kerala,Thirssur,Chelakkara,Cauliflower,Other,FAQ,7/28/2023,4500,4800,4600
+Madhya Pradesh,Badwani,Badwani,Cauliflower,Cauliflower,FAQ,7/28/2023,1350,1350,1350
+Madhya Pradesh,Dewas,Dewas(F&V),Cauliflower,Other,FAQ,7/28/2023,400,900,500
+Madhya Pradesh,Harda,Harda(F&V),Cauliflower,Other,FAQ,7/28/2023,2300,2500,2400
+Madhya Pradesh,Indore,Mhow,Cauliflower,African Sarson,FAQ,7/28/2023,1300,1300,1300
+Madhya Pradesh,Sagar,Sagar(F&V),Cauliflower,Other,FAQ,7/28/2023,1000,2000,1500
+Maharashtra,Ahmednagar,Shrirampur,Cauliflower,Other,FAQ,7/28/2023,600,850,700
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,FAQ,7/28/2023,500,1500,1000
+Maharashtra,Pune,Pune,Cauliflower,Other,FAQ,7/28/2023,500,1500,1000
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,7/28/2023,900,1500,1200
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,7/28/2023,700,1000,850
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Cauliflower,Other,FAQ,7/28/2023,2500,4000,3500
+Maharashtra,Sangli,Islampur,Cauliflower,Other,FAQ,7/28/2023,2000,2500,2250
+Maharashtra,Thane,Kalyan,Cauliflower,Other,FAQ,7/28/2023,1800,2400,2000
+Meghalaya,East Khasi Hills,Shillong,Cauliflower,Local,FAQ,7/28/2023,7000,8000,7500
+Odisha,Boudh,Boudh,Cauliflower,Other,FAQ,7/28/2023,7000,8000,8000
+Odisha,Boudh,Khunthabandha,Cauliflower,Other,FAQ,7/28/2023,7000,7500,7500
+Odisha,Dhenkanal,Kamakhyanagar,Cauliflower,Cauliflower,FAQ,7/28/2023,5000,6000,5500
+Odisha,Khurda,Balugaon,Cauliflower,Ranchi,FAQ,7/28/2023,5200,5500,5400
+Odisha,Nayagarh,Bahadajholla,Cauliflower,Other,FAQ,7/28/2023,5800,6200,6000
+Odisha,Nayagarh,Sarankul,Cauliflower,Other,FAQ,7/28/2023,5700,6000,5800
+Odisha,Rayagada,Rayagada,Cauliflower,Cauliflower,FAQ,7/28/2023,3900,4000,4000
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,7/28/2023,1900,1900,1900
+Punjab,Bhatinda,Bathinda,Cauliflower,Other,FAQ,7/28/2023,4600,5000,4600
+Punjab,Fatehgarh,Bassi Pathana,Cauliflower,Cauliflower,FAQ,7/28/2023,4500,6500,5500
+Punjab,Fazilka,Fazilka,Cauliflower,Other,FAQ,7/28/2023,2500,4000,3500
+Punjab,Fazilka,Jalalabad,Cauliflower,Other,FAQ,7/28/2023,4000,4300,4100
+Punjab,Hoshiarpur,Dasuya,Cauliflower,Other,FAQ,7/28/2023,6000,7000,6500
+Punjab,Hoshiarpur,Garh Shankar,Cauliflower,Cauliflower,FAQ,7/28/2023,3000,4000,3500
+Punjab,Hoshiarpur,Mukerian(Talwara),Cauliflower,Cauliflower,FAQ,7/28/2023,4500,5500,5000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cauliflower,Other,FAQ,7/28/2023,1400,4200,2600
+Punjab,Moga,Kot ise Khan,Cauliflower,Other,FAQ,7/28/2023,500,700,600
+Punjab,Moga,Moga,Cauliflower,Other,FAQ,7/28/2023,2500,4000,3600
+Punjab,Mohali,Kurali,Cauliflower,Cauliflower,FAQ,7/28/2023,2800,3000,2900
+Punjab,Ropar (Rupnagar),Morinda,Cauliflower,Other,FAQ,7/28/2023,6000,7000,6500
+Punjab,Ropar (Rupnagar),Ropar,Cauliflower,Other,FAQ,7/28/2023,6000,9000,7000
+Punjab,Sangrur,Bhawanigarh,Cauliflower,Other,FAQ,7/28/2023,2500,3000,2750
+Punjab,Tarntaran,Tarantaran,Cauliflower,Other,FAQ,7/28/2023,6500,7000,6800
+Rajasthan,Bikaner,Bikaner(F&V),Cauliflower,Other,FAQ,7/28/2023,2800,3000,2900
+Rajasthan,Jaipur,Jaipur(F&V),Cauliflower,African Sarson,FAQ,7/28/2023,2000,3000,2500
+Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,7/28/2023,3000,3500,3200
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Cauliflower,Other,FAQ,7/28/2023,2000,2700,2400
+Telangana,Hyderabad,Bowenpally,Cauliflower,African Sarson,FAQ,7/28/2023,500,2000,1600
+Telangana,Hyderabad,Gudimalkapur,Cauliflower,African Sarson,FAQ,7/28/2023,2000,4000,2500
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/28/2023,6000,8000,7000
+Telangana,Ranga Reddy,Chevella,Cauliflower,African Sarson,FAQ,7/28/2023,3000,3000,3000
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/28/2023,2300,2300,2300
+Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,7/28/2023,4500,5000,4750
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,7/28/2023,4100,4200,4150
+Uttar Pradesh,Aligarh,Aligarh,Cauliflower,Cauliflower,FAQ,7/28/2023,4300,4500,4400
+Uttar Pradesh,Aligarh,Charra,Cauliflower,Cauliflower,FAQ,7/28/2023,4400,4600,4500
+Uttar Pradesh,Baghpat,Baraut,Cauliflower,Cauliflower,FAQ,7/28/2023,1500,1600,1550
+Uttar Pradesh,Bareilly,Anwala,Cauliflower,Cauliflower,FAQ,7/28/2023,2300,2500,2400
+Uttar Pradesh,Bijnor,Nagina,Cauliflower,Cauliflower,FAQ,7/28/2023,5000,6000,5500
+Uttar Pradesh,Bulandshahar,Divai,Cauliflower,Cauliflower,FAQ,7/28/2023,1400,1600,1500
+Uttar Pradesh,Bulandshahar,Sikanderabad,Cauliflower,Cauliflower,FAQ,7/28/2023,1500,2000,1700
+Uttar Pradesh,Bulandshahar,Siyana,Cauliflower,Cauliflower,FAQ,7/28/2023,1600,1700,1660
+Uttar Pradesh,Hathras,Haathras,Cauliflower,Cauliflower,FAQ,7/28/2023,4200,4450,4380
+Uttar Pradesh,Jalaun (Orai),Orai,Cauliflower,Cauliflower,FAQ,7/28/2023,3100,3300,3200
+Uttar Pradesh,Maharajganj,Nautnava,Cauliflower,Cauliflower,FAQ,7/28/2023,1300,1500,1400
+Uttar Pradesh,Muradabad,Sambhal,Cauliflower,Cauliflower,FAQ,7/28/2023,1000,1150,1050
+Uttar Pradesh,Muzaffarnagar,Thanabhawan,Cauliflower,Local,FAQ,7/28/2023,500,600,540
+Uttar Pradesh,Rampur,Rampur,Cauliflower,Cauliflower,FAQ,7/28/2023,3350,3450,3400
+Uttar Pradesh,Saharanpur,Nanuta,Cauliflower,Cauliflower,FAQ,7/28/2023,3000,4000,3500
+Uttrakhand,Dehradoon,Vikasnagar,Cauliflower,Other,FAQ,7/28/2023,600,1600,1600
+Uttrakhand,Haridwar,Haridwar Union,Cauliflower,Other,FAQ,7/28/2023,4500,5500,5000
+Uttrakhand,Nanital,Haldwani,Cauliflower,Other,FAQ,7/28/2023,3500,4500,4000
+Uttrakhand,Nanital,Ramnagar,Cauliflower,Other,FAQ,7/28/2023,4500,5000,4750
+West Bengal,Darjeeling,Karsiyang(Matigara),Cauliflower,Other,FAQ,7/28/2023,9000,10000,9500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,7/29/2023,2000,6000,5000
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,7/29/2023,6000,6500,6250
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Cauliflower,FAQ,7/29/2023,2000,2500,2250
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,7/29/2023,3500,4050,3775
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Cauliflower,Cauliflower,FAQ,7/29/2023,1500,1500,1500
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Cauliflower,Other,FAQ,7/29/2023,4000,4000,4000
+Gujarat,Navsari,Bilimora,Cauliflower,Other,FAQ,7/29/2023,800,2000,1400
+Gujarat,Navsari,Navsari,Cauliflower,African Sarson,FAQ,7/29/2023,3000,4000,3500
+Gujarat,Porbandar,Porbandar,Cauliflower,African Sarson,FAQ,7/29/2023,4000,5000,4500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,7/29/2023,1500,4000,2750
+Gujarat,Vadodara(Baroda),Padra,Cauliflower,Other,FAQ,7/29/2023,2000,3000,2500
+Haryana,Ambala,Ambala Cantt.,Cauliflower,Cauliflower,FAQ,7/29/2023,1000,2500,1500
+Haryana,Ambala,Barara,Cauliflower,Other,FAQ,7/29/2023,2200,2200,2200
+Haryana,Ambala,Naraingarh,Cauliflower,Cauliflower,FAQ,7/29/2023,2500,4000,3000
+Haryana,Ambala,Shahzadpur,Cauliflower,Cauliflower,FAQ,7/29/2023,2000,4000,4000
+Haryana,Bhiwani,Bhiwani,Cauliflower,Other,FAQ,7/29/2023,2000,3000,2400
+Haryana,Karnal,"New Grain Market(main), Karnal",Cauliflower,Other,FAQ,7/29/2023,2000,4000,3000
+Haryana,Kurukshetra,Ladwa,Cauliflower,Cauliflower,FAQ,7/29/2023,5000,5000,5000
+Haryana,Kurukshetra,Pehowa,Cauliflower,Other,FAQ,7/29/2023,1400,1500,1500
+Haryana,Kurukshetra,Shahabad,Cauliflower,Cauliflower,FAQ,7/29/2023,4000,5000,4500
+Haryana,Sonipat,Ganaur,Cauliflower,Other,FAQ,7/29/2023,6000,8000,7000
+Haryana,Yamuna Nagar,Radaur,Cauliflower,Other,FAQ,7/29/2023,4000,6000,5000
+Himachal Pradesh,Solan,Solan,Cauliflower,Other,FAQ,7/29/2023,2500,4000,3500
+Kerala,Alappuzha,Chengannur,Cauliflower,Other,FAQ,7/29/2023,0,0,6000
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,7/29/2023,4000,4500,4000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,FAQ,7/29/2023,4400,4600,4500
+Kerala,Ernakulam,Aluva,Cauliflower,Other,FAQ,7/29/2023,2500,4000,3300
+Kerala,Ernakulam,Angamaly,Cauliflower,Cauliflower,FAQ,7/29/2023,5000,6000,5500
+Kerala,Ernakulam,Kothamangalam,Cauliflower,Other,FAQ,7/29/2023,3000,4000,3500
+Kerala,Ernakulam,Perumbavoor,Cauliflower,Cauliflower,FAQ,7/29/2023,3000,4000,3500
+Kerala,Ernakulam,Piravam,Cauliflower,Other,FAQ,7/29/2023,4500,6000,5000
+Kerala,Ernakulam,Thrippunithura,Cauliflower,Cauliflower,FAQ,7/29/2023,5000,6500,5300
+Kerala,Idukki,Thodupuzha,Cauliflower,Other,FAQ,7/29/2023,2500,3000,3000
+Kerala,Idukki,Vandiperiyar,Cauliflower,Other,FAQ,7/29/2023,960,960,960
+Kerala,Kasargod,Kanjangadu,Cauliflower,Cauliflower,FAQ,7/29/2023,2800,3400,3000
+Kerala,Kozhikode(Calicut),Palayam,Cauliflower,Other,FAQ,7/29/2023,1400,1600,1500
+Kerala,Kozhikode(Calicut),Perambra,Cauliflower,Cauliflower,FAQ,7/29/2023,3200,3500,3300
+Kerala,Malappuram,Kondotty,Cauliflower,Other,FAQ,7/29/2023,3000,3200,3100
+Kerala,Malappuram,Manjeri,Cauliflower,Other,FAQ,7/29/2023,2700,2800,2750
+Kerala,Thirssur,Chavakkad,Cauliflower,Other,FAQ,7/29/2023,3000,4000,3800
+Kerala,Thirssur,Thrissur,Cauliflower,Cauliflower,FAQ,7/29/2023,3800,4000,3800
+Kerala,Thiruvananthapuram,Aralamoodu,Cauliflower,Cauliflower,FAQ,7/29/2023,5000,5000,5000
+Madhya Pradesh,Rajgarh,Narsinghgarh,Cauliflower,African Sarson,FAQ,7/29/2023,125,690,220
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,FAQ,7/29/2023,200,500,300
+Maharashtra,Ahmednagar,Rahuri,Cauliflower,Other,FAQ,7/29/2023,500,3000,1750
+Maharashtra,Ahmednagar,Sangamner,Cauliflower,Other,FAQ,7/29/2023,200,700,450
+Maharashtra,Kolhapur,Kolhapur,Cauliflower,Other,FAQ,7/29/2023,500,1250,850
+Maharashtra,Nashik,Nasik,Cauliflower,Other,FAQ,7/29/2023,570,2140,1430
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,FAQ,7/29/2023,500,1500,1000
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,7/29/2023,900,1600,1250
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,7/29/2023,500,1500,1000
+Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,FAQ,7/29/2023,1000,1000,1000
+Odisha,Ganjam,Bhanjanagar,Cauliflower,African Sarson,FAQ,7/29/2023,3600,3800,3700
+Odisha,Sundergarh,Bonai,Cauliflower,Other,FAQ,7/29/2023,8000,12000,8000
+Odisha,Sundergarh,Panposh,Cauliflower,Other,FAQ,7/29/2023,3600,4000,3900
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,7/29/2023,2000,2000,2000
+Punjab,Fazilka,Jalalabad,Cauliflower,Other,FAQ,7/29/2023,4000,4300,4100
+Punjab,Ropar (Rupnagar),Morinda,Cauliflower,Other,FAQ,7/29/2023,6000,7000,6500
+Punjab,Tarntaran,Patti,Cauliflower,Other,FAQ,7/29/2023,8000,9000,8800
+Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,7/29/2023,3000,3500,3200
+Telangana,Hyderabad,Bowenpally,Cauliflower,African Sarson,FAQ,7/29/2023,500,2000,1000
+Telangana,Hyderabad,Gudimalkapur,Cauliflower,African Sarson,FAQ,7/29/2023,700,4000,2500
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/29/2023,6000,8000,7000
+Telangana,Ranga Reddy,Chevella,Cauliflower,African Sarson,FAQ,7/29/2023,3000,3000,3000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/29/2023,2300,2300,2300
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/29/2023,2300,2300,2300
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cauliflower,African Sarson,FAQ,7/29/2023,2300,2300,2300
+Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,7/29/2023,3000,3200,3100
+Uttar Pradesh,Aligarh,Charra,Cauliflower,Cauliflower,FAQ,7/29/2023,4400,4500,4450
+Uttar Pradesh,Badaun,Bilsi,Cauliflower,Local,FAQ,7/29/2023,4000,4100,4050
+Uttar Pradesh,Barabanki,Barabanki,Cauliflower,Cauliflower,FAQ,7/29/2023,4100,4200,4150
+Uttar Pradesh,Bareilly,Anwala,Cauliflower,Cauliflower,FAQ,7/29/2023,2000,2200,2100
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cauliflower,Local,FAQ,7/29/2023,1420,1500,1450
+Uttar Pradesh,Muradabad,Sambhal,Cauliflower,Cauliflower,FAQ,7/29/2023,1000,1350,1250
+Uttar Pradesh,Saharanpur,Gangoh,Cauliflower,Cauliflower,FAQ,7/29/2023,3000,4000,3500
+Uttar Pradesh,Shahjahanpur,Jalalabad,Cauliflower,Cauliflower,FAQ,7/29/2023,900,1000,950
+West Bengal,Darjeeling,Karsiyang(Matigara),Cauliflower,Other,FAQ,7/29/2023,8500,9500,9000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,7/30/2023,2000,6000,5000
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,7/30/2023,7100,7500,7350
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,7/30/2023,2000,4000,3000
+Himachal Pradesh,Kullu,Bhuntar,Cauliflower,Other,FAQ,7/30/2023,2500,5000,3700
+Himachal Pradesh,Mandi,Mandi(Takoli),Cauliflower,Other,FAQ,7/30/2023,1000,4000,3000
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,FAQ,7/30/2023,500,1000,700
+Maharashtra,Kolhapur,Kolhapur,Cauliflower,Other,FAQ,7/30/2023,500,1250,850
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,FAQ,7/30/2023,1000,2000,1500
+Maharashtra,Pune,Pune,Cauliflower,Other,FAQ,7/30/2023,600,1200,900
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,7/30/2023,1000,1700,1350
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,7/30/2023,700,1200,950
+Maharashtra,Pune,Pune(Pimpri),Cauliflower,Other,FAQ,7/30/2023,3500,3500,3500
+NCT of Delhi,Delhi,Keshopur,Cauliflower,Cauliflower,FAQ,7/30/2023,7000,9000,8000
+Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,7/30/2023,3000,3500,3200
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/30/2023,2300,2300,2300
+Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,7/30/2023,4500,5000,4750
+Uttar Pradesh,Bulandshahar,Divai,Cauliflower,Cauliflower,FAQ,7/30/2023,1300,1400,1350
+Uttar Pradesh,Bulandshahar,Gulavati,Cauliflower,Cauliflower,FAQ,7/30/2023,900,1100,1000
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cauliflower,Local,FAQ,7/30/2023,1420,1500,1450
+Uttrakhand,Nanital,Haldwani,Cauliflower,Other,FAQ,7/30/2023,3000,6000,4500
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,7/31/2023,4500,5500,5000
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Cauliflower,FAQ,7/31/2023,1750,2000,1900
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Cauliflower,Other,FAQ,7/31/2023,3500,4100,3800
+Gujarat,Dahod,Dahod(Veg. Market),Cauliflower,Cauliflower,FAQ,7/31/2023,2000,6000,4000
+Gujarat,Gandhinagar,Mansa(Manas Veg Yard),Cauliflower,Other,FAQ,7/31/2023,4000,4000,4000
+Gujarat,Morbi,Vankaner(Sub yard),Cauliflower,Other,FAQ,7/31/2023,6000,7000,6500
+Gujarat,Porbandar,Porbandar,Cauliflower,African Sarson,FAQ,7/31/2023,3000,4000,3500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,7/31/2023,3000,4000,3500
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,7/31/2023,600,2600,1600
+Gujarat,Surendranagar,Vadhvan,Cauliflower,Cauliflower,FAQ,7/31/2023,4500,5500,5000
+Gujarat,Vadodara(Baroda),Padra,Cauliflower,Other,FAQ,7/31/2023,3000,4000,3500
+Haryana,Hissar,Hansi,Cauliflower,Other,FAQ,7/31/2023,4000,4000,4000
+Haryana,Kurukshetra,Shahabad,Cauliflower,Cauliflower,FAQ,7/31/2023,3000,4500,4000
+Himachal Pradesh,Bilaspur,Bilaspur,Cauliflower,Local,FAQ,7/31/2023,5000,6000,5500
+Himachal Pradesh,Hamirpur,Hamirpur,Cauliflower,Other,FAQ,7/31/2023,6500,7000,6750
+Himachal Pradesh,Kangra,Kangra,Cauliflower,Other,FAQ,7/31/2023,6000,6500,6250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cauliflower,Cauliflower,FAQ,7/31/2023,4800,7000,5900
+Himachal Pradesh,Kangra,Palampur,Cauliflower,Cauliflower,FAQ,7/31/2023,4500,7000,5750
+Himachal Pradesh,Kullu,Bhuntar,Cauliflower,Other,FAQ,7/31/2023,2000,5000,3000
+Himachal Pradesh,Kullu,Kullu,Cauliflower,Other,FAQ,7/31/2023,2000,4000,2500
+Himachal Pradesh,Mandi,Mandi(Takoli),Cauliflower,Other,FAQ,7/31/2023,1000,4000,2500
+Himachal Pradesh,Shimla,Shimla,Cauliflower,Other,FAQ,7/31/2023,5000,6000,5100
+Himachal Pradesh,Shimla,Shimla and Kinnaur(Rampur),Cauliflower,Other,FAQ,7/31/2023,9300,9500,9400
+Jammu and Kashmir,Kathua,Kathua,Cauliflower,Other,FAQ,7/31/2023,6000,6500,6250
+Karnataka,Chikmagalur,Chikkamagalore,Cauliflower,Local,FAQ,7/31/2023,1091,1291,1191
+Kerala,Alappuzha,Aroor,Cauliflower,Other,FAQ,7/31/2023,3800,4000,3900
+Kerala,Alappuzha,Chengannur,Cauliflower,Other,FAQ,7/31/2023,0,0,4000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,FAQ,7/31/2023,3700,3900,3800
+Kerala,Ernakulam,Angamaly,Cauliflower,Cauliflower,FAQ,7/31/2023,5000,6000,5500
+Kerala,Ernakulam,Perumbavoor,Cauliflower,Cauliflower,FAQ,7/31/2023,2800,3800,3000
+Kerala,Ernakulam,Piravam,Cauliflower,Other,FAQ,7/31/2023,5000,6500,6000
+Kerala,Ernakulam,Thrippunithura,Cauliflower,Cauliflower,FAQ,7/31/2023,5000,5500,5200
+Kerala,Idukki,Thodupuzha,Cauliflower,Other,FAQ,7/31/2023,2500,3000,3000
+Kerala,Kasargod,Kanjangadu,Cauliflower,Cauliflower,FAQ,7/31/2023,3800,4600,4000
+Kerala,Kottayam,Thalayolaparambu,Cauliflower,Cauliflower,FAQ,7/31/2023,5500,5800,5700
+Kerala,Kozhikode(Calicut),Perambra,Cauliflower,Cauliflower,FAQ,7/31/2023,3200,3600,3300
+Kerala,Malappuram,Kottakkal,Cauliflower,Other,FAQ,7/31/2023,2700,2800,2750
+Kerala,Malappuram,Manjeri,Cauliflower,Other,FAQ,7/31/2023,2200,2300,2250
+Kerala,Malappuram,Thirurrangadi,Cauliflower,Other,FAQ,7/31/2023,3500,3600,3600
+Kerala,Palakad,Koduvayoor,Cauliflower,Other,FAQ,7/31/2023,2400,3000,2800
+Kerala,Palakad,Palakkad,Cauliflower,Cauliflower,FAQ,7/31/2023,3000,3600,3400
+Kerala,Palakad,Pattambi,Cauliflower,Other,FAQ,7/31/2023,2500,3000,2800
+Kerala,Thirssur,Chelakkara,Cauliflower,Other,FAQ,7/31/2023,4500,4800,4600
+Kerala,Thiruvananthapuram,Aralamoodu,Cauliflower,Cauliflower,FAQ,7/31/2023,5000,5000,5000
+Madhya Pradesh,Badwani,Badwani,Cauliflower,Cauliflower,FAQ,7/31/2023,1500,1500,1500
+Madhya Pradesh,Dewas,Dewas(F&V),Cauliflower,Other,FAQ,7/31/2023,400,1500,500
+Madhya Pradesh,Jhabua,Thandla,Cauliflower,Cauliflower,FAQ,7/31/2023,1100,1500,1300
+Madhya Pradesh,Khargone,Badwaha,Cauliflower,African Sarson,FAQ,7/31/2023,2300,3600,2500
+Madhya Pradesh,Sagar,Sagar(F&V),Cauliflower,Other,FAQ,7/31/2023,1000,2000,1500
+Maharashtra,Ahmednagar,Shrirampur,Cauliflower,Other,FAQ,7/31/2023,600,750,700
+Maharashtra,Pune,Pune,Cauliflower,Other,FAQ,7/31/2023,400,2000,1200
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,7/31/2023,1000,1600,1300
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,7/31/2023,800,1000,900
+Maharashtra,Satara,Karad,Cauliflower,Other,FAQ,7/31/2023,1500,1800,1800
+Maharashtra,Satara,Vai,Cauliflower,Other,FAQ,7/31/2023,2000,2500,2250
+Maharashtra,Sholapur,Akluj,Cauliflower,Other,FAQ,7/31/2023,1500,2800,2500
+Meghalaya,East Khasi Hills,Shillong,Cauliflower,Local,FAQ,7/31/2023,7000,8000,7500
+Odisha,Bargarh,Attabira,Cauliflower,Other,FAQ,7/31/2023,5500,6000,5800
+Odisha,Boudh,Boudh,Cauliflower,Other,FAQ,7/31/2023,10000,12000,12000
+Odisha,Boudh,Khunthabandha,Cauliflower,Other,FAQ,7/31/2023,9000,10000,10000
+Odisha,Koraput,Koraput(Semilguda),Cauliflower,Other,FAQ,7/31/2023,4000,4200,4100
+Odisha,Rayagada,Rayagada,Cauliflower,Cauliflower,FAQ,7/31/2023,3400,3500,3500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,FAQ,7/31/2023,4600,5000,4900
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,7/31/2023,1800,1800,1800
+Punjab,Barnala,Barnala,Cauliflower,Other,FAQ,7/31/2023,3000,5000,4000
+Punjab,Fazilka,Jalalabad,Cauliflower,Other,FAQ,7/31/2023,3800,4000,4000
+Punjab,Hoshiarpur,Garh Shankar,Cauliflower,Cauliflower,FAQ,7/31/2023,4000,6000,5000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cauliflower,Other,FAQ,7/31/2023,1400,3800,2600
+Punjab,Mohali,Kurali,Cauliflower,Cauliflower,FAQ,7/31/2023,2000,2200,2100
+Punjab,Mohali,Lalru,Cauliflower,Other,FAQ,7/31/2023,4000,4000,4000
+Punjab,Ropar (Rupnagar),Morinda,Cauliflower,Other,FAQ,7/31/2023,6000,7000,6500
+Punjab,Tarntaran,Tarantaran,Cauliflower,Other,FAQ,7/31/2023,6000,7000,6500
+Rajasthan,Jalore,Jalore,Cauliflower,Other,FAQ,7/31/2023,3000,3500,3200
+Rajasthan,Jodhpur,Jodhpur(F&V)(Paota),Cauliflower,Other,FAQ,7/31/2023,1500,2200,1800
+Telangana,Karimnagar,Karimnagar(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/31/2023,6000,8000,7000
+Telangana,Ranga Reddy,Chevella,Cauliflower,African Sarson,FAQ,7/31/2023,3000,3000,3000
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/31/2023,2300,2300,2300
+Telangana,Ranga Reddy,Mehndipatnam(Rythu Bazar),Cauliflower,African Sarson,FAQ,7/31/2023,2300,2300,2300
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cauliflower,African Sarson,FAQ,7/31/2023,2300,2300,2300
+Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,7/31/2023,4500,5000,4750
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,7/31/2023,4150,4250,4200
+Uttar Pradesh,Agra,Agra,Cauliflower,Cauliflower,FAQ,7/31/2023,4250,4400,4320
+Uttar Pradesh,Agra,Fatehabad,Cauliflower,Cauliflower,FAQ,7/31/2023,800,850,820
+Uttar Pradesh,Aligarh,Charra,Cauliflower,Cauliflower,FAQ,7/31/2023,4400,4600,4500
+Uttar Pradesh,Bareilly,Anwala,Cauliflower,Cauliflower,FAQ,7/31/2023,2300,2500,2400
+Uttar Pradesh,Bulandshahar,Divai,Cauliflower,Cauliflower,FAQ,7/31/2023,1400,1600,1500
+Uttar Pradesh,Bulandshahar,Sikanderabad,Cauliflower,Cauliflower,FAQ,7/31/2023,2000,2500,2200
+Uttar Pradesh,Bulandshahar,Sikarpur,Cauliflower,Cauliflower,FAQ,7/31/2023,1500,1650,1600
+Uttar Pradesh,Bulandshahar,Siyana,Cauliflower,Cauliflower,FAQ,7/31/2023,900,1000,960
+Uttar Pradesh,Jalaun (Orai),Jalaun,Cauliflower,Cauliflower,FAQ,7/31/2023,2800,3100,3000
+Uttar Pradesh,Maharajganj,Nautnava,Cauliflower,Cauliflower,FAQ,7/31/2023,1300,1550,1400
+Uttar Pradesh,Mathura,Mathura,Cauliflower,Cauliflower,FAQ,7/31/2023,3800,4200,4000
+Uttar Pradesh,Muradabad,Sambhal,Cauliflower,Cauliflower,FAQ,7/31/2023,1000,1350,1200
+Uttar Pradesh,Shahjahanpur,Jalalabad,Cauliflower,Cauliflower,FAQ,7/31/2023,900,1000,950
+Uttrakhand,Nanital,Haldwani,Cauliflower,Other,FAQ,7/31/2023,4000,5000,4500
+Uttrakhand,Nanital,Ramnagar,Cauliflower,Other,FAQ,7/31/2023,4000,4500,4250
+Uttrakhand,UdhamSinghNagar,Khateema,Cauliflower,Other,FAQ,7/31/2023,900,1100,1000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Cauliflower,Other,FAQ,8/1/2023,1000,4000,3000
+Chattisgarh,Durg,Durg,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,3500,3250
+Gujarat,Ahmedabad,Ahmedabad,Cauliflower,Other,FAQ,8/1/2023,500,1600,1400
+Gujarat,Amreli,Dhari,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,3500,3500
+Gujarat,Anand,"Anand(Veg,Yard,Anand)",Cauliflower,Cauliflower,FAQ,8/1/2023,1000,1500,1250
+Gujarat,Bharuch,Ankleshwar,Cauliflower,Cauliflower,FAQ,8/1/2023,2000,4000,3000
+Gujarat,Gandhinagar,"Kalol(Veg,Market,Kalol)",Cauliflower,Cauliflower,FAQ,8/1/2023,1500,1500,1500
+Gujarat,Kheda,Kapadvanj,Cauliflower,Other,FAQ,8/1/2023,3000,3500,3250
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Cauliflower,Cauliflower,FAQ,8/1/2023,500,2000,1500
+Gujarat,Morbi,Vankaner(Sub yard),Cauliflower,Other,FAQ,8/1/2023,6000,7000,6500
+Gujarat,Navsari,Navsari,Cauliflower,African Sarson,FAQ,8/1/2023,3500,4000,3750
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Cauliflower,Cauliflower,FAQ,8/1/2023,3000,5000,4000
+Gujarat,Surat,Surat,Cauliflower,Other,FAQ,8/1/2023,800,3500,2150
+Haryana,Ambala,Shahzadpur,Cauliflower,Cauliflower,FAQ,8/1/2023,2000,4000,4000
+Haryana,Fatehabad,Jakhal,Cauliflower,African Sarson,FAQ,8/1/2023,4500,5000,5000
+Haryana,Hissar,Barwala(Hisar),Cauliflower,Other,FAQ,8/1/2023,3500,4000,3800
+Haryana,Hissar,Uklana,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4000,4000
+Haryana,Jhajar,Bahadurgarh,Cauliflower,Other,FAQ,8/1/2023,3500,6000,4000
+Haryana,Kurukshetra,Ladwa,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,7000,5500
+Haryana,Kurukshetra,Shahabad,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4500,4200
+Haryana,Kurukshetra,Thanesar,Cauliflower,Cauliflower,FAQ,8/1/2023,5000,7000,6000
+Haryana,Rohtak,Rohtak,Cauliflower,Other,FAQ,8/1/2023,800,2000,1500
+Haryana,Yamuna Nagar,Sadhaura,Cauliflower,Cauliflower,FAQ,8/1/2023,2500,3000,2800
+Himachal Pradesh,Hamirpur,Hamirpur,Cauliflower,Other,FAQ,8/1/2023,6500,7000,6750
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cauliflower,Cauliflower,FAQ,8/1/2023,6800,7000,6900
+Himachal Pradesh,Kangra,Palampur,Cauliflower,Cauliflower,FAQ,8/1/2023,6500,7000,6750
+Himachal Pradesh,Kullu,Bhuntar,Cauliflower,Other,FAQ,8/1/2023,1000,5000,3000
+Himachal Pradesh,Mandi,Mandi(Mandi),Cauliflower,Cauliflower,FAQ,8/1/2023,2000,5000,4000
+Himachal Pradesh,Mandi,Mandi(Takoli),Cauliflower,Other,FAQ,8/1/2023,1000,4000,3000
+Himachal Pradesh,Shimla,Shimla,Cauliflower,Other,FAQ,8/1/2023,4000,5000,4200
+Himachal Pradesh,Sirmore,Paonta Sahib,Cauliflower,Other,FAQ,8/1/2023,5000,6000,5500
+Himachal Pradesh,Una,Una,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,6000,4500
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Cauliflower,Other,FAQ,8/1/2023,4500,5000,4750
+Jammu and Kashmir,Kathua,Kathua,Cauliflower,Other,FAQ,8/1/2023,6000,6500,6250
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Cauliflower,Cauliflower,FAQ,8/1/2023,2200,2500,2300
+Karnataka,Bangalore,Doddaballa Pur,Cauliflower,Cauliflower,FAQ,8/1/2023,1000,2000,1500
+Karnataka,Belgaum,Belgaum,Cauliflower,Local,FAQ,8/1/2023,3000,3500,3300
+Karnataka,Davangere,Davangere,Cauliflower,Cauliflower,FAQ,8/1/2023,1000,1500,1200
+Karnataka,Kolar,Chickkaballapura,Cauliflower,Cauliflower,FAQ,8/1/2023,1000,1400,1300
+Karnataka,Kolar,Chintamani,Cauliflower,Local,FAQ,8/1/2023,150,200,170
+Karnataka,Kolar,Kolar,Cauliflower,Local,FAQ,8/1/2023,1000,1500,1300
+Karnataka,Shimoga,Shimoga,Cauliflower,Cauliflower,FAQ,8/1/2023,3800,4000,3900
+Kerala,Alappuzha,Chengannur,Cauliflower,Other,FAQ,8/1/2023,0,0,4000
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,8/1/2023,4000,4500,4000
+Kerala,Alappuzha,Kayamkulam,Cauliflower,Other,FAQ,8/1/2023,5400,5600,5500
+Kerala,Ernakulam,Angamaly,Cauliflower,Cauliflower,FAQ,8/1/2023,5000,6000,5500
+Kerala,Ernakulam,Perumbavoor,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,4000,3500
+Kerala,Ernakulam,Thrippunithura,Cauliflower,Cauliflower,FAQ,8/1/2023,6000,7000,6200
+Kerala,Idukki,Thodupuzha,Cauliflower,Other,FAQ,8/1/2023,2500,3000,3000
+Kerala,Idukki,Vandiperiyar,Cauliflower,Other,FAQ,8/1/2023,832,832,832
+Kerala,Kasargod,Kanjangadu,Cauliflower,Cauliflower,FAQ,8/1/2023,3600,4400,3800
+Kerala,Kottayam,Thalayolaparambu,Cauliflower,Cauliflower,FAQ,8/1/2023,5300,5700,5500
+Kerala,Kozhikode(Calicut),Palayam,Cauliflower,Other,FAQ,8/1/2023,1400,1600,1500
+Kerala,Kozhikode(Calicut),Perambra,Cauliflower,Cauliflower,FAQ,8/1/2023,3200,3500,3300
+Kerala,Malappuram,Kottakkal,Cauliflower,Other,FAQ,8/1/2023,2600,2700,2650
+Kerala,Malappuram,Manjeri,Cauliflower,Other,FAQ,8/1/2023,2200,2300,2250
+Kerala,Palakad,Palakkad,Cauliflower,Cauliflower,FAQ,8/1/2023,3500,4000,3800
+Kerala,Palakad,Pattambi,Cauliflower,Other,FAQ,8/1/2023,2500,3000,2800
+Kerala,Thirssur,Chelakkara,Cauliflower,Other,FAQ,8/1/2023,4000,4500,4200
+Kerala,Thirssur,Thrissur,Cauliflower,Cauliflower,FAQ,8/1/2023,2800,3000,2800
+Kerala,Thiruvananthapuram,Aralamoodu,Cauliflower,Cauliflower,FAQ,8/1/2023,5000,6000,6000
+Madhya Pradesh,Badwani,Sendhwa,Cauliflower,Cauliflower,FAQ,8/1/2023,2000,3000,2500
+Madhya Pradesh,Dewas,Dewas(F&V),Cauliflower,Other,FAQ,8/1/2023,400,1100,600
+Madhya Pradesh,Dewas,Haatpipliya,Cauliflower,Cauliflower,FAQ,8/1/2023,2000,3000,2500
+Madhya Pradesh,Indore,Mhow,Cauliflower,African Sarson,FAQ,8/1/2023,1300,1300,1300
+Madhya Pradesh,Khandwa,Khandwa(F&V),Cauliflower,African Sarson,FAQ,8/1/2023,500,1500,800
+Madhya Pradesh,Mandsaur,Mandsaur(F&V),Cauliflower,African Sarson,FAQ,8/1/2023,1400,2005,1700
+Madhya Pradesh,Sagar,Sagar(F&V),Cauliflower,Other,FAQ,8/1/2023,1500,2500,2000
+Maharashtra,Ahmednagar,Ahmednagar,Cauliflower,Other,FAQ,8/1/2023,2000,5000,3500
+Maharashtra,Ahmednagar,Rahata,Cauliflower,Other,FAQ,8/1/2023,500,1000,700
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Cauliflower,Other,FAQ,8/1/2023,1800,2200,2000
+Maharashtra,Aurangabad,Aurangabad,Cauliflower,Other,FAQ,8/1/2023,1400,2000,1700
+Maharashtra,Chandrapur,Chandrapur(Ganjwad),Cauliflower,Other,FAQ,8/1/2023,700,1500,1000
+Maharashtra,Jalgaon,Bhusaval,Cauliflower,Other,FAQ,8/1/2023,2000,2500,2300
+Maharashtra,Jalgaon,Jalgaon,Cauliflower,Other,FAQ,8/1/2023,1000,1500,1200
+Maharashtra,Kolhapur,Kolhapur,Cauliflower,Other,FAQ,8/1/2023,500,1250,850
+Maharashtra,Mumbai,Mumbai,Cauliflower,Other,FAQ,8/1/2023,1500,2200,1800
+Maharashtra,Nagpur,Kamthi,Cauliflower,Other,FAQ,8/1/2023,2500,3500,3000
+Maharashtra,Nagpur,Nagpur,Cauliflower,Other,FAQ,8/1/2023,2000,3000,2750
+Maharashtra,Nandurbar,Navapur,Cauliflower,Other,FAQ,8/1/2023,1000,2000,1350
+Maharashtra,Pune,Khed(Chakan),Cauliflower,Other,FAQ,8/1/2023,1000,2000,1500
+Maharashtra,Pune,Pune,Cauliflower,Other,FAQ,8/1/2023,400,1500,950
+Maharashtra,Pune,Pune(Khadiki),Cauliflower,Other,FAQ,8/1/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Cauliflower,Other,FAQ,8/1/2023,1000,2000,1500
+Maharashtra,Ratnagiri,Ratnagiri (Nachane),Cauliflower,Other,FAQ,8/1/2023,2500,4000,3500
+Maharashtra,Satara,Karad,Cauliflower,Other,FAQ,8/1/2023,1000,1500,1500
+Maharashtra,Satara,Satara,Cauliflower,Other,FAQ,8/1/2023,2000,3000,2500
+Maharashtra,Sholapur,Solapur,Cauliflower,Other,FAQ,8/1/2023,540,1600,820
+Maharashtra,Thane,Kalyan,Cauliflower,Other,FAQ,8/1/2023,2000,2400,2200
+Meghalaya,East Khasi Hills,Shillong,Cauliflower,Local,FAQ,8/1/2023,6000,7000,6500
+NCT of Delhi,Delhi,Azadpur,Cauliflower,Cauliflower,FAQ,8/1/2023,1000,4500,3000
+Odisha,Bolangir,Bolangir,Cauliflower,Other,FAQ,8/1/2023,9800,10000,9800
+Odisha,Bolangir,Tusura,Cauliflower,Other,FAQ,8/1/2023,9800,10000,9800
+Odisha,Boudh,Boudh,Cauliflower,Other,FAQ,8/1/2023,10000,12000,12000
+Odisha,Boudh,Khunthabandha,Cauliflower,Other,FAQ,8/1/2023,9000,10000,10000
+Odisha,Khurda,Balugaon,Cauliflower,Ranchi,FAQ,8/1/2023,5500,6000,5800
+Odisha,Koraput,Koraput,Cauliflower,Other,FAQ,8/1/2023,3900,4100,4000
+Odisha,Rayagada,Rayagada,Cauliflower,Cauliflower,FAQ,8/1/2023,3400,3500,3500
+Odisha,Sundergarh,Panposh,Cauliflower,Other,FAQ,8/1/2023,4600,5000,4900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Cauliflower,Cauliflower,FAQ,8/1/2023,2000,4500,3500
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,8/1/2023,1800,1800,1800
+Punjab,Faridkot,Faridkot,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,5000,4500
+Punjab,Fatehgarh,Bassi Pathana,Cauliflower,Cauliflower,FAQ,8/1/2023,3500,5000,4500
+Punjab,Fazilka,Abohar,Cauliflower,Cauliflower,FAQ,8/1/2023,4580,5850,4900
+Punjab,Fazilka,Jalalabad,Cauliflower,Other,FAQ,8/1/2023,4000,4000,4000
+Punjab,Ferozpur,Zira,Cauliflower,Cauliflower,FAQ,8/1/2023,8000,8200,8100
+Punjab,Gurdaspur,Dinanagar,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4500,4500
+Punjab,Hoshiarpur,Dasuya,Cauliflower,Other,FAQ,8/1/2023,5000,8000,6500
+Punjab,Hoshiarpur,Garh Shankar,Cauliflower,Cauliflower,FAQ,8/1/2023,2500,4000,3500
+Punjab,Hoshiarpur,Mukerian,Cauliflower,Cauliflower,FAQ,8/1/2023,3500,5500,4500
+Punjab,Hoshiarpur,Mukerian(Talwara),Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4600,4300
+Punjab,Hoshiarpur,Tanda Urmur,Cauliflower,Other,FAQ,8/1/2023,5000,6000,5500
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Cauliflower,Other,FAQ,8/1/2023,2200,4000,3100
+Punjab,Ludhiana,Doraha,Cauliflower,Other,FAQ,8/1/2023,400,4000,400
+Punjab,Ludhiana,Sahnewal,Cauliflower,Cauliflower,FAQ,8/1/2023,1800,1800,1800
+Punjab,Moga,Baghapurana,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,5000,4500
+Punjab,Pathankot,Pathankot,Cauliflower,Local,FAQ,8/1/2023,3500,4000,4000
+Punjab,Patiala,Nabha,Cauliflower,Other,FAQ,8/1/2023,1500,2600,1800
+Punjab,Ropar (Rupnagar),Morinda,Cauliflower,Other,FAQ,8/1/2023,5000,6000,5500
+Punjab,Sangrur,Bhawanigarh,Cauliflower,Other,FAQ,8/1/2023,3000,3500,3250
+Punjab,Tarntaran,Tarantaran,Cauliflower,Other,FAQ,8/1/2023,6000,7000,6500
+Rajasthan,Bikaner,Bikaner(F&V),Cauliflower,Other,FAQ,8/1/2023,2600,2800,2700
+Rajasthan,Udaipur,Udaipur(F&V),Cauliflower,Other,FAQ,8/1/2023,3000,5000,4000
+Telangana,Hyderabad,Bowenpally,Cauliflower,African Sarson,FAQ,8/1/2023,500,2000,1300
+Telangana,Hyderabad,Erragadda(Rythu Bazar),Cauliflower,African Sarson,FAQ,8/1/2023,2300,2300,2300
+Telangana,Hyderabad,Gudimalkapur,Cauliflower,African Sarson,FAQ,8/1/2023,1000,4000,2500
+Telangana,Hyderabad,L B Nagar,Cauliflower,Cauliflower,FAQ,8/1/2023,3000,3500,3250
+Telangana,Hyderabad,Mahboob Manison,Cauliflower,African Sarson,FAQ,8/1/2023,2000,3000,2500
+Telangana,Ranga Reddy,Kukatpally(Rythu Bazar),Cauliflower,African Sarson,FAQ,8/1/2023,2300,2300,2300
+Telangana,Ranga Reddy,"Ramakrisnapuram,RBZ",Cauliflower,African Sarson,FAQ,8/1/2023,2300,2300,2300
+Telangana,Warangal,Warangal,Cauliflower,Cauliflower,FAQ,8/1/2023,4500,5000,4750
+Uttar Pradesh,Agra,Achnera,Cauliflower,Cauliflower,FAQ,8/1/2023,4150,4250,4200
+Uttar Pradesh,Bareilly,Anwala,Cauliflower,Cauliflower,FAQ,8/1/2023,2300,2500,2400
+Uttar Pradesh,Bulandshahar,Divai,Cauliflower,Cauliflower,FAQ,8/1/2023,1400,1600,1500
+Uttar Pradesh,Jalaun (Orai),Jalaun,Cauliflower,Cauliflower,FAQ,8/1/2023,2800,3050,3000
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Cauliflower,Local,FAQ,8/1/2023,1420,1500,1450
+Uttar Pradesh,Maharajganj,Nautnava,Cauliflower,Cauliflower,FAQ,8/1/2023,1300,1500,1400
+Uttar Pradesh,Mathura,Mathura,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4400,4200
+Uttar Pradesh,Muradabad,Sambhal,Cauliflower,Cauliflower,FAQ,8/1/2023,1000,1250,1200
+Uttar Pradesh,Muzaffarnagar,Khatauli,Cauliflower,Cauliflower,FAQ,8/1/2023,1200,1600,1400
+Uttar Pradesh,Muzaffarnagar,Thanabhawan,Cauliflower,Local,FAQ,8/1/2023,500,600,550
+Uttar Pradesh,Saharanpur,Nanuta,Cauliflower,Cauliflower,FAQ,8/1/2023,4000,4500,4250
+Uttar Pradesh,Shahjahanpur,Tilhar,Cauliflower,Cauliflower,FAQ,8/1/2023,4015,4060,4037
+Uttrakhand,Dehradoon,Vikasnagar,Cauliflower,Other,FAQ,8/1/2023,1500,2500,2500
+Uttrakhand,Garhwal (Pauri),Kotadwara,Cauliflower,Other,FAQ,8/1/2023,3000,4000,3500
+Uttrakhand,Haridwar,Haridwar Union,Cauliflower,Other,FAQ,8/1/2023,2000,3500,2800
+Uttrakhand,Nanital,Ramnagar,Cauliflower,Other,FAQ,8/1/2023,4000,4500,4250
+Bihar,Madhubani,Jainagar,Cauliflower,Cauliflower,FAQ,8/2/2023,48000,50000,49000
+Gujarat,Amreli,Damnagar,Cauliflower,Cauliflower,FAQ,8/2/2023,4100,4500,4350
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Cauliflower,Cauliflower,FAQ,8/2/2023,5500,6500,6000
+Himachal Pradesh,Kangra,Palampur,Cauliflower,Cauliflower,FAQ,8/2/2023,5000,6000,5500
+Kerala,Alappuzha,Harippad,Cauliflower,Other,FAQ,8/2/2023,4000,4500,4000
+Madhya Pradesh,Shivpuri,Shivpuri(F&V),Cauliflower,Other,FAQ,8/2/2023,1000,1000,1000
+Punjab,Amritsar,Rayya,Cauliflower,Local,FAQ,8/2/2023,1800,1800,1800
+,,,,,,,,,
+Chattisgarh,Bilaspur,Tiphra,Orange,Orange,Large,7/28/2023,3300,3500,3400
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Orange,Other,Medium,7/28/2023,11000,12150,11575
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Orange,Orange,Medium,7/28/2023,6000,8000,7000
+Maharashtra,Pune,Pune,Orange,Other,FAQ,7/28/2023,7000,11000,9000
+Rajasthan,Bikaner,Bikaner(F&V),Orange,Other,Medium,7/28/2023,3300,3500,3400
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Orange,Other,Medium,7/29/2023,11000,12250,11625
+Maharashtra,Pune,Pune(Moshi),Orange,Other,FAQ,7/29/2023,7000,7000,7000
+Maharashtra,Pune,Pune(Moshi),Orange,Other,FAQ,7/30/2023,7000,7000,7000
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Orange,Other,Medium,7/31/2023,11000,12200,11600
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Orange,Orange,Medium,7/31/2023,8000,10000,9000
+Karnataka,Gulbarga,Gulbarga,Orange,Orange,FAQ,7/31/2023,5000,7000,6000
+Kerala,Idukki,Adimali,Orange,Orange,Large,7/31/2023,12000,12000,12000
+Maharashtra,Pune,Pune,Orange,Other,FAQ,7/31/2023,6000,10000,8000
+Karnataka,Gulbarga,Gulbarga,Orange,Orange,FAQ,8/1/2023,6000,7000,6500
+Kerala,Idukki,Adimali,Orange,Orange,Large,8/1/2023,12000,12000,12000
+Maharashtra,Ahmednagar,Ahmednagar,Orange,Other,FAQ,8/1/2023,2000,9000,5500
+Maharashtra,Pune,Pune,Orange,Other,FAQ,8/1/2023,6000,10000,8000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Orange,Other,FAQ,8/1/2023,5000,6000,5500
+Rajasthan,Bikaner,Bikaner(F&V),Orange,Other,Medium,8/1/2023,3300,3500,3400
+Telangana,Hyderabad,Gaddiannaram,Orange,Darjeeling,Medium,8/1/2023,3500,5000,4250
+,,,,,,,,,
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,7/27/2023,10000,20000,15000
+Himachal Pradesh,Kangra,Palampur,Apple,Apple,Medium,7/27/2023,20000,21000,20500
+Himachal Pradesh,Kangra,Palampur,Apple,Kullu Royal Delicious,Medium,7/27/2023,8000,13000,10500
+Uttar Pradesh,Baghpat,Baraut,Apple,Kasmir/Shimla - II,Medium,7/27/2023,4700,4900,4800
+Uttrakhand,Dehradoon,Vikasnagar,Apple,Other,Medium,7/27/2023,1200,2500,2500
+Bihar,Kishanganj,Bahadurganj,Apple,American,Medium,7/28/2023,9000,9500,9400
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Apple,Other,Large,7/28/2023,10000,25000,20000
+Chattisgarh,Bilaspur,Tiphra,Apple,Apple,Large,7/28/2023,13000,13500,13300
+Chattisgarh,Rajnandgaon,Rajnandgaon,Apple,Apple,Medium,7/28/2023,14000,18000,16000
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Apple,Other,Medium,7/28/2023,21000,22500,21750
+Gujarat,Porbandar,Porbandar,Apple,Apple,Large,7/28/2023,8000,12000,10000
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Apple,Apple,Medium,7/28/2023,6000,15000,10500
+Haryana,Ambala,Ambala Cantt.,Apple,Apple,Medium,7/28/2023,3500,8000,5500
+Haryana,Ambala,Naraingarh,Apple,Other,Medium,7/28/2023,2000,5000,4500
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,7/28/2023,10000,20000,15000
+Haryana,Gurgaon,Pataudi,Apple,Other,Large,7/28/2023,5000,16000,14000
+Haryana,Hissar,Hansi,Apple,Other,Medium,7/28/2023,5000,13000,10000
+Haryana,Jind,Narwana,Apple,Other,Medium,7/28/2023,4800,18000,11400
+Haryana,Kurukshetra,Ladwa,Apple,Apple,Medium,7/28/2023,5000,10000,7000
+Haryana,Kurukshetra,Shahabad,Apple,Apple,Medium,7/28/2023,6420,9000,8000
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Apple,Apple,Medium,7/28/2023,4000,4000,4000
+Haryana,Mahendragarh-Narnaul,Narnaul,Apple,Apple,Medium,7/28/2023,8000,8000,8000
+Haryana,Panchkula,"New Grain Market , Panchkula",Apple,Apple,Large,7/28/2023,8500,9500,9000
+Haryana,Panchkula,Panchkul(Kalka),Apple,Apple,Large,7/28/2023,8500,9500,9000
+Haryana,Rewari,Rewari,Apple,Apple,Medium,7/28/2023,6000,15000,11000
+Haryana,Sirsa,kalanwali,Apple,Other,Medium,7/28/2023,4000,4000,4000
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,7/28/2023,3000,15000,5000
+Haryana,Sonipat,Ganaur,Apple,Other,Medium,7/28/2023,12000,15000,14000
+Haryana,Sonipat,Gohana,Apple,Apple,Large,7/28/2023,10000,15000,10000
+Haryana,Sonipat,Sonepat(Kharkhoda),Apple,Other,Medium,7/28/2023,9000,9000,9000
+Himachal Pradesh,Hamirpur,Hamirpur,Apple,Other,Medium,7/28/2023,7000,12000,9000
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Apple,Other,Medium,7/28/2023,7000,12000,9000
+Himachal Pradesh,Kangra,Kangra,Apple,Other,Medium,7/28/2023,7000,15000,10500
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Apple,Apple,Medium,7/28/2023,8000,14000,11000
+Himachal Pradesh,Kangra,Palampur,Apple,Apple,Medium,7/28/2023,20000,21000,20500
+Himachal Pradesh,Kangra,Palampur,Apple,Kullu Royal Delicious,Medium,7/28/2023,8000,13000,10500
+Himachal Pradesh,Kullu,Bandrol,Apple,Delicious,Medium,7/28/2023,3500,17000,8000
+Himachal Pradesh,Kullu,Bhuntar,Apple,Apple,Medium,7/28/2023,3000,14000,8000
+Himachal Pradesh,Mandi,Mandi(Mandi),Apple,Apple,Medium,7/28/2023,4000,16500,10000
+Himachal Pradesh,Sirmore,Nahan,Apple,Other,Medium,7/28/2023,2000,3000,2500
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Kasmir/Shimla - II,Medium,7/28/2023,4000,8000,6000
+Himachal Pradesh,Solan,Solan,Apple,Apple,Medium,7/28/2023,3000,13000,6500
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Apple,Other,Large,7/28/2023,2500,3600,3050
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Hajratbali,Large,7/28/2023,2000,2400,2200
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Hajratbali,Medium,7/28/2023,1400,1800,1600
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Large,7/28/2023,3600,4400,4000
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Medium,7/28/2023,2000,3000,2500
+Kerala,Malappuram,Kondotty,Apple,Other,Medium,7/28/2023,12000,13000,12500
+Madhya Pradesh,Harda,Harda(F&V),Apple,Apple,Medium,7/28/2023,7000,7500,7200
+Maharashtra,Pune,Pune,Apple,Other,FAQ,7/28/2023,3500,12000,8200
+Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,7/28/2023,8000,20000,14000
+Punjab,Bhatinda,Bathinda,Apple,Other,Large,7/28/2023,8000,15000,10000
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi),Apple,Other,Medium,7/28/2023,6000,14000,10000
+Punjab,Fatehgarh,Bassi Pathana,Apple,Apple,Medium,7/28/2023,9000,9500,9200
+Punjab,Fazilka,Fazilka,Apple,Other,Medium,7/28/2023,15000,20000,18000
+Punjab,Fazilka,Jalalabad,Apple,Other,Large,7/28/2023,14000,14000,14000
+Punjab,Hoshiarpur,Dasuya,Apple,Kasmir/Shimla - II,Large,7/28/2023,5000,6500,5750
+Punjab,Hoshiarpur,Garh Shankar,Apple,Other,Medium,7/28/2023,5000,9000,6500
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Apple,Other,Medium,7/28/2023,3800,7000,6600
+Punjab,Moga,Moga,Apple,Apple,Medium,7/28/2023,230,20200,15000
+Punjab,Mohali,Kurali,Apple,Apple,Medium,7/28/2023,5000,7000,6000
+Punjab,Ropar (Rupnagar),Morinda,Apple,Apple,Medium,7/28/2023,13000,15000,14000
+Punjab,Sangrur,Bhawanigarh,Apple,Other,Medium,7/28/2023,15000,15000,15000
+Rajasthan,Bikaner,Bikaner(F&V),Apple,Other,Medium,7/28/2023,6800,7000,6900
+Rajasthan,Jaipur,Jaipur(F&V),Apple,Other,Medium,7/28/2023,17000,22000,19500
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Apple,Other,Medium,7/28/2023,4000,10000,7000
+Telangana,Warangal,Warangal,Apple,Delicious,Medium,7/28/2023,15000,15000,15000
+Uttar Pradesh,Agra,Agra,Apple,Delicious,Medium,7/28/2023,9550,9900,9700
+Uttar Pradesh,Aligarh,Aligarh,Apple,Delicious,Medium,7/28/2023,9100,9300,9200
+Uttar Pradesh,Aligarh,Charra,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9200,9400,9300
+Uttar Pradesh,Aligarh,Khair,Apple,Delicious,Medium,7/28/2023,9000,9200,9100
+Uttar Pradesh,Allahabad,Allahabad,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9400,9600,9500
+Uttar Pradesh,Allahabad,Jasra,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9140,9400,9300
+Uttar Pradesh,Auraiya,Auraiya,Apple,Delicious,Medium,7/28/2023,9600,10000,9800
+Uttar Pradesh,Badaun,Badayoun,Apple,Delicious,Medium,7/28/2023,8920,9200,8980
+Uttar Pradesh,Badaun,Shahaswan,Apple,Apple,Medium,7/28/2023,6500,6800,6600
+Uttar Pradesh,Baghpat,Baraut,Apple,Kasmir/Shimla - II,Medium,7/28/2023,4200,4400,4300
+Uttar Pradesh,Bahraich,Naanpara,Apple,Royal Delicious,Medium,7/28/2023,10200,10300,10250
+Uttar Pradesh,Ballia,Ballia,Apple,Apple,Medium,7/28/2023,10100,10200,10150
+Uttar Pradesh,Ballia,Rasda,Apple,American,Medium,7/28/2023,10300,10450,10380
+Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,7/28/2023,9900,10100,10000
+Uttar Pradesh,Balrampur,Tulsipur,Apple,Kasmir/Shimla - II,Medium,7/28/2023,10200,10300,10250
+Uttar Pradesh,Balrampur,Utraula,Apple,Delicious,Medium,7/28/2023,9200,9480,9350
+Uttar Pradesh,Banda,Baberu,Apple,Kasmir/Shimla - II,Medium,7/28/2023,8950,9150,9050
+Uttar Pradesh,Barabanki,Rudauli,Apple,Kasmir/Shimla - II,Medium,7/28/2023,10550,10650,10600
+Uttar Pradesh,Barabanki,Safdarganj,Apple,Delicious,Medium,7/28/2023,10550,10650,10600
+Uttar Pradesh,Basti,Basti,Apple,Delicious,Medium,7/28/2023,10050,10150,10100
+Uttar Pradesh,Bulandshahar,Khurja,Apple,Delicious,Medium,7/28/2023,8680,9380,8980
+Uttar Pradesh,Bulandshahar,Siyana,Apple,Red  Gold,Medium,7/28/2023,4400,4700,4600
+Uttar Pradesh,Chandauli,Chandoli,Apple,Delicious,Medium,7/28/2023,10150,10500,10300
+Uttar Pradesh,Etah,Etah,Apple,Kasmir/Shimla - II,Medium,7/28/2023,8200,9500,8835
+Uttar Pradesh,Etah,Kasganj,Apple,Kasmir/Shimla - II,Large,7/28/2023,8750,9350,9060
+Uttar Pradesh,Etawah,Bharthna,Apple,Delicious,Medium,7/28/2023,9550,9950,9750
+Uttar Pradesh,Faizabad,Faizabad,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9900,10200,9950
+Uttar Pradesh,Farukhabad,Farukhabad,Apple,Delicious,Medium,7/28/2023,9500,9800,9650
+Uttar Pradesh,Farukhabad,Kayamganj,Apple,Delicious,Medium,7/28/2023,9700,9800,9750
+Uttar Pradesh,Farukhabad,Mohamadabad,Apple,Apple,Medium,7/28/2023,9600,9800,9700
+Uttar Pradesh,Fatehpur,Bindki,Apple,Delicious,Medium,7/28/2023,9800,9900,9850
+Uttar Pradesh,Fatehpur,Fatehpur,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9200,9400,9300
+Uttar Pradesh,Firozabad,Firozabad,Apple,Delicious,Medium,7/28/2023,9900,10350,10200
+Uttar Pradesh,Ghaziabad,Muradnagar,Apple,Kasmir/Shimla - II,Medium,7/28/2023,6950,7050,7000
+Uttar Pradesh,Ghazipur,Gazipur,Apple,Delicious,Medium,7/28/2023,10000,10200,10100
+Uttar Pradesh,Gonda,Nawabganj,Apple,Delicious,Medium,7/28/2023,10150,10350,10250
+Uttar Pradesh,Hardoi,Sandila,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9850,9950,9900
+Uttar Pradesh,Hathras,Haathras,Apple,Delicious,Medium,7/28/2023,8000,8300,8150
+Uttar Pradesh,Jalaun (Orai),Orai,Apple,Delicious,Medium,7/28/2023,9500,9700,9600
+Uttar Pradesh,Jaunpur,Jaunpur,Apple,Delicious,Medium,7/28/2023,10250,10350,10300
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Apple,Delicious,Medium,7/28/2023,10250,10450,10350
+Uttar Pradesh,Jaunpur,Shahganj,Apple,Delicious,Medium,7/28/2023,10200,10300,10260
+Uttar Pradesh,Jhansi,Mauranipur,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9260,9700,9500
+Uttar Pradesh,Kannuj,Kannauj,Apple,Delicious,Medium,7/28/2023,9600,9800,9700
+Uttar Pradesh,Kanpur,Uttaripura,Apple,American,Medium,7/28/2023,8550,8750,8650
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9850,9960,9900
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Apple,Delicious,Medium,7/28/2023,9900,9980,9945
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,Apple,Delicious,Large,7/28/2023,9410,9520,9450
+Uttar Pradesh,Lakhimpur,Lakhimpur,Apple,Simla,Medium,7/28/2023,9920,10000,9960
+Uttar Pradesh,Lucknow,Lucknow,Apple,Kasmir/Shimla - II,Medium,7/28/2023,10100,10300,10200
+Uttar Pradesh,Mahoba,Mahoba,Apple,Royal Delicious,Medium,7/28/2023,9350,9470,9400
+Uttar Pradesh,Mainpuri,Ghiraur,Apple,Delicious,Medium,7/28/2023,9550,9750,9650
+Uttar Pradesh,Mainpuri,Mainpuri,Apple,Delicious,Large,7/28/2023,9525,9710,9620
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Apple,Delicious,Medium,7/28/2023,5400,5800,5500
+Uttar Pradesh,Mirzapur,Mirzapur,Apple,Delicious,Medium,7/28/2023,10000,10200,10150
+Uttar Pradesh,Muradabad,Muradabad,Apple,Delicious,Medium,7/28/2023,8990,9030,9010
+Uttar Pradesh,Muradabad,Sambhal,Apple,Delicious,Medium,7/28/2023,7800,9350,8800
+Uttar Pradesh,Muzaffarnagar,Kadhle,Apple,Delicious,Medium,7/28/2023,2100,2200,2150
+Uttar Pradesh,Muzaffarnagar,Shamli,Apple,Delicious,Medium,7/28/2023,8100,8230,8165
+Uttar Pradesh,Pillibhit,Vishalpur,Apple,Delicious,Medium,7/28/2023,8900,9050,8980
+Uttar Pradesh,Pratapgarh,Pratapgarh,Apple,Delicious,Medium,7/28/2023,9800,10200,10000
+Uttar Pradesh,Raebarelli,Jayas,Apple,Apple,Medium,7/28/2023,9960,10100,10000
+Uttar Pradesh,Raebarelli,Raibareilly,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9900,10000,9950
+Uttar Pradesh,Rampur,Rampur,Apple,Delicious,Medium,7/28/2023,9000,9100,9050
+Uttar Pradesh,Siddharth Nagar,Naugarh,Apple,Delicious,Medium,7/28/2023,9800,10400,10080
+Uttar Pradesh,Siddharth Nagar,Sahiyapur,Apple,Delicious,Medium,7/28/2023,10050,10150,10100
+Uttar Pradesh,Sitapur,Sitapur,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9650,9950,9850
+Uttar Pradesh,Sitapur,Viswan,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9875,9975,9925
+Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,7/28/2023,10100,10300,10200
+Uttar Pradesh,Sultanpur,Sultanpur,Apple,Delicious,Medium,7/28/2023,9950,10300,10100
+Uttar Pradesh,Unnao,Purwa,Apple,Kasmir/Shimla - II,Medium,7/28/2023,9800,9950,9850
+Uttrakhand,Haridwar,Manglaur,Apple,Other,Medium,7/28/2023,4000,5000,4500
+Uttrakhand,Nanital,Haldwani,Apple,Other,Large,7/28/2023,1500,4000,2500
+Uttrakhand,UdhamSinghNagar,Rudrapur,Apple,Other,Medium,7/28/2023,9000,10000,9200
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Apple,Apple,Medium,7/29/2023,10000,12500,12000
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Apple,Other,Medium,7/29/2023,21000,22700,21850
+Gujarat,Porbandar,Porbandar,Apple,Apple,Large,7/29/2023,8000,10000,9000
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Apple,Apple,Medium,7/29/2023,6000,15000,10500
+Haryana,Ambala,Ambala Cantt.,Apple,Apple,Medium,7/29/2023,4500,8000,6500
+Haryana,Ambala,Naraingarh,Apple,Other,Medium,7/29/2023,3000,4000,3700
+Haryana,Bhiwani,Bhiwani,Apple,Apple,Large,7/29/2023,6000,7500,7000
+Haryana,Fatehabad,Fatehabad,Apple,Other,Large,7/29/2023,13000,15000,14000
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,7/29/2023,10000,15000,12500
+Haryana,Gurgaon,Pataudi,Apple,Other,Large,7/29/2023,4500,18000,12000
+Haryana,Karnal,"New Grain Market(main), Karnal",Apple,Other,Large,7/29/2023,3000,20000,11500
+Haryana,Kurukshetra,Ladwa,Apple,Apple,Medium,7/29/2023,4000,14000,10000
+Haryana,Kurukshetra,Shahabad,Apple,Apple,Medium,7/29/2023,5500,10610,7000
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Apple,Apple,Medium,7/29/2023,5000,13000,6000
+Haryana,Panchkula,Panchkul(Kalka),Apple,Apple,Large,7/29/2023,8500,9500,9000
+Haryana,Rewari,Rewari,Apple,Apple,Medium,7/29/2023,6000,14000,10000
+Haryana,Rohtak,Meham,Apple,Apple,Medium,7/29/2023,5000,5000,5000
+Haryana,Sirsa,Dabwali,Apple,Other,Medium,7/29/2023,4000,20000,12000
+Haryana,Sirsa,Sirsa,Apple,Other,Medium,7/29/2023,3000,16000,14000
+Haryana,Sonipat,Ganaur,Apple,Other,Medium,7/29/2023,12000,15000,14000
+Haryana,Sonipat,Gohana,Apple,Apple,Large,7/29/2023,5000,6000,5000
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,7/29/2023,2800,14000,12000
+Himachal Pradesh,Solan,Solan,Apple,Apple,Medium,7/29/2023,2900,13000,6500
+Kerala,Idukki,Adimali,Apple,Apple,Large,7/29/2023,20000,22000,20000
+Kerala,Malappuram,Kondotty,Apple,Other,Medium,7/29/2023,12500,13500,13000
+Kerala,Malappuram,Manjeri,Apple,Other,Large,7/29/2023,16500,16600,16550
+Maharashtra,Kolhapur,Kolhapur,Apple,Other,FAQ,7/29/2023,6500,15000,13000
+Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,7/29/2023,12000,20000,16000
+Punjab,Bhatinda,Bathinda,Apple,Other,Large,7/29/2023,7000,16000,10000
+Punjab,Fazilka,Jalalabad,Apple,Other,Large,7/29/2023,20000,20000,20000
+Punjab,Ropar (Rupnagar),Morinda,Apple,Apple,Medium,7/29/2023,14000,16000,15000
+Telangana,Warangal,Warangal,Apple,Delicious,Large,7/29/2023,17000,17000,17000
+Telangana,Warangal,Warangal,Apple,Delicious,Medium,7/29/2023,10000,10000,10000
+Telangana,Warangal,Warangal,Apple,Delicious,Small,7/29/2023,8000,8000,8000
+Uttar Pradesh,Aligarh,Charra,Apple,Kasmir/Shimla - II,Medium,7/29/2023,9300,9500,9400
+Uttar Pradesh,Allahabad,Jasra,Apple,Kasmir/Shimla - II,Medium,7/29/2023,8870,9100,9000
+Uttar Pradesh,Auraiya,Achalda,Apple,Delicious,Medium,7/29/2023,9700,9850,9800
+Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,7/29/2023,9900,10100,10000
+Uttar Pradesh,Barabanki,Barabanki,Apple,Delicious,Medium,7/29/2023,10400,10600,10500
+Uttar Pradesh,Barabanki,Rudauli,Apple,Kasmir/Shimla - II,Medium,7/29/2023,10400,10500,10450
+Uttar Pradesh,Barabanki,Safdarganj,Apple,Delicious,Medium,7/29/2023,10400,10500,10450
+Uttar Pradesh,Bareilly,Bareilly,Apple,Delicious,Medium,7/29/2023,9070,9125,9100
+Uttar Pradesh,Bulandshahar,Buland Shahr,Apple,Delicious,Medium,7/29/2023,8800,9050,8900
+Uttar Pradesh,Bulandshahar,Jahangirabad,Apple,Delicious,Medium,7/29/2023,8000,8205,8100
+Uttar Pradesh,Fatehpur,Khaga,Apple,Delicious,Medium,7/29/2023,9450,9560,9500
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Apple,Kasmir/Shimla - II,Medium,7/29/2023,7900,8100,8000
+Uttar Pradesh,Ghaziabad,Ghaziabad,Apple,Kasmir/Shimla - II,Medium,7/29/2023,6900,7100,7000
+Uttar Pradesh,Ghaziabad,Hapur,Apple,Delicious,Medium,7/29/2023,8840,8970,8900
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Apple,Delicious,Medium,7/29/2023,10245,10445,10345
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Apple,Delicious,Medium,7/29/2023,3200,4000,3500
+Uttar Pradesh,Kanpur,Pukhrayan,Apple,Delicious,Medium,7/29/2023,9270,9325,9300
+Uttar Pradesh,Muradabad,Sambhal,Apple,Delicious,Medium,7/29/2023,8250,9500,8500
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Apple,Kasmir/Shimla - II,Medium,7/29/2023,8000,8250,8120
+Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,7/29/2023,10100,10200,10150
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Apple,Apple,Medium,7/30/2023,10000,12500,12000
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Apple,Apple,Medium,7/30/2023,7000,14000,10500
+Himachal Pradesh,Kullu,Bhuntar,Apple,Apple,Medium,7/30/2023,3500,18000,10500
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Apple,Other,Medium,7/30/2023,2500,12700,8000
+Himachal Pradesh,Mandi,Mandi(Takoli),Apple,Other,Medium,7/30/2023,2500,11000,7000
+Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,7/30/2023,10000,18000,14000
+Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,7/30/2023,9900,10100,10000
+Uttar Pradesh,Etah,Kasganj,Apple,Kasmir/Shimla - II,Large,7/30/2023,8750,9300,9040
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Apple,Kasmir/Shimla - II,Medium,7/30/2023,7900,8100,8000
+Uttar Pradesh,Gonda,Nawabganj,Apple,Delicious,Medium,7/30/2023,10150,10350,10250
+Uttar Pradesh,Hardoi,Madhoganj,Apple,Kasmir/Shimla - II,Medium,7/30/2023,9900,10000,9950
+Uttar Pradesh,Hardoi,Sandila,Apple,Kasmir/Shimla - II,Medium,7/30/2023,9900,10000,9950
+Uttar Pradesh,Jalaun (Orai),Orai,Apple,Delicious,Medium,7/30/2023,9500,9700,9600
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Apple,Delicious,Medium,7/30/2023,3200,4000,3500
+Uttar Pradesh,Mahoba,Mahoba,Apple,Royal Delicious,Medium,7/30/2023,9300,9450,9370
+Uttar Pradesh,Mainpuri,Ghiraur,Apple,Delicious,Medium,7/30/2023,9570,9770,9670
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Apple,Kasmir/Shimla - II,Medium,7/30/2023,7900,8100,8000
+Uttar Pradesh,Siddharth Nagar,Naugarh,Apple,Delicious,Medium,7/30/2023,2700,2720,2710
+Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,7/30/2023,10100,10250,10160
+Uttrakhand,UdhamSinghNagar,Bazpur,Apple,Apple,Large,7/30/2023,2390,2390,2390
+Bihar,Kishanganj,Bahadurganj,Apple,American,Medium,7/31/2023,8800,9500,9000
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Apple,Other,Medium,7/31/2023,21000,22750,21875
+Gujarat,Porbandar,Porbandar,Apple,Apple,Large,7/31/2023,13000,18000,15500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Apple,Apple,Medium,7/31/2023,7000,15000,11000
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,7/31/2023,10000,15000,12500
+Haryana,Kurukshetra,Pehowa,Apple,Other,Medium,7/31/2023,9000,9000,9000
+Haryana,Kurukshetra,Shahabad,Apple,Apple,Medium,7/31/2023,7000,7285,7100
+Himachal Pradesh,Hamirpur,Hamirpur,Apple,Other,Medium,7/31/2023,4000,15000,10000
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Apple,Other,Medium,7/31/2023,4000,15000,9000
+Himachal Pradesh,Kangra,Kangra,Apple,Other,Medium,7/31/2023,5000,10000,7500
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Apple,Apple,Medium,7/31/2023,7000,16000,11500
+Himachal Pradesh,Kangra,Palampur,Apple,Apple,Medium,7/31/2023,20000,21000,20500
+Himachal Pradesh,Kangra,Palampur,Apple,Kullu Royal Delicious,Medium,7/31/2023,6000,15000,10500
+Himachal Pradesh,Kullu,Bhuntar,Apple,Apple,Medium,7/31/2023,3500,18000,10500
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Apple,Other,Medium,7/31/2023,2500,12300,9000
+Himachal Pradesh,Mandi,Mandi(Takoli),Apple,Other,Medium,7/31/2023,2200,10500,8000
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Apple,Other,Large,7/31/2023,4300,4700,4500
+Jammu and Kashmir,Kathua,Kathua,Apple,Other,Medium,7/31/2023,4000,8000,6000
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Medium,7/31/2023,4000,5000,4500
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Large,7/31/2023,8000,9000,8500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,7/31/2023,10000,14000,12000
+Karnataka,Gulbarga,Gulbarga,Apple,Apple,FAQ,7/31/2023,10000,15000,12500
+Kerala,Idukki,Thodupuzha,Apple,Other,Medium,7/31/2023,20000,22000,21000
+Kerala,Malappuram,Kottakkal,Apple,Other,Medium,7/31/2023,9600,9700,9650
+Kerala,Malappuram,Manjeri,Apple,Other,Large,7/31/2023,17500,17600,17550
+Maharashtra,Pune,Pune,Apple,Other,FAQ,7/31/2023,3500,13000,8200
+Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,7/31/2023,10000,20000,15000
+Punjab,Barnala,Barnala,Apple,Apple,Large,7/31/2023,3000,5000,4000
+Punjab,Bhatinda,Bathinda,Apple,Other,Large,7/31/2023,7000,15000,8500
+Punjab,Fatehgarh,Bassi Pathana,Apple,Apple,Medium,7/31/2023,5000,6000,5500
+Punjab,Fazilka,Jalalabad,Apple,Other,Large,7/31/2023,13100,13100,13100
+Punjab,Gurdaspur,Dinanagar,Apple,Apple,Medium,7/31/2023,10000,14000,12000
+Punjab,Hoshiarpur,Garh Shankar,Apple,Other,Medium,7/31/2023,4000,9000,5500
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Apple,Other,Medium,7/31/2023,3400,7300,6600
+Punjab,Mohali,Kurali,Apple,Apple,Medium,7/31/2023,5000,6000,5500
+Punjab,Ropar (Rupnagar),Morinda,Apple,Apple,Medium,7/31/2023,8000,10000,9000
+Rajasthan,Jaipur,Jaipur(F&V),Apple,Other,Medium,7/31/2023,17000,22000,19500
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Apple,Other,Medium,7/31/2023,4000,8000,6000
+Telangana,Warangal,Warangal,Apple,Delicious,Medium,7/31/2023,15000,15000,15000
+Uttar Pradesh,Agra,Agra,Apple,Delicious,Medium,7/31/2023,9600,10000,9800
+Uttar Pradesh,Aligarh,Charra,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9300,9500,9400
+Uttar Pradesh,Allahabad,Allahabad,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9100,9350,9200
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Apple,Delicious,Medium,7/31/2023,9900,10500,10200
+Uttar Pradesh,Auraiya,Achalda,Apple,Delicious,Medium,7/31/2023,9700,9900,9800
+Uttar Pradesh,Badaun,Badayoun,Apple,Delicious,Medium,7/31/2023,8940,9200,9000
+Uttar Pradesh,Baghpat,Baraut,Apple,Kasmir/Shimla - II,Medium,7/31/2023,4000,4100,4050
+Uttar Pradesh,Bahraich,Bahraich,Apple,Kasmir/Shimla - II,Medium,7/31/2023,10000,10450,10250
+Uttar Pradesh,Bahraich,Naanpara,Apple,Royal Delicious,Medium,7/31/2023,10200,10300,10250
+Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,7/31/2023,10200,10400,10300
+Uttar Pradesh,Banda,Baberu,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9100,9300,9200
+Uttar Pradesh,Barabanki,Barabanki,Apple,Delicious,Medium,7/31/2023,10100,10300,10200
+Uttar Pradesh,Barabanki,Safdarganj,Apple,Delicious,Medium,7/31/2023,10450,10550,10500
+Uttar Pradesh,Bulandshahar,Siyana,Apple,Red  Gold,Medium,7/31/2023,4500,4700,4600
+Uttar Pradesh,Chitrakut,Karvi,Apple,Kasmir/Shimla - II,Medium,7/31/2023,914,934,924
+Uttar Pradesh,Etah,Etah,Apple,Kasmir/Shimla - II,Medium,7/31/2023,8200,9500,8820
+Uttar Pradesh,Faizabad,Faizabad,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9900,10000,9940
+Uttar Pradesh,Farukhabad,Farukhabad,Apple,Delicious,Medium,7/31/2023,9800,10000,9900
+Uttar Pradesh,Farukhabad,Kayamganj,Apple,Delicious,Medium,7/31/2023,9630,9730,9680
+Uttar Pradesh,Farukhabad,Mohamadabad,Apple,Apple,Medium,7/31/2023,9600,9800,9700
+Uttar Pradesh,Fatehpur,Fatehpur,Apple,Kasmir/Shimla - II,Medium,7/31/2023,8800,9200,9000
+Uttar Pradesh,Firozabad,Firozabad,Apple,Delicious,Medium,7/31/2023,9970,10330,10200
+Uttar Pradesh,Firozabad,Sirsaganj,Apple,Delicious,Medium,7/31/2023,10150,10400,10300
+Uttar Pradesh,Firozabad,Tundla,Apple,Delicious,Large,7/31/2023,9750,10000,9850
+Uttar Pradesh,Ghaziabad,Ghaziabad,Apple,Kasmir/Shimla - II,Medium,7/31/2023,6400,6600,6500
+Uttar Pradesh,Ghaziabad,Noida,Apple,Delicious,Medium,7/31/2023,7850,8050,7950
+Uttar Pradesh,Ghazipur,Gazipur,Apple,Delicious,Medium,7/31/2023,10000,10200,10100
+Uttar Pradesh,Hardoi,Madhoganj,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9900,9950,9920
+Uttar Pradesh,Hardoi,Sandila,Apple,Kasmir/Shimla - II,Large,7/31/2023,9900,10000,9950
+Uttar Pradesh,Jalaun (Orai),Konch,Apple,Delicious,Medium,7/31/2023,9200,9300,9250
+Uttar Pradesh,Jalaun (Orai),Orai,Apple,Delicious,Medium,7/31/2023,9500,9700,9600
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Apple,Delicious,Medium,7/31/2023,10250,10450,10350
+Uttar Pradesh,Jaunpur,Shahganj,Apple,Delicious,Medium,7/31/2023,10300,10450,10400
+Uttar Pradesh,Kanpur,Uttaripura,Apple,American,Medium,7/31/2023,8400,8600,8500
+Uttar Pradesh,Lakhimpur,Paliakala,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9750,9800,9780
+Uttar Pradesh,Mahoba,Mahoba,Apple,Royal Delicious,Medium,7/31/2023,9250,9360,9300
+Uttar Pradesh,Mainpuri,Ghiraur,Apple,Delicious,Medium,7/31/2023,9550,9750,9650
+Uttar Pradesh,Mainpuri,Mainpuri,Apple,Delicious,Medium,7/31/2023,9400,9600,9500
+Uttar Pradesh,Mathura,Mathura,Apple,Delicious,Medium,7/31/2023,9600,10100,9800
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Apple,Delicious,Medium,7/31/2023,5400,5600,5500
+Uttar Pradesh,Mirzapur,Mirzapur,Apple,Delicious,Medium,7/31/2023,10175,10325,10225
+Uttar Pradesh,Muradabad,Sambhal,Apple,Delicious,Medium,7/31/2023,8500,9750,9000
+Uttar Pradesh,Muzaffarnagar,Kadhle,Apple,Delicious,Medium,7/31/2023,2100,2200,2150
+Uttar Pradesh,Muzaffarnagar,Shamli,Apple,Delicious,Medium,7/31/2023,7950,8150,8050
+Uttar Pradesh,Pillibhit,Vishalpur,Apple,Delicious,Medium,7/31/2023,8820,9185,9000
+Uttar Pradesh,Raebarelli,Jayas,Apple,Apple,Medium,7/31/2023,10100,10200,10150
+Uttar Pradesh,Rampur,Rampur,Apple,Delicious,Medium,7/31/2023,9070,9150,9100
+Uttar Pradesh,Siddharth Nagar,Naugarh,Apple,Delicious,Medium,7/31/2023,10100,10300,10200
+Uttar Pradesh,Sitapur,Mehmoodabad,Apple,Golden,Medium,7/31/2023,9810,9940,9870
+Uttar Pradesh,Sitapur,Sitapur,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9750,9980,9880
+Uttar Pradesh,Sitapur,Viswan,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9875,9975,9925
+Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,7/31/2023,10100,10200,10150
+Uttar Pradesh,Sultanpur,Sultanpur,Apple,Delicious,Medium,7/31/2023,9900,10300,10100
+Uttar Pradesh,Unnao,Purwa,Apple,Kasmir/Shimla - II,Medium,7/31/2023,9735,9880,9785
+Uttrakhand,Nanital,Haldwani,Apple,Other,Large,7/31/2023,1000,4500,3000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Apple,Apple,Medium,8/1/2023,10000,12500,12000
+Chattisgarh,Durg,Durg,Apple,Apple,Medium,8/1/2023,18000,20000,19000
+Haryana,Ambala,Ambala City(Subji Mandi),Apple,Other,Medium,8/1/2023,23000,28000,25000
+Haryana,Hissar,Uklana,Apple,Apple,Medium,8/1/2023,5000,5000,5000
+Haryana,Jhajar,Bahadurgarh,Apple,Other,Medium,8/1/2023,5000,8000,6000
+Haryana,Jind,Narwana,Apple,Other,Medium,8/1/2023,7000,15000,11500
+Haryana,Jind,Safidon,Apple,Other,Medium,8/1/2023,6000,8000,7000
+Haryana,Karnal,Tarori,Apple,Apple,Medium,8/1/2023,3000,4000,3500
+Haryana,Kurukshetra,Ladwa,Apple,Apple,Medium,8/1/2023,4000,7000,5000
+Haryana,Kurukshetra,Shahabad,Apple,Apple,Medium,8/1/2023,5050,7000,5500
+Haryana,Kurukshetra,Thanesar,Apple,Apple,Medium,8/1/2023,5000,12000,8000
+Haryana,Rewari,Rewari,Apple,Apple,Medium,8/1/2023,5000,20000,13500
+Haryana,Rohtak,Rohtak,Apple,Other,Large,8/1/2023,6000,12000,8000
+Haryana,Rohtak,Sampla,Apple,Other,Large,8/1/2023,12000,12000,12000
+Haryana,Sonipat,Gohana,Apple,Apple,Large,8/1/2023,5000,15000,5000
+Haryana,Sonipat,Sonepat(Kharkhoda),Apple,Other,Medium,8/1/2023,8000,8000,8000
+Haryana,Yamuna Nagar,Jagadhri,Apple,Other,Medium,8/1/2023,2800,13000,10000
+Haryana,Yamuna Nagar,Radaur,Apple,Other,Medium,8/1/2023,4500,6000,5000
+Haryana,Yamuna Nagar,Sadhaura,Apple,Other,Medium,8/1/2023,5000,6000,5500
+Himachal Pradesh,Bilaspur,Bilaspur,Apple,Other,Medium,8/1/2023,12000,26000,14000
+Himachal Pradesh,Hamirpur,Hamirpur,Apple,Other,Large,8/1/2023,7000,17000,12000
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Apple,Apple,Medium,8/1/2023,7000,16000,11500
+Himachal Pradesh,Kangra,Palampur,Apple,Apple,Medium,8/1/2023,20000,21000,20500
+Himachal Pradesh,Kangra,Palampur,Apple,Kullu Royal Delicious,Medium,8/1/2023,6000,15000,10500
+Himachal Pradesh,Kullu,Bandrol,Apple,Delicious,Medium,8/1/2023,5100,25200,8800
+Himachal Pradesh,Kullu,Bhuntar,Apple,Apple,Medium,8/1/2023,3000,14000,8500
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Apple,Other,Medium,8/1/2023,2000,14000,8000
+Himachal Pradesh,Mandi,Mandi(Mandi),Apple,Apple,Medium,8/1/2023,3000,15000,10000
+Himachal Pradesh,Mandi,Mandi(Takoli),Apple,Other,Medium,8/1/2023,2000,9500,7000
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Kasmir/Shimla - II,Small,8/1/2023,4000,6000,5000
+Himachal Pradesh,Sirmore,Paonta Sahib,Apple,Kasmir/Shimla - II,Medium,8/1/2023,6000,9000,7500
+Himachal Pradesh,Una,Una,Apple,Kullu Royal Delicious,Medium,8/1/2023,8000,15000,11000
+Himachal Pradesh,Una,Una,Apple,Other,Medium,8/1/2023,20000,25000,22500
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Apple,Other,Small,8/1/2023,3600,4300,3950
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Apple,Other,Large,8/1/2023,6600,7700,7150
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Apple,Other,Medium,8/1/2023,5000,6000,5500
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Apple,Hajratbali,Medium,8/1/2023,4000,6000,5000
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Apple,Rizakwadi,Medium,8/1/2023,3000,5000,4000
+Jammu and Kashmir,Kathua,Kathua,Apple,Other,Medium,8/1/2023,4000,8000,6000
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Large,8/1/2023,8000,9000,8500
+Jammu and Kashmir,Srinagar,Ganderbal,Apple,Other,Medium,8/1/2023,6000,7000,6500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Apple,Apple,Large,8/1/2023,10000,15000,12500
+Karnataka,Davangere,Davangere,Apple,Apple,FAQ,8/1/2023,8500,9000,8800
+Karnataka,Gulbarga,Gulbarga,Apple,Apple,FAQ,8/1/2023,8000,13000,10500
+Kerala,Idukki,Adimali,Apple,Apple,Large,8/1/2023,20000,22000,20000
+Kerala,Idukki,Adimali,Apple,Apple,Medium,8/1/2023,12000,12000,12000
+Kerala,Idukki,Vandiperiyar,Apple,Other,Medium,8/1/2023,3420,3420,3420
+Kerala,Malappuram,Kondotty,Apple,Other,Medium,8/1/2023,12500,13500,13000
+Kerala,Malappuram,Kottakkal,Apple,Other,Medium,8/1/2023,9800,9900,9850
+Kerala,Malappuram,Manjeri,Apple,Other,Large,8/1/2023,17500,17600,17550
+Madhya Pradesh,Indore,Indore(F&V),Apple,Apple,Medium,8/1/2023,6000,20000,12000
+Madhya Pradesh,Katni,Katni(F&V),Apple,Other,Medium,8/1/2023,3000,4000,3500
+Maharashtra,Ahmednagar,Ahmednagar,Apple,Other,FAQ,8/1/2023,13000,17000,15000
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Apple,Simla,FAQ,8/1/2023,8000,12000,10000
+Maharashtra,Aurangabad,Aurangabad,Apple,Other,FAQ,8/1/2023,1000,15000,12500
+Maharashtra,Mumbai,Fruit Market,Apple,Other,FAQ,8/1/2023,7500,15000,11250
+Maharashtra,Nagpur,Nagpur,Apple,Other,FAQ,8/1/2023,11000,13000,12500
+Maharashtra,Nagpur,Nagpur,Apple,Simla,FAQ,8/1/2023,4000,6000,5500
+Maharashtra,Pune,Pune,Apple,Other,FAQ,8/1/2023,3500,13000,8200
+Maharashtra,Pune,Pune(Moshi),Apple,Other,FAQ,8/1/2023,10000,20000,15000
+Maharashtra,Sangli,"Sangli(Phale, Bhajipura Market)",Apple,Other,FAQ,8/1/2023,5000,15625,10312
+Maharashtra,Sholapur,Solapur,Apple,Other,FAQ,8/1/2023,7000,17000,10000
+Maharashtra,Thane,Kalyan,Apple,Simla,FAQ,8/1/2023,10000,16000,13000
+NCT of Delhi,Delhi,Azadpur,Apple,Condition,Large,8/1/2023,1333,4167,2583
+NCT of Delhi,Delhi,Azadpur,Apple,Delicious,Large,8/1/2023,4000,16000,9111
+NCT of Delhi,Delhi,Azadpur,Apple,Golden,Large,8/1/2023,1600,3600,2600
+NCT of Delhi,Delhi,Azadpur,Apple,Hajratbali,Large,8/1/2023,833,4167,2333
+NCT of Delhi,Delhi,Azadpur,Apple,Kullu Royal Delicious,Large,8/1/2023,5000,15000,9333
+NCT of Delhi,Delhi,Azadpur,Apple,Royal Delicious,Large,8/1/2023,2400,13000,7167
+Odisha,Mayurbhanja,Karanjia,Apple,Other,Large,8/1/2023,14700,15500,15000
+Odisha,Mayurbhanja,Karanjia,Apple,Other,Small,8/1/2023,14300,15000,14500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Apple,Apple,Medium,8/1/2023,2000,5500,3500
+Punjab,Bhatinda,Rampuraphul(Nabha Mandi),Apple,Other,Medium,8/1/2023,7000,12000,9000
+Punjab,Faridkot,Faridkot,Apple,Apple,Large,8/1/2023,4500,25000,22000
+Punjab,Fatehgarh,Bassi Pathana,Apple,Apple,Medium,8/1/2023,6000,7000,6500
+Punjab,Fazilka,Abohar,Apple,Apple,Medium,8/1/2023,11120,17580,13500
+Punjab,Fazilka,Jalalabad,Apple,Other,Large,8/1/2023,13000,13000,13000
+Punjab,Ferozpur,Zira,Apple,American,Large,8/1/2023,3700,3900,3800
+Punjab,Gurdaspur,Dinanagar,Apple,Apple,Medium,8/1/2023,10000,12000,12000
+Punjab,Hoshiarpur,Dasuya,Apple,Kasmir/Shimla - II,Medium,8/1/2023,3000,3500,3250
+Punjab,Hoshiarpur,Dasuya,Apple,Kasmir/Shimla - II,Large,8/1/2023,5000,6000,5500
+Punjab,Hoshiarpur,Garh Shankar,Apple,Other,Medium,8/1/2023,4500,7000,5500
+Punjab,Hoshiarpur,Mukerian,Apple,Apple,Medium,8/1/2023,11000,14000,12000
+Punjab,Hoshiarpur,Mukerian(Talwara),Apple,Other,Medium,8/1/2023,6000,10000,8000
+Punjab,Hoshiarpur,Tanda Urmur,Apple,Other,Medium,8/1/2023,13000,15000,14000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Apple,Other,Medium,8/1/2023,3500,7500,6700
+Punjab,Moga,Baghapurana,Apple,Apple,Medium,8/1/2023,3000,3500,3200
+Punjab,Patiala,Nabha,Apple,Other,Medium,8/1/2023,4000,16000,6400
+Punjab,Sangrur,Bhawanigarh,Apple,Other,Medium,8/1/2023,4000,14000,9000
+Rajasthan,Bikaner,Bikaner(F&V),Apple,Other,Medium,8/1/2023,6800,7000,6900
+Rajasthan,Jaipur,Jaipur(F&V),Apple,Other,Large,8/1/2023,17000,22000,19500
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Apple,Other,Medium,8/1/2023,4000,8000,6000
+Rajasthan,Udaipur,Udaipur(F&V),Apple,Other,Medium,8/1/2023,6000,10000,8000
+Telangana,Hyderabad,Gaddiannaram,Apple,Simla,Medium,8/1/2023,5300,23300,10000
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Apple,Delicious,Medium,8/1/2023,9900,10300,10200
+Uttar Pradesh,Auraiya,Achalda,Apple,Delicious,Medium,8/1/2023,9700,9900,9800
+Uttar Pradesh,Auraiya,Auraiya,Apple,Delicious,Medium,8/1/2023,9700,10000,9800
+Uttar Pradesh,Azamgarh,Azamgarh,Apple,Delicious,Medium,8/1/2023,9900,10150,10060
+Uttar Pradesh,Baghpat,Baraut,Apple,Kasmir/Shimla - II,Medium,8/1/2023,4100,4300,4200
+Uttar Pradesh,Bahraich,Bahraich,Apple,Kasmir/Shimla - II,Medium,8/1/2023,10000,10500,10250
+Uttar Pradesh,Bahraich,Naanpara,Apple,Royal Delicious,Medium,8/1/2023,10200,10300,10250
+Uttar Pradesh,Ballia,Ballia,Apple,Apple,Medium,8/1/2023,10050,10160,10110
+Uttar Pradesh,Balrampur,Balrampur,Apple,Delicious,Medium,8/1/2023,10200,10400,10300
+Uttar Pradesh,Balrampur,Tulsipur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,10200,10300,10250
+Uttar Pradesh,Banda,Atarra,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9150,9250,9200
+Uttar Pradesh,Barabanki,Rudauli,Apple,Kasmir/Shimla - II,Medium,8/1/2023,10180,10260,10220
+Uttar Pradesh,Barabanki,Safdarganj,Apple,Delicious,Medium,8/1/2023,6450,6500,6490
+Uttar Pradesh,Bareilly,Bareilly,Apple,Delicious,Medium,8/1/2023,9150,9250,9200
+Uttar Pradesh,Basti,Basti,Apple,Delicious,Medium,8/1/2023,10030,10130,10080
+Uttar Pradesh,Deoria,Devariya,Apple,Delicious,Medium,8/1/2023,10050,10070,10060
+Uttar Pradesh,Etah,Kasganj,Apple,Kasmir/Shimla - II,Large,8/1/2023,8700,9280,9000
+Uttar Pradesh,Etawah,Bharthna,Apple,Delicious,Medium,8/1/2023,9400,9800,9600
+Uttar Pradesh,Etawah,Etawah,Apple,Delicious,Medium,8/1/2023,9150,9750,9550
+Uttar Pradesh,Faizabad,Faizabad,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9850,10100,9900
+Uttar Pradesh,Farukhabad,Farukhabad,Apple,Delicious,Medium,8/1/2023,9700,9950,9800
+Uttar Pradesh,Farukhabad,Kayamganj,Apple,Delicious,Medium,8/1/2023,9600,9700,9650
+Uttar Pradesh,Fatehpur,Bindki,Apple,Delicious,Medium,8/1/2023,9200,9360,9300
+Uttar Pradesh,Fatehpur,Fatehpur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9000,9200,9100
+Uttar Pradesh,Fatehpur,Khaga,Apple,Delicious,Medium,8/1/2023,9200,9275,9250
+Uttar Pradesh,Ghazipur,Gazipur,Apple,Delicious,Medium,8/1/2023,9900,10100,10000
+Uttar Pradesh,Gorakhpur,Gorakhpur,Apple,Delicious,Medium,8/1/2023,10050,10400,10200
+Uttar Pradesh,Hamirpur,Raath,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9000,9230,9150
+Uttar Pradesh,Hardoi,Madhoganj,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9900,9950,9920
+Uttar Pradesh,Hardoi,Sandila,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9850,9950,9900
+Uttar Pradesh,Jalaun (Orai),Jalaun,Apple,Apple,Small,8/1/2023,2900,3100,3000
+Uttar Pradesh,Jalaun (Orai),Konch,Apple,Delicious,Medium,8/1/2023,9250,9350,9300
+Uttar Pradesh,Jaunpur,Jaunpur,Apple,Delicious,Medium,8/1/2023,9950,10050,10000
+Uttar Pradesh,Jaunpur,Mugrabaadshahpur,Apple,Delicious,Medium,8/1/2023,10200,10400,10300
+Uttar Pradesh,Jaunpur,Shahganj,Apple,Delicious,Medium,8/1/2023,10400,10500,10450
+Uttar Pradesh,Jhansi,Mauranipur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9300,9700,9540
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Apple,Delicious,Medium,8/1/2023,3000,4000,3500
+Uttar Pradesh,Kanpur,Jhijhank,Apple,Delicious,Medium,8/1/2023,8700,9000,8850
+Uttar Pradesh,Kanpur,Kanpur(Grain),Apple,Delicious,Medium,8/1/2023,7900,8100,8000
+Uttar Pradesh,Kanpur,Uttaripura,Apple,American,Medium,8/1/2023,8300,8500,8400
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9760,9930,9850
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Apple,Delicious,Medium,8/1/2023,9860,9960,9910
+Uttar Pradesh,Lakhimpur,Golagokarnath,Apple,Delicious,Medium,8/1/2023,9810,10000,9910
+Uttar Pradesh,Lakhimpur,Lakhimpur,Apple,Simla,Medium,8/1/2023,9880,9980,9920
+Uttar Pradesh,Lakhimpur,Paliakala,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9800,9900,9850
+Uttar Pradesh,Lalitpur,Lalitpur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,8930,9000,8960
+Uttar Pradesh,Lucknow,Lucknow,Apple,Kasmir/Shimla - II,Medium,8/1/2023,10100,10300,10200
+Uttar Pradesh,Maharajganj,Anandnagar,Apple,Delicious,Medium,8/1/2023,9800,10350,10040
+Uttar Pradesh,Mainpuri,Ghiraur,Apple,Delicious,Medium,8/1/2023,9400,9600,9500
+Uttar Pradesh,Mainpuri,Mainpuri,Apple,Delicious,Medium,8/1/2023,9420,9615,9525
+Uttar Pradesh,Mathura,Mathura,Apple,Delicious,Medium,8/1/2023,9800,10500,10200
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Apple,Delicious,Medium,8/1/2023,5400,5600,5500
+Uttar Pradesh,Mirzapur,Ahirora,Apple,Delicious,Medium,8/1/2023,9800,10100,9930
+Uttar Pradesh,Mirzapur,Mirzapur,Apple,Delicious,Medium,8/1/2023,9875,10000,9935
+Uttar Pradesh,Muradabad,Muradabad,Apple,Delicious,Medium,8/1/2023,9020,9060,9040
+Uttar Pradesh,Muradabad,Sambhal,Apple,Delicious,Medium,8/1/2023,8500,9850,9000
+Uttar Pradesh,Muzaffarnagar,Khatauli,Apple,Apple,Medium,8/1/2023,8000,8400,8100
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Apple,Kasmir/Shimla - II,Medium,8/1/2023,7500,7700,7600
+Uttar Pradesh,Muzaffarnagar,Shamli,Apple,Delicious,Medium,8/1/2023,7550,7750,7650
+Uttar Pradesh,Muzaffarnagar,Thanabhawan,Apple,Kasmir/Shimla - II,Medium,8/1/2023,7000,8000,7500
+Uttar Pradesh,Pillibhit,Pilibhit,Apple,Delicious,Medium,8/1/2023,8920,8995,8960
+Uttar Pradesh,Pillibhit,Puranpur,Apple,Delicious,Medium,8/1/2023,8915,9010,8965
+Uttar Pradesh,Pratapgarh,Pratapgarh,Apple,Delicious,Medium,8/1/2023,10000,10400,10250
+Uttar Pradesh,Raebarelli,Raibareilly,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9930,10000,9950
+Uttar Pradesh,Rampur,Rampur,Apple,Delicious,Medium,8/1/2023,9070,9150,9100
+Uttar Pradesh,Saharanpur,Saharanpur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,7200,7700,7500
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Apple,Simla,Medium,8/1/2023,8800,8950,8865
+Uttar Pradesh,Siddharth Nagar,Naugarh,Apple,Delicious,Medium,8/1/2023,10100,10300,10200
+Uttar Pradesh,Sitapur,Mehmoodabad,Apple,Golden,Medium,8/1/2023,9810,9940,9870
+Uttar Pradesh,Sitapur,Sitapur,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9750,9980,9890
+Uttar Pradesh,Sitapur,Viswan,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9870,9970,9920
+Uttar Pradesh,Sultanpur,Jafarganj,Apple,Delicious,Medium,8/1/2023,10000,10200,10100
+Uttar Pradesh,Sultanpur,Sultanpur,Apple,Delicious,Medium,8/1/2023,9900,10300,10150
+Uttar Pradesh,Unnao,Bangarmau,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9750,9825,9800
+Uttar Pradesh,Unnao,Purwa,Apple,Kasmir/Shimla - II,Medium,8/1/2023,9750,9900,9800
+Uttrakhand,Dehradoon,Dehradoon,Apple,Apple,Medium,8/1/2023,7000,11000,9000
+Uttrakhand,Haridwar,Manglaur,Apple,Other,Medium,8/1/2023,4000,5000,4500
+Uttrakhand,Nanital,Haldwani,Apple,Other,Large,8/1/2023,1000,4000,3000
+Uttrakhand,UdhamSinghNagar,Kashipur,Apple,Other,Large,8/1/2023,1600,2000,1800
+Uttrakhand,UdhamSinghNagar,Rudrapur,Apple,Other,Large,8/1/2023,9000,10000,9400
+Haryana,Gurgaon,Gurgaon,Apple,Other,Large,8/2/2023,10000,15000,12500
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Apple,Apple,Medium,8/2/2023,6000,13000,9500
+Himachal Pradesh,Kangra,Palampur,Apple,Kullu Royal Delicious,Medium,8/2/2023,6000,12000,9000
+Punjab,Bhatinda,Bathinda,Apple,Other,Large,8/2/2023,7000,15000,10000
+Uttrakhand,Dehradoon,Vikasnagar,Apple,Other,Medium,8/2/2023,1500,6000,3500

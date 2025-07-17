@@ -1,0 +1,1020 @@
+State,District,Market,Commodity,Variety,Grade,Arrival_Date,Min Price,Max Price,Modal Price
+Himachal Pradesh,Kangra,Palampur,Banana,Banana - Ripe,Medium,07/27/2023,3500,4000,3750
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,07/27/2023,5000,5500,5000
+Uttrakhand,Dehradoon,Vikasnagar,Banana,Other,Medium,07/27/2023,1000,1500,1500
+Bihar,Kishanganj,Bahadurganj,Banana,Amruthapani,Medium,07/28/2023,2400,2600,2500
+Chattisgarh,Bilaspur,Tiphra,Banana,Banana - Ripe,Large,07/28/2023,3000,3300,3200
+Chattisgarh,Rajnandgaon,Rajnandgaon,Banana,Banana - Ripe,Medium,07/28/2023,3000,6000,4500
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,07/28/2023,2750,3400,3075
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,07/28/2023,2000,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Banana,Banana - Ripe,Medium,07/28/2023,2000,2600,2300
+Haryana,Ambala,Barara,Banana,Other,Medium,07/28/2023,2200,2300,2200
+Haryana,Fatehabad,Jakhal,Banana,Other,Medium,07/28/2023,3500,3500,3500
+Haryana,Gurgaon,Pataudi,Banana,Other,Large,07/28/2023,4200,4500,4400
+Haryana,Hissar,Barwala(Hisar),Banana,Other,Medium,07/28/2023,1400,1500,1500
+Haryana,Jind,Narwana,Banana,Other,Medium,07/28/2023,1600,1600,1600
+Haryana,Kurukshetra,Ladwa,Banana,Other,Medium,07/28/2023,2500,3000,2750
+Haryana,Kurukshetra,Shahabad,Banana,Banana - Ripe,Medium,07/28/2023,2500,3190,2700
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Banana,Banana - Ripe,Medium,07/28/2023,1500,2000,1750
+Haryana,Mahendragarh-Narnaul,Narnaul,Banana,Other,Medium,07/28/2023,1500,2500,2500
+Haryana,Palwal,Hassanpur,Banana,Other,Medium,07/28/2023,800,800,800
+Haryana,Panchkula,"New Grain Market , Panchkula",Banana,Other,Large,07/28/2023,5000,7000,6000
+Haryana,Rewari,Kosli,Banana,Other,Medium,07/28/2023,1800,1800,1800
+Haryana,Rewari,Rewari,Banana,Other,Medium,07/28/2023,1100,3200,2200
+Haryana,Sirsa,Sirsa,Banana,Other,Medium,07/28/2023,1800,1800,1800
+Haryana,Sonipat,Ganaur,Banana,Banana - Ripe,Medium,07/28/2023,3000,4000,3500
+Haryana,Sonipat,Sonepat(Kharkhoda),Banana,Other,Medium,07/28/2023,2200,2200,2200
+Haryana,Yamuna Nagar,Radaur,Banana,Other,Medium,07/28/2023,2500,3500,3000
+Himachal Pradesh,Chamba,Chamba,Banana,Other,Medium,07/28/2023,4500,5000,4750
+Himachal Pradesh,Hamirpur,Hamirpur,Banana,Other,Medium,07/28/2023,3000,3200,3100
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Banana,Other,Medium,07/28/2023,3000,3200,3100
+Himachal Pradesh,Kangra,Kangra,Banana,Other,Medium,07/28/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Banana,Banana - Ripe,Medium,07/28/2023,3600,4200,3900
+Himachal Pradesh,Kangra,Palampur,Banana,Banana - Ripe,Medium,07/28/2023,3500,4000,3750
+Himachal Pradesh,Kullu,Bhuntar,Banana,Other,Medium,07/28/2023,2880,3000,2940
+Himachal Pradesh,Kullu,Kullu,Banana,Other,Medium,07/28/2023,3000,3200,3100
+Himachal Pradesh,Mandi,Mandi(Mandi),Banana,Banana - Ripe,Medium,07/28/2023,3000,5500,5000
+Himachal Pradesh,Sirmore,Nahan,Banana,Other,Medium,07/28/2023,2000,3500,2800
+Himachal Pradesh,Solan,Solan,Banana,Other,Medium,07/28/2023,2100,3300,2700
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Banana,Other,Large,07/28/2023,4200,4400,4300
+Jammu and Kashmir,Srinagar,Parimpore,Banana,Other,Large,07/28/2023,4000,4300,4200
+Karnataka,Bangalore,Channapatana,Banana,Elakki Bale,FAQ,07/28/2023,4000,6500,5700
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,07/28/2023,5000,5500,5000
+Kerala,Kollam,Anchal,Banana,Nendra Bale,Medium,07/28/2023,8500,8700,8600
+Kerala,Kollam,Anchal,Banana,Palayamthodan,Medium,07/28/2023,3600,3800,3700
+Kerala,Kollam,Anchal,Banana,Poovan,Medium,07/28/2023,7200,7400,7300
+Kerala,Kollam,Anchal,Banana,Red Banana,Medium,07/28/2023,5600,5800,5700
+Kerala,Kollam,Anchal,Banana,Robusta,Medium,07/28/2023,3200,3400,3300
+Kerala,Kollam,Sasthamkotta,Banana,Nendra Bale,Medium,07/28/2023,8000,8500,8200
+Kerala,Kollam,Sasthamkotta,Banana,Palayamthodan,Medium,07/28/2023,2300,2800,2500
+Kerala,Kollam,Sasthamkotta,Banana,Poovan,Medium,07/28/2023,6000,6500,6200
+Kerala,Kollam,Sasthamkotta,Banana,Red Banana,Medium,07/28/2023,6000,6500,6200
+Kerala,Kollam,Sasthamkotta,Banana,Robusta,Medium,07/28/2023,3000,3500,3200
+Kerala,Kottayam,Kottayam,Banana,Banana - Ripe,Medium,07/28/2023,5800,6200,6000
+Kerala,Kottayam,Kottayam,Banana,Palayamthodan,Medium,07/28/2023,2000,2400,2200
+Kerala,Kottayam,Kottayam,Banana,Poovan,Medium,07/28/2023,6300,6700,6500
+Kerala,Kottayam,Kuruppanthura,Banana,Palayamthodan,Medium,07/28/2023,900,2000,1400
+Kerala,Kottayam,Kuruppanthura,Banana,Poovan,Medium,07/28/2023,5400,6500,6000
+Kerala,Kottayam,Kuruppanthura,Banana,Robusta,Medium,07/28/2023,2000,3000,2500
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Nendra Bale,Medium,07/28/2023,5000,5400,5200
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Palayamthodan,Medium,07/28/2023,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Rasakathai,Medium,07/28/2023,5300,5700,5500
+Kerala,Palakad,Pattambi,Banana,Nendra Bale,Medium,07/28/2023,5000,5500,5200
+Kerala,Palakad,Pattambi,Banana,Palayamthodan,Medium,07/28/2023,3000,3500,3200
+Kerala,Thirssur,Mattathur,Banana,Nendra Bale,Medium,07/28/2023,3800,4300,4000
+Kerala,Thirssur,Mattathur,Banana,Palayamthodan,Medium,07/28/2023,1500,2000,1800
+Kerala,Thirssur,Mattathur,Banana,Robusta,Medium,07/28/2023,1500,2000,1800
+Maharashtra,Pune,Pune,Banana,Other,FAQ,07/28/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,07/28/2023,2000,5000,3500
+Meghalaya,East Khasi Hills,Shillong,Banana,Banana - Ripe,Large,07/28/2023,2000,4500,3900
+Meghalaya,West Garo Hills,Tura,Banana,Champa,Medium,07/28/2023,4000,4200,4100
+Nagaland,Mokokchung,Tuli,Banana,Other,Medium,07/28/2023,10000,10200,10100
+Punjab,Bhatinda,Bathinda,Banana,Other,Large,07/28/2023,1500,1550,1500
+Punjab,Bhatinda,Bhagta Bhai Ka,Banana,Other,Medium,07/28/2023,3500,3500,3500
+Punjab,Fatehgarh,Bassi Pathana,Banana,Medium,Medium,07/28/2023,3000,3000,3000
+Punjab,Fazilka,Fazilka,Banana,Other,Medium,07/28/2023,2800,3000,2900
+Punjab,Fazilka,Jalalabad,Banana,Other,Large,07/28/2023,2400,2600,2500
+Punjab,Ferozpur,Mamdot,Banana,Other,Medium,07/28/2023,2400,2600,2500
+Punjab,Hoshiarpur,Garh Shankar,Banana,Medium,Medium,07/28/2023,1500,1800,1700
+Punjab,Hoshiarpur,Mukerian(Talwara),Banana,Other,Medium,07/28/2023,2000,2600,2300
+Punjab,Ropar (Rupnagar),Morinda,Banana,Medium,Medium,07/28/2023,3000,3500,3200
+Punjab,Ropar (Rupnagar),Ropar,Banana,Other,Medium,07/28/2023,1600,1900,1800
+Punjab,Sangrur,Bhawanigarh,Banana,Other,Medium,07/28/2023,2000,2500,2250
+Punjab,Tarntaran,Patti,Banana,Other,Medium,07/28/2023,2500,3000,2800
+Rajasthan,Bikaner,Bikaner(F&V),Banana,Other,Medium,07/28/2023,2100,2300,2200
+Rajasthan,Jaipur,Jaipur(F&V),Banana,Other,Medium,07/28/2023,2500,3000,2750
+Rajasthan,Jalore,Jalore,Banana,Banana - Ripe,Medium,07/28/2023,2600,2800,2700
+Rajasthan,Kota,Kota (FV),Banana,Other,Large,07/28/2023,1500,2500,2000
+Tamil Nadu,Theni,Chinnamanur,Banana,Poovan,Medium,07/28/2023,2200,2800,2600
+Tamil Nadu,Theni,Chinnamanur,Banana,Red Banana,Medium,07/28/2023,4400,4800,4600
+Tripura,Sepahijala,Bishramganj,Banana,Champa,Medium,07/28/2023,2000,2500,2500
+Tripura,Sepahijala,Melaghar,Banana,Banana - Ripe,Medium,07/28/2023,1800,2300,2000
+Uttar Pradesh,Agra,Achnera,Banana,Banana - Ripe,Medium,07/28/2023,2270,2330,2300
+Uttar Pradesh,Aligarh,Aligarh,Banana,Banana - Ripe,Medium,07/28/2023,2250,2350,2300
+Uttar Pradesh,Aligarh,Charra,Banana,Banana - Ripe,Medium,07/28/2023,2300,2400,2350
+Uttar Pradesh,Allahabad,Allahabad,Banana,Banana - Ripe,Medium,07/28/2023,2680,2800,2700
+Uttar Pradesh,Allahabad,Jasra,Banana,Banana - Ripe,Medium,07/28/2023,2510,2680,2600
+Uttar Pradesh,Auraiya,Auraiya,Banana,Banana - Ripe,Medium,07/28/2023,2350,2750,2550
+Uttar Pradesh,Badaun,Shahaswan,Banana,Amruthapani,Medium,07/28/2023,1900,2200,2000
+Uttar Pradesh,Ballia,Ballia,Banana,Medium,Medium,07/28/2023,3100,3160,3130
+Uttar Pradesh,Ballia,Rasda,Banana,Banana - Ripe,Medium,07/28/2023,3150,3300,3220
+Uttar Pradesh,Ballia,Vilthararoad,Banana,Medium,Medium,07/28/2023,1700,1800,1750
+Uttar Pradesh,Balrampur,Utraula,Banana,Banana - Ripe,Medium,07/28/2023,1620,1800,1750
+Uttar Pradesh,Banda,Baberu,Banana,Banana - Ripe,Medium,07/28/2023,1950,2150,2050
+Uttar Pradesh,Barabanki,Safdarganj,Banana,Banana - Ripe,Medium,07/28/2023,3300,3400,3350
+Uttar Pradesh,Bareilly,Bareilly,Banana,Banana - Ripe,Medium,07/28/2023,2750,2850,2800
+Uttar Pradesh,Bulandshahar,Sikanderabad,Banana,Banana - Ripe,Medium,07/28/2023,1000,1200,1100
+Uttar Pradesh,Etah,Kasganj,Banana,Banana - Ripe,Large,07/28/2023,1920,2300,2100
+Uttar Pradesh,Etawah,Bharthna,Banana,Banana - Ripe,Medium,07/28/2023,2500,2900,2700
+Uttar Pradesh,Faizabad,Faizabad,Banana,Banana - Ripe,Medium,07/28/2023,2600,2700,2690
+Uttar Pradesh,Farukhabad,Farukhabad,Banana,Banana - Ripe,Medium,07/28/2023,2400,2600,2550
+Uttar Pradesh,Farukhabad,Kayamganj,Banana,Banana - Ripe,Medium,07/28/2023,2530,2700,2620
+Uttar Pradesh,Farukhabad,Mohamadabad,Banana,Banana - Ripe,Medium,07/28/2023,2450,2650,2550
+Uttar Pradesh,Fatehpur,Bindki,Banana,Banana - Ripe,Medium,07/28/2023,2500,2600,2570
+Uttar Pradesh,Fatehpur,Fatehpur,Banana,Banana - Ripe,Medium,07/28/2023,2450,2630,2560
+Uttar Pradesh,Firozabad,Firozabad,Banana,Banana - Ripe,Medium,07/28/2023,2300,2460,2400
+Uttar Pradesh,Hathras,Haathras,Banana,Banana - Ripe,Medium,07/28/2023,2100,2350,2280
+Uttar Pradesh,Jalaun (Orai),Jalaun,Banana,Banana - Ripe,Medium,07/28/2023,1750,2000,1800
+Uttar Pradesh,Jalaun (Orai),Orai,Banana,Banana - Ripe,Medium,07/28/2023,2100,2200,2150
+Uttar Pradesh,Jaunpur,Jaunpur,Banana,Banana - Ripe,Medium,07/28/2023,3200,3260,3230
+Uttar Pradesh,Jaunpur,Shahganj,Banana,Other,Medium,07/28/2023,2700,2900,2800
+Uttar Pradesh,Jhansi,Mauranipur,Banana,Banana - Ripe,Medium,07/28/2023,2100,2500,2300
+Uttar Pradesh,Kannuj,Kannauj,Banana,Banana - Ripe,Medium,07/28/2023,2500,2600,2550
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Banana,Banana - Ripe,Medium,07/28/2023,2600,2660,2635
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Banana,Amruthapani,Medium,07/28/2023,2620,2720,2670
+Uttar Pradesh,Khiri (Lakhimpur),Tikonia,Banana,Amruthapani,Large,07/28/2023,2350,2350,2350
+Uttar Pradesh,Lakhimpur,Lakhimpur,Banana,Banana - Ripe,Medium,07/28/2023,2630,2720,2675
+Uttar Pradesh,Lucknow,Lucknow,Banana,Banana - Ripe,Medium,07/28/2023,2720,2800,2760
+Uttar Pradesh,Mahoba,Mahoba,Banana,Banana - Ripe,Medium,07/28/2023,2000,2120,2070
+Uttar Pradesh,Mainpuri,Ghiraur,Banana,Banana - Ripe,Medium,07/28/2023,2240,2440,2340
+Uttar Pradesh,Mainpuri,Mainpuri,Banana,Banana - Ripe,Medium,07/28/2023,2215,2410,2320
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Banana,Medium,Medium,07/28/2023,1100,1200,1150
+Uttar Pradesh,Muzaffarnagar,Khatauli,Banana,Banana - Ripe,Medium,07/28/2023,1900,2200,2000
+Uttar Pradesh,Pillibhit,Vishalpur,Banana,Banana - Ripe,Medium,07/28/2023,2800,2885,2840
+Uttar Pradesh,Raebarelli,Jayas,Banana,Banana - Ripe,Medium,07/28/2023,2600,2700,2660
+Uttar Pradesh,Rampur,Rampur,Banana,Desi(Bontha),Medium,07/28/2023,2800,2900,2860
+Uttar Pradesh,Sitapur,Sitapur,Banana,Banana - Ripe,Medium,07/28/2023,2500,2800,2700
+Uttar Pradesh,Sitapur,Viswan,Banana,Besrai,Medium,07/28/2023,2715,2755,2735
+Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,07/28/2023,3300,3400,3360
+Uttar Pradesh,Unnao,Purwa,Banana,Banana - Ripe,Medium,07/28/2023,2685,2785,2735
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Banana,Other,Medium,07/28/2023,700,800,750
+Uttrakhand,Haridwar,Haridwar Union,Banana,Other,Medium,07/28/2023,1000,1500,1200
+Uttrakhand,Haridwar,Lakshar,Banana,Other,Medium,07/28/2023,900,1000,950
+Uttrakhand,Haridwar,Manglaur,Banana,Other,Large,07/28/2023,1000,1100,1000
+Uttrakhand,Haridwar,Roorkee,Banana,Other,Medium,07/28/2023,500,700,600
+Uttrakhand,Nanital,Ramnagar,Banana,Other,Medium,07/28/2023,2500,3000,2750
+Uttrakhand,UdhamSinghNagar,Khateema,Banana,Other,Medium,07/28/2023,1000,1500,1250
+West Bengal,Darjeeling,Siliguri,Banana,Other,Large,07/28/2023,2200,2300,2250
+Bihar,Kishanganj,Bahadurganj,Banana,Amruthapani,Medium,07/29/2023,2300,2500,2400
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,07/29/2023,2950,3350,3150
+Gujarat,Navsari,Navsari,Banana,Amruthapani,Medium,07/29/2023,1250,2000,1625
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,07/29/2023,2000,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Banana,Banana - Ripe,Medium,07/29/2023,2000,2500,2250
+Haryana,Ambala,Ambala Cantt.,Banana,Other,Medium,07/29/2023,1800,2200,2000
+Haryana,Fatehabad,Ratia,Banana,Other,Large,07/29/2023,2200,2800,2500
+Haryana,Gurgaon,Pataudi,Banana,Other,Large,07/29/2023,3500,4200,3800
+Haryana,Hissar,Barwala(Hisar),Banana,Other,Medium,07/29/2023,1300,1500,1450
+Haryana,Kaithal,Dhand,Banana,Other,Medium,07/29/2023,2400,4000,3800
+Haryana,Karnal,"New Grain Market(main), Karnal",Banana,Other,Large,07/29/2023,1500,2500,2000
+Haryana,Karnal,Tarori,Banana,Other,Medium,07/29/2023,1800,2200,2000
+Haryana,Kurukshetra,Ladwa,Banana,Other,Medium,07/29/2023,2500,3000,2750
+Haryana,Kurukshetra,Shahabad,Banana,Banana - Ripe,Medium,07/29/2023,2500,2980,2700
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Banana,Banana - Ripe,Medium,07/29/2023,1500,2000,1750
+Haryana,Mahendragarh-Narnaul,Narnaul,Banana,Other,Medium,07/29/2023,2500,2500,2500
+Haryana,Panchkula,"New Grain Market , Panchkula",Banana,Other,Large,07/29/2023,5000,7000,6000
+Haryana,Rewari,Kosli,Banana,Other,Medium,07/29/2023,1800,1800,1800
+Haryana,Rewari,Rewari,Banana,Other,Medium,07/29/2023,1200,3000,2200
+Haryana,Rohtak,Meham,Banana,Other,Medium,07/29/2023,1700,1700,1700
+Haryana,Sonipat,Ganaur,Banana,Banana - Ripe,Medium,07/29/2023,3000,4000,3500
+Haryana,Yamuna Nagar,Jagadhri,Banana,Other,Medium,07/29/2023,1100,2000,1800
+Haryana,Yamuna Nagar,Radaur,Banana,Other,Medium,07/29/2023,2200,3000,2500
+Himachal Pradesh,Solan,Solan,Banana,Other,Medium,07/29/2023,2100,3300,2700
+Kerala,Alappuzha,Aroor,Banana,Nendra Bale,Medium,07/29/2023,4900,5100,5000
+Kerala,Alappuzha,Aroor,Banana,Palayamthodan,Medium,07/29/2023,3000,3200,3100
+Kerala,Alappuzha,Aroor,Banana,Robusta,Medium,07/29/2023,2500,2700,2600
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,07/29/2023,5000,5500,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Nendra Bale,Large,07/29/2023,4900,5100,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Other,Small,07/29/2023,2100,2300,2200
+Kerala,Ernakulam,Angamaly,Banana,Palayamthodan,Medium,07/29/2023,2500,3100,2800
+Kerala,Ernakulam,Angamaly,Banana,Poovan,Medium,07/29/2023,6700,7300,7000
+Kerala,Ernakulam,Kothamangalam,Banana,Palayamthodan,Medium,07/29/2023,2500,2800,2700
+Kerala,Ernakulam,Kothamangalam,Banana,Poovan,Medium,07/29/2023,4000,4500,4200
+Kerala,Ernakulam,Perumbavoor,Banana,Palayamthodan,Medium,07/29/2023,2000,3000,2500
+Kerala,Ernakulam,Thrippunithura,Banana,Palayamthodan,Medium,07/29/2023,3000,4000,3200
+Kerala,Ernakulam,Thrippunithura,Banana,Poovan,Medium,07/29/2023,7400,8500,7600
+Kerala,Idukki,Thodupuzha,Banana,Nendra Bale,Medium,07/29/2023,4000,4200,4200
+Kerala,Idukki,Thodupuzha,Banana,Other,Medium,07/29/2023,6600,6800,6800
+Kerala,Idukki,Thodupuzha,Banana,Palayamthodan,Medium,07/29/2023,1800,2000,2000
+Kerala,Idukki,Thodupuzha,Banana,Poovan,Medium,07/29/2023,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Banana,Robusta,Medium,07/29/2023,2000,2200,2200
+Kerala,Idukki,Vandiperiyar,Banana,Palayamthodan,Medium,07/29/2023,1848,1848,1848
+Kerala,Kannur,Irikkur,Banana,Other,Medium,07/29/2023,5000,5000,5000
+Kerala,Kannur,Payyannur,Banana,Other,Small,07/29/2023,4400,4600,4500
+Kerala,Kannur,Payyannur,Banana,Other,Large,07/29/2023,3800,4000,3900
+Kerala,Kannur,Payyannur,Banana,Other,Medium,07/29/2023,4100,4300,4200
+Kerala,Kasargod,Kanjangadu,Banana,Other,Large,07/29/2023,5800,6600,6000
+Kerala,Kasargod,Kanjangadu,Banana,Other,Small,07/29/2023,5600,6200,5800
+Kerala,Kasargod,Neeleswaram,Banana,Other,Large,07/29/2023,6400,6600,6500
+Kerala,Kollam,Chathanoor,Banana,Banana - Ripe,Medium,07/29/2023,5800,6200,6000
+Kerala,Kollam,Chathanoor,Banana,Palayamthodan,Medium,07/29/2023,3800,4200,4000
+Kerala,Kollam,Chathanoor,Banana,Poovan,Medium,07/29/2023,5400,5800,5600
+Kerala,Kollam,Chathanoor,Banana,Red Banana,Medium,07/29/2023,6800,7200,7000
+Kerala,Kollam,Chathanoor,Banana,Robusta,Medium,07/29/2023,3800,4200,4000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Nendra Bale,Medium,07/29/2023,5000,5500,5200
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Palayamthodan,Medium,07/29/2023,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Rasakathai,Medium,07/29/2023,5300,5700,5500
+Kerala,Malappuram,Manjeri,Banana,Other,Large,07/29/2023,5000,5100,5050
+Kerala,Pathanamthitta,Kuttoor,Banana,Nendra Bale,Large,07/29/2023,5600,6000,5800
+Kerala,Pathanamthitta,Kuttoor,Banana,Palayamthodan,Large,07/29/2023,1600,2000,1800
+Kerala,Thirssur,Mattathur,Banana,Nendra Bale,Medium,07/29/2023,4000,4500,4200
+Kerala,Thirssur,Mattathur,Banana,Palayamthodan,Medium,07/29/2023,1500,2000,1800
+Kerala,Thirssur,Mattathur,Banana,Robusta,Medium,07/29/2023,1500,2000,1800
+Kerala,Thirssur,Thrissur,Banana,Banana - Ripe,Medium,07/29/2023,5000,5500,5000
+Kerala,Thirssur,Thrissur,Banana,Palayamthodan,Large,07/29/2023,2800,3000,2800
+Kerala,Thirssur,Thrissur,Banana,Robusta,Medium,07/29/2023,2500,2600,2500
+Kerala,Thiruvananthapuram,Anyara(EEC),Banana,Banana - Ripe,Medium,07/29/2023,5000,5200,5100
+Kerala,Thiruvananthapuram,Anyara(EEC),Banana,Palayamthodan,Medium,07/29/2023,2000,2200,2100
+Kerala,Thiruvananthapuram,Anyara(EEC),Banana,Rasakathai,Medium,07/29/2023,6000,6500,6200
+Kerala,Thiruvananthapuram,Anyara(EEC),Banana,Robusta,Medium,07/29/2023,2700,2900,2800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Large,07/29/2023,4000,4500,4200
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Medium,07/29/2023,3500,3900,3800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Small,07/29/2023,2500,3000,2800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Large,07/29/2023,2300,2500,2400
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Medium,07/29/2023,2000,2200,2100
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Small,07/29/2023,1700,1900,1800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Poovan,Large,07/29/2023,6000,6500,6400
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Poovan,Medium,07/29/2023,4000,5500,4500
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Poovan,Small,07/29/2023,3000,3800,3500
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Red Banana,Large,07/29/2023,5000,5200,5100
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Red Banana,Medium,07/29/2023,4000,4800,4500
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Red Banana,Small,07/29/2023,3000,3800,3500
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Robusta,Large,07/29/2023,2500,2700,2600
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Robusta,Medium,07/29/2023,2100,2300,2200
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Robusta,Small,07/29/2023,1800,2000,1900
+Kerala,Wayanad,Pulpally,Banana,Other,Medium,07/29/2023,2800,3000,2900
+Madhya Pradesh,Dhar,Dhar(F&V),Banana,Other,Medium,07/29/2023,2000,4000,3500
+Maharashtra,Jalgaon,Yawal,Banana,Other,FAQ,07/29/2023,1650,1850,1750
+Maharashtra,Nashik,Nasik,Banana,Khandesh,FAQ,07/29/2023,450,1050,750
+Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,07/29/2023,2000,5000,3500
+Nagaland,Longleng,Longleng,Banana,Banana - Ripe,Medium,07/29/2023,8300,8600,8400
+Nagaland,Tuensang,Tuensang,Banana,Other,Medium,07/29/2023,8100,8400,8200
+Nagaland,Wokha,Wokha Town,Banana,Other,Medium,07/29/2023,4500,5000,4800
+Punjab,Bhatinda,Bathinda,Banana,Other,Large,07/29/2023,1450,1550,1500
+Punjab,Bhatinda,Raman,Banana,Other,Medium,07/29/2023,2360,2670,2450
+Punjab,Bhatinda,Talwandi Sabo,Banana,Other,Medium,07/29/2023,2100,2600,2300
+Punjab,Fazilka,Jalalabad,Banana,Other,Large,07/29/2023,2500,2650,2600
+Punjab,Ropar (Rupnagar),Morinda,Banana,Medium,Medium,07/29/2023,3000,3500,3200
+Rajasthan,Jalore,Jalore,Banana,Banana - Ripe,Medium,07/29/2023,2600,2800,2700
+Uttar Pradesh,Aligarh,Charra,Banana,Banana - Ripe,Medium,07/29/2023,2300,2400,2350
+Uttar Pradesh,Allahabad,Jasra,Banana,Banana - Ripe,Medium,07/29/2023,2550,2685,2620
+Uttar Pradesh,Auraiya,Achalda,Banana,Banana - Ripe,Medium,07/29/2023,2400,2560,2500
+Uttar Pradesh,Barabanki,Barabanki,Banana,Banana - Ripe,Medium,07/29/2023,3300,3400,3350
+Uttar Pradesh,Barabanki,Safdarganj,Banana,Banana - Ripe,Medium,07/29/2023,3300,3400,3350
+Uttar Pradesh,Bareilly,Bareilly,Banana,Banana - Ripe,Medium,07/29/2023,2800,2850,2820
+Uttar Pradesh,Fatehpur,Khaga,Banana,Banana - Ripe,Medium,07/29/2023,2750,2800,2775
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Banana,Other,Medium,07/29/2023,1420,1500,1450
+Uttar Pradesh,Kanpur,Pukhrayan,Banana,Banana - Ripe,Medium,07/29/2023,2880,2930,2900
+Uttar Pradesh,Shahjahanpur,Jalalabad,Banana,Amruthapani,Medium,07/29/2023,500,600,550
+Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,07/29/2023,3300,3400,3350
+Uttrakhand,Haridwar,Roorkee,Banana,Other,Medium,07/29/2023,600,800,700
+West Bengal,Darjeeling,Siliguri,Banana,Other,Large,07/29/2023,2200,2300,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Banana,Banana - Ripe,Medium,07/30/2023,2000,2600,2300
+Himachal Pradesh,Kullu,Bhuntar,Banana,Other,Medium,07/30/2023,2880,3000,2940
+Kerala,Kollam,Chathanoor,Banana,Banana - Ripe,Medium,07/30/2023,5800,6200,6000
+Kerala,Kollam,Chathanoor,Banana,Palayamthodan,Medium,07/30/2023,3800,4200,4000
+Kerala,Kollam,Chathanoor,Banana,Poovan,Medium,07/30/2023,5400,5800,5600
+Kerala,Kollam,Chathanoor,Banana,Red Banana,Medium,07/30/2023,6800,7200,7000
+Kerala,Kollam,Chathanoor,Banana,Robusta,Medium,07/30/2023,3800,4200,4000
+Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,07/30/2023,2000,5000,3500
+Rajasthan,Jalore,Jalore,Banana,Banana - Ripe,Medium,07/30/2023,2600,2800,2700
+Uttar Pradesh,Agra,Achnera,Banana,Banana - Ripe,Medium,07/30/2023,2300,2350,2325
+Uttar Pradesh,Jalaun (Orai),Orai,Banana,Banana - Ripe,Medium,07/30/2023,2100,2200,2150
+Uttar Pradesh,Jhansi,Moth,Banana,Banana - Ripe,Medium,07/30/2023,2150,2350,2280
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Banana,Other,Medium,07/30/2023,1420,1500,1450
+Uttar Pradesh,Mahoba,Mahoba,Banana,Banana - Ripe,Medium,07/30/2023,2000,2140,2050
+Uttar Pradesh,Mainpuri,Ghiraur,Banana,Banana - Ripe,Medium,07/30/2023,2250,2450,2350
+Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,07/30/2023,3300,3400,3350
+Uttrakhand,Haridwar,Roorkee,Banana,Other,Medium,07/30/2023,800,1200,1000
+Andaman and Nicobar,Nicobar,Car Nicobar,Banana,Other,Medium,07/31/2023,8000,10000,9000
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Banana,Other,Medium,07/31/2023,2750,3400,3075
+Gujarat,Porbandar,Porbandar,Banana,Amruthapani,Large,07/31/2023,2000,2500,2250
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Banana,Banana - Ripe,Medium,07/31/2023,2000,2500,2250
+Haryana,Gurgaon,Gurgaon,Banana,Other,Large,07/31/2023,2000,2500,2250
+Haryana,Hissar,Hansi,Banana,Other,Medium,07/31/2023,1500,1500,1500
+Haryana,Kurukshetra,Shahabad,Banana,Banana - Ripe,Medium,07/31/2023,2500,2885,2700
+Haryana,Mewat,Taura,Banana,Other,Medium,07/31/2023,2000,2000,2000
+Himachal Pradesh,Bilaspur,Bilaspur,Banana,Other,Medium,07/31/2023,2300,3000,2500
+Himachal Pradesh,Hamirpur,Hamirpur,Banana,Other,Medium,07/31/2023,2900,3200,3000
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Banana,Other,Medium,07/31/2023,2900,3200,3100
+Himachal Pradesh,Kangra,Kangra,Banana,Other,Medium,07/31/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Banana,Banana - Ripe,Medium,07/31/2023,3600,4200,3900
+Himachal Pradesh,Kangra,Palampur,Banana,Banana - Ripe,Medium,07/31/2023,3500,4000,3750
+Himachal Pradesh,Kullu,Bhuntar,Banana,Other,Medium,07/31/2023,2880,3000,2940
+Himachal Pradesh,Kullu,Kullu,Banana,Other,Medium,07/31/2023,3000,3200,3100
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Banana,Other,Large,07/31/2023,4300,4600,4450
+Jammu and Kashmir,Kathua,Kathua,Banana,Other,Medium,07/31/2023,3500,3800,3650
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Elakki Bale,FAQ,07/31/2023,1000,5800,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Nauti Bale,FAQ,07/31/2023,700,2100,1400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Nendra Bale,FAQ,07/31/2023,1000,2500,1750
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Pachha Bale,FAQ,07/31/2023,600,2000,1300
+Karnataka,Bangalore,Channapatana,Banana,Elakki Bale,FAQ,07/31/2023,4200,7000,6300
+Karnataka,Bangalore,Channapatana,Banana,Pachha Bale,FAQ,07/31/2023,1000,1500,1300
+Kerala,Alappuzha,Aroor,Banana,Nendra Bale,Medium,07/31/2023,4800,5000,4900
+Kerala,Alappuzha,Aroor,Banana,Palayamthodan,Medium,07/31/2023,3200,3400,3300
+Kerala,Alappuzha,Aroor,Banana,Robusta,Medium,07/31/2023,2800,3000,2900
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,07/31/2023,5000,5500,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Nendra Bale,Medium,07/31/2023,4900,5100,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Palayamthodan,Medium,07/31/2023,2100,2300,2200
+Kerala,Alappuzha,Madhavapuram,Banana,Nendra Bale,Large,07/31/2023,5000,5500,5400
+Kerala,Alappuzha,Madhavapuram,Banana,Palayamthodan,Large,07/31/2023,2000,2400,2200
+Kerala,Alappuzha,Madhavapuram,Banana,Robusta,Large,07/31/2023,3200,3600,3500
+Kerala,Ernakulam,Angamaly,Banana,Palayamthodan,Medium,07/31/2023,2400,3000,2700
+Kerala,Ernakulam,Angamaly,Banana,Poovan,Medium,07/31/2023,6400,7000,6700
+Kerala,Ernakulam,Moovattupuzha,Banana,Other,Medium,07/31/2023,3900,4100,4000
+Kerala,Ernakulam,Moovattupuzha,Banana,Palayamthodan,Medium,07/31/2023,2400,2600,2500
+Kerala,Ernakulam,Moovattupuzha,Banana,Poovan,Medium,07/31/2023,6400,6600,6500
+Kerala,Ernakulam,Perumbavoor,Banana,Palayamthodan,Medium,07/31/2023,2200,3200,2500
+Kerala,Ernakulam,Thrippunithura,Banana,Palayamthodan,Medium,07/31/2023,2800,4000,3000
+Kerala,Ernakulam,Thrippunithura,Banana,Poovan,Medium,07/31/2023,4500,7000,5000
+Kerala,Idukki,Adimali,Banana,Nendra Bale,Large,07/31/2023,6000,6000,6000
+Kerala,Idukki,Adimali,Banana,Poovan,Large,07/31/2023,6000,6000,6000
+Kerala,Idukki,Adimali,Banana,Robusta,Large,07/31/2023,3000,3000,3000
+Kerala,Idukki,Thodupuzha,Banana,Nendra Bale,Medium,07/31/2023,3800,4000,4000
+Kerala,Idukki,Thodupuzha,Banana,Other,Medium,07/31/2023,6600,6800,6800
+Kerala,Idukki,Thodupuzha,Banana,Palayamthodan,Medium,07/31/2023,1800,2000,2000
+Kerala,Idukki,Thodupuzha,Banana,Poovan,Medium,07/31/2023,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Banana,Robusta,Medium,07/31/2023,2000,2200,2200
+Kerala,Kannur,Payyannur,Banana,Other,Large,07/31/2023,3800,4000,3900
+Kerala,Kannur,Payyannur,Banana,Other,Medium,07/31/2023,4100,4300,4200
+Kerala,Kannur,Payyannur,Banana,Other,Small,07/31/2023,4400,4600,4500
+Kerala,Kasargod,Kanjangadu,Banana,Other,Large,07/31/2023,5000,6000,5500
+Kerala,Kasargod,Kanjangadu,Banana,Other,Small,07/31/2023,5800,6600,6000
+Kerala,Kollam,Sasthamkotta,Banana,Nendra Bale,Medium,07/31/2023,8000,8500,8200
+Kerala,Kollam,Sasthamkotta,Banana,Palayamthodan,Medium,07/31/2023,2200,2600,2400
+Kerala,Kollam,Sasthamkotta,Banana,Poovan,Medium,07/31/2023,5500,6000,5800
+Kerala,Kollam,Sasthamkotta,Banana,Red Banana,Medium,07/31/2023,6000,6500,6200
+Kerala,Kollam,Sasthamkotta,Banana,Robusta,Medium,07/31/2023,2800,3200,3000
+Kerala,Kottayam,Ettumanoor,Banana,Banana - Ripe,Medium,07/31/2023,5500,5700,5600
+Kerala,Kottayam,Pala,Banana,Banana - Ripe,Large,07/31/2023,4300,5200,4800
+Kerala,Kottayam,Thalayolaparambu,Banana,Banana - Ripe,Medium,07/31/2023,4200,4500,4400
+Kerala,Kottayam,Thalayolaparambu,Banana,Palayamthodan,Medium,07/31/2023,2300,2700,2500
+Kerala,Kottayam,Thalayolaparambu,Banana,Poovan,Medium,07/31/2023,4000,4300,4200
+Kerala,Kottayam,Thalayolaparambu,Banana,Robusta,Medium,07/31/2023,2700,3300,3000
+Kerala,Malappuram,Kottakkal,Banana,Nendra Bale,Medium,07/31/2023,5300,5400,5350
+Kerala,Malappuram,Kottakkal,Banana,Palayamthodan,Large,07/31/2023,2450,2550,2500
+Kerala,Malappuram,Manjeri,Banana,Other,Large,07/31/2023,4500,4600,4550
+Kerala,Malappuram,Thirurrangadi,Banana,Nendra Bale,Medium,07/31/2023,3500,3500,3500
+Kerala,Malappuram,Thirurrangadi,Banana,Palayamthodan,Medium,07/31/2023,2500,2600,2600
+Kerala,Malappuram,Thirurrangadi,Banana,Robusta,Medium,07/31/2023,3100,3200,3200
+Kerala,Palakad,Koduvayoor,Banana,Nendra Bale,Medium,07/31/2023,4500,5500,5000
+Kerala,Palakad,Koduvayoor,Banana,Palayamthodan,Medium,07/31/2023,5000,5800,5400
+Kerala,Palakad,Koduvayoor,Banana,Poovan,Medium,07/31/2023,2000,3000,2500
+Kerala,Palakad,Palakkad,Banana,Nendra Bale,Large,07/31/2023,3700,5000,4400
+Kerala,Palakad,Palakkad,Banana,Nendra Bale,Medium,07/31/2023,3500,4500,4100
+Kerala,Palakad,Palakkad,Banana,Palayamthodan,Medium,07/31/2023,2300,3500,3000
+Kerala,Palakad,Palakkad,Banana,Poovan,Medium,07/31/2023,6500,7500,7100
+Kerala,Palakad,Pattambi,Banana,Nendra Bale,Medium,07/31/2023,5000,5500,5200
+Kerala,Palakad,Pattambi,Banana,Palayamthodan,Medium,07/31/2023,3000,4000,3500
+Kerala,Thirssur,Mattathur,Banana,Karpura,Medium,07/31/2023,1500,2000,1800
+Kerala,Thirssur,Mattathur,Banana,Nendra Bale,Medium,07/31/2023,4000,4700,4500
+Kerala,Thirssur,Mattathur,Banana,Palayamthodan,Medium,07/31/2023,1800,2000,1900
+Kerala,Thirssur,Mattathur,Banana,Poovan,Medium,07/31/2023,3500,4000,3800
+Kerala,Thirssur,Mattathur,Banana,Rasakathai,Medium,07/31/2023,10000,15000,12000
+Kerala,Thirssur,Mattathur,Banana,Robusta,Medium,07/31/2023,1800,2000,1900
+Kerala,Thiruvananthapuram,Vamanapuram,Banana,Other,Medium,07/31/2023,6500,7000,6800
+Kerala,Wayanad,Pulpally,Banana,Other,Medium,07/31/2023,3400,3600,3500
+Madhya Pradesh,Sagar,Sagar(F&V),Banana,Other,Medium,07/31/2023,1200,1500,1300
+Maharashtra,Pune,Pune,Banana,Other,FAQ,07/31/2023,800,1400,1100
+Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,07/31/2023,2000,5000,3500
+Meghalaya,East Khasi Hills,Shillong,Banana,Banana - Ripe,Large,07/31/2023,2500,5000,4000
+Meghalaya,West Garo Hills,Tura,Banana,Champa,Medium,07/31/2023,4200,4600,4400
+Nagaland,Kiphire,Kipheri,Banana,Amruthapani,Medium,07/31/2023,2200,2400,2300
+Nagaland,Kohima,Tseminyu,Banana,Other,Medium,07/31/2023,4500,6000,5000
+Nagaland,Mokokchung,Mangkolemba,Banana,Amruthapani,Medium,07/31/2023,1500,2500,2000
+Nagaland,Mokokchung,Mokokchung Town,Banana,Other,Medium,07/31/2023,1500,2500,2000
+Nagaland,Mokokchung,Tuli,Banana,Other,Medium,07/31/2023,14000,14350,14175
+Nagaland,Wokha,Baghry,Banana,Banana - Ripe,Medium,07/31/2023,5500,6000,5700
+Punjab,Barnala,Barnala,Banana,Other,Large,07/31/2023,2300,2700,2500
+Punjab,Bhatinda,Bathinda,Banana,Other,Large,07/31/2023,1400,1600,1500
+Punjab,Bhatinda,Bhagta Bhai Ka,Banana,Other,Medium,07/31/2023,3600,3600,3600
+Punjab,Bhatinda,Talwandi Sabo,Banana,Other,Medium,07/31/2023,2700,2900,2800
+Punjab,Fatehgarh,Bassi Pathana,Banana,Medium,Medium,07/31/2023,3200,3500,3300
+Punjab,Fazilka,Jalalabad,Banana,Other,Large,07/31/2023,2500,2700,2600
+Punjab,Gurdaspur,Dinanagar,Banana,Medium,Medium,07/31/2023,3000,3000,3000
+Punjab,Hoshiarpur,Garh Shankar,Banana,Medium,Medium,07/31/2023,1500,2000,1800
+Punjab,Hoshiarpur,GarhShankar (Kotfatuhi),Banana,Other,Large,07/31/2023,1500,1800,1700
+Punjab,Ludhiana,Doraha,Banana,Amruthapani,Medium,07/31/2023,2500,2500,2500
+Punjab,Mohali,Kurali,Banana,Other,Medium,07/31/2023,1000,1000,1000
+Punjab,Ropar (Rupnagar),Morinda,Banana,Medium,Medium,07/31/2023,3000,3500,3200
+Rajasthan,Jaipur,Jaipur(F&V),Banana,Other,Medium,07/31/2023,2500,3000,2750
+Rajasthan,Jalore,Jalore,Banana,Banana - Ripe,Medium,07/31/2023,2600,2800,2700
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Banana,Other,Medium,07/31/2023,1000,2000,1500
+Telangana,Warangal,Warangal,Banana,Banana - Ripe,Large,07/31/2023,3000,3000,3000
+Tripura,Sepahijala,Melaghar,Banana,Banana - Ripe,Medium,07/31/2023,1800,2300,2100
+Uttar Pradesh,Agra,Achnera,Banana,Banana - Ripe,Medium,07/31/2023,2300,2380,2340
+Uttar Pradesh,Agra,Agra,Banana,Banana - Ripe,Medium,07/31/2023,2300,2450,2360
+Uttar Pradesh,Aligarh,Charra,Banana,Banana - Ripe,Medium,07/31/2023,2300,2400,2340
+Uttar Pradesh,Allahabad,Allahabad,Banana,Banana - Ripe,Medium,07/31/2023,2650,2800,2700
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Banana,Banana - Ripe,Medium,07/31/2023,2600,3300,3200
+Uttar Pradesh,Auraiya,Achalda,Banana,Banana - Ripe,Medium,07/31/2023,2400,2560,2500
+Uttar Pradesh,Bahraich,Bahraich,Banana,Banana - Ripe,Medium,07/31/2023,3050,3300,3175
+Uttar Pradesh,Bahraich,Naanpara,Banana,Banana - Ripe,Medium,07/31/2023,3125,3225,3175
+Uttar Pradesh,Banda,Baberu,Banana,Banana - Ripe,Medium,07/31/2023,2010,2190,2100
+Uttar Pradesh,Barabanki,Barabanki,Banana,Banana - Ripe,Medium,07/31/2023,3400,3500,3450
+Uttar Pradesh,Barabanki,Safdarganj,Banana,Banana - Ripe,Medium,07/31/2023,3300,3400,3350
+Uttar Pradesh,Bulandshahar,Sikanderabad,Banana,Banana - Ripe,Medium,07/31/2023,1000,1200,1100
+Uttar Pradesh,Chitrakut,Karvi,Banana,Banana - Ripe,Medium,07/31/2023,1900,2000,1950
+Uttar Pradesh,Etah,Etah,Banana,Banana - Ripe,Medium,07/31/2023,1800,2500,2200
+Uttar Pradesh,Faizabad,Faizabad,Banana,Banana - Ripe,Medium,07/31/2023,2600,2800,2680
+Uttar Pradesh,Farukhabad,Farukhabad,Banana,Banana - Ripe,Medium,07/31/2023,2300,2500,2400
+Uttar Pradesh,Farukhabad,Kayamganj,Banana,Banana - Ripe,Medium,07/31/2023,2630,2730,2670
+Uttar Pradesh,Farukhabad,Mohamadabad,Banana,Banana - Ripe,Medium,07/31/2023,2400,2600,2500
+Uttar Pradesh,Fatehpur,Fatehpur,Banana,Banana - Ripe,Medium,07/31/2023,2500,2600,2550
+Uttar Pradesh,Firozabad,Firozabad,Banana,Banana - Ripe,Medium,07/31/2023,2270,2450,2370
+Uttar Pradesh,Firozabad,Sirsaganj,Banana,Banana - Ripe,Medium,07/31/2023,2425,2600,2525
+Uttar Pradesh,Firozabad,Tundla,Banana,Banana - Ripe,Medium,07/31/2023,2450,2525,2500
+Uttar Pradesh,Jalaun (Orai),Jalaun,Banana,Banana - Ripe,Medium,07/31/2023,1900,2100,2000
+Uttar Pradesh,Jalaun (Orai),Konch,Banana,Banana - Ripe,Medium,07/31/2023,1950,2050,2000
+Uttar Pradesh,Jalaun (Orai),Orai,Banana,Banana - Ripe,Medium,07/31/2023,2100,2200,2150
+Uttar Pradesh,Jaunpur,Shahganj,Banana,Other,Medium,07/31/2023,3100,3250,3200
+Uttar Pradesh,Lakhimpur,Paliakala,Banana,Besrai,Medium,07/31/2023,2660,2700,2680
+Uttar Pradesh,Mahoba,Mahoba,Banana,Banana - Ripe,Medium,07/31/2023,1950,2050,2000
+Uttar Pradesh,Mainpuri,Ghiraur,Banana,Banana - Ripe,Medium,07/31/2023,2260,2460,2360
+Uttar Pradesh,Mainpuri,Mainpuri,Banana,Banana - Ripe,Medium,07/31/2023,2170,2360,2280
+Uttar Pradesh,Mathura,Mathura,Banana,Banana - Ripe,Medium,07/31/2023,2100,2500,2350
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Banana,Medium,Medium,07/31/2023,1000,1200,1050
+Uttar Pradesh,Pillibhit,Vishalpur,Banana,Banana - Ripe,Medium,07/31/2023,2800,2945,2860
+Uttar Pradesh,Raebarelli,Jayas,Banana,Banana - Ripe,Medium,07/31/2023,2660,2750,2700
+Uttar Pradesh,Rampur,Rampur,Banana,Desi(Bontha),Medium,07/31/2023,2820,2900,2850
+Uttar Pradesh,Sitapur,Mehmoodabad,Banana,Banana - Ripe,Medium,07/31/2023,2670,2790,2725
+Uttar Pradesh,Sitapur,Sitapur,Banana,Banana - Ripe,Medium,07/31/2023,2600,2850,2730
+Uttar Pradesh,Sitapur,Viswan,Banana,Besrai,Medium,07/31/2023,2720,2760,2740
+Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,07/31/2023,3320,3400,3360
+Uttar Pradesh,Unnao,Purwa,Banana,Banana - Ripe,Medium,07/31/2023,2730,2830,2780
+Uttrakhand,Haridwar,Bhagwanpur(Naveen Mandi Sthal),Banana,Other,Medium,07/31/2023,700,900,800
+Uttrakhand,Haridwar,Roorkee,Banana,Other,Medium,07/31/2023,700,1000,800
+Uttrakhand,Nanital,Haldwani,Banana,Other,Large,07/31/2023,800,1200,1000
+Uttrakhand,UdhamSinghNagar,Khateema,Banana,Other,Medium,07/31/2023,1200,1600,1400
+Uttrakhand,UdhamSinghNagar,Kicchha,Banana,Banana - Ripe,Medium,07/31/2023,1300,1500,1400
+Andhra Pradesh,East Godavari,Ambajipeta,Banana,Banana - Ripe,Medium,08/01/2023,960,2720,1840
+Gujarat,Mehsana,Mehsana(Mehsana Veg),Banana,Other,Large,08/01/2023,1000,2000,1800
+Haryana,Ambala,Ambala City(Subji Mandi),Banana,Other,Medium,08/01/2023,2250,3300,2500
+Haryana,Fatehabad,Jakhal,Banana,Other,Medium,08/01/2023,3500,3500,3500
+Haryana,Gurgaon,Pataudi,Banana,Other,Large,08/01/2023,3000,4400,3500
+Haryana,Hissar,Barwala(Hisar),Banana,Other,Medium,08/01/2023,1400,1500,1500
+Haryana,Jhajar,Bahadurgarh,Banana,Other,Medium,08/01/2023,2000,2400,2200
+Haryana,Jind,Narwana,Banana,Other,Medium,08/01/2023,1600,1600,1600
+Haryana,Jind,Safidon,Banana,Other,Medium,08/01/2023,3000,3000,3000
+Haryana,Kaithal,Dhand,Banana,Other,Medium,08/01/2023,2400,4000,3800
+Haryana,Karnal,Tarori,Banana,Other,Medium,08/01/2023,1800,2200,2000
+Haryana,Kurukshetra,Ladwa,Banana,Other,Medium,08/01/2023,2500,3000,2700
+Haryana,Kurukshetra,Shahabad,Banana,Banana - Ripe,Medium,08/01/2023,2500,3000,2700
+Haryana,Kurukshetra,Thanesar,Banana,Other,Medium,08/01/2023,2000,3000,2500
+Haryana,Panchkula,"New Grain Market , Panchkula",Banana,Other,Large,08/01/2023,5000,7000,6000
+Haryana,Panipat,Panipat,Banana,Other,Medium,08/01/2023,1800,2400,2200
+Haryana,Rewari,Kosli,Banana,Other,Medium,08/01/2023,1800,1800,1800
+Haryana,Rewari,Rewari,Banana,Other,Medium,08/01/2023,1200,3200,2200
+Haryana,Rohtak,Meham,Banana,Other,Medium,08/01/2023,1700,1700,1700
+Haryana,Rohtak,Rohtak,Banana,Other,Large,08/01/2023,1500,1600,1500
+Haryana,Rohtak,Sampla,Banana,Other,Large,08/01/2023,2500,2500,2500
+Haryana,Yamuna Nagar,Chhachrauli,Banana,Other,Medium,08/01/2023,3500,3500,3500
+Haryana,Yamuna Nagar,Jagadhri,Banana,Other,Medium,08/01/2023,1200,1650,1550
+Haryana,Yamuna Nagar,Radaur,Banana,Other,Large,08/01/2023,2500,3500,3000
+Haryana,Yamuna Nagar,Sadhaura,Banana,Banana - Ripe,Medium,08/01/2023,2000,2400,2200
+Himachal Pradesh,Bilaspur,Bilaspur,Banana,Other,Medium,08/01/2023,2500,3200,2900
+Himachal Pradesh,Chamba,Chamba,Banana,Other,Medium,08/01/2023,4500,5000,4750
+Himachal Pradesh,Hamirpur,Hamirpur,Banana,Other,Medium,08/01/2023,2900,3200,3050
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Banana,Banana - Ripe,Medium,08/01/2023,3600,4200,3900
+Himachal Pradesh,Kangra,Palampur,Banana,Banana - Ripe,Medium,08/01/2023,3500,4000,3750
+Himachal Pradesh,Kullu,Bhuntar,Banana,Other,Medium,08/01/2023,3000,3300,3100
+Himachal Pradesh,Kullu,Kullu,Banana,Other,Medium,08/01/2023,3200,3300,3200
+Himachal Pradesh,Mandi,Mandi(Mandi),Banana,Banana - Ripe,Medium,08/01/2023,3000,4500,4000
+Himachal Pradesh,Sirmore,Paonta Sahib,Banana,Other,Medium,08/01/2023,5000,6000,5500
+Himachal Pradesh,Una,Una,Banana,Medium,Medium,08/01/2023,2600,2800,2700
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Banana,Other,Large,08/01/2023,4200,4400,4300
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Banana,Other,Medium,08/01/2023,3000,3400,3200
+Jammu and Kashmir,Kathua,Kathua,Banana,Other,Medium,08/01/2023,3400,3600,3500
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Elakki Bale,FAQ,08/01/2023,1000,5800,3400
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Nauti Bale,FAQ,08/01/2023,700,2000,1350
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Nendra Bale,FAQ,08/01/2023,1000,2500,1750
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Banana,Pachha Bale,FAQ,08/01/2023,600,2000,1300
+Karnataka,Bangalore,Channapatana,Banana,Elakki Bale,FAQ,08/01/2023,4000,7000,6300
+Karnataka,Davangere,Davangere,Banana,Elakki Bale,FAQ,08/01/2023,4500,5000,4700
+Karnataka,Davangere,Davangere,Banana,Pachha Bale,FAQ,08/01/2023,2500,3000,2700
+Kerala,Alappuzha,Alappuzha,Banana,Nendra Bale,Large,08/01/2023,4000,5000,4500
+Kerala,Alappuzha,Alappuzha,Banana,Palayamthodan,Large,08/01/2023,2000,3000,2500
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,08/01/2023,5000,5500,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Nendra Bale,Medium,08/01/2023,4900,5100,5000
+Kerala,Alappuzha,Kayamkulam,Banana,Palayamthodan,Medium,08/01/2023,2200,2400,2300
+Kerala,Ernakulam,Angamaly,Banana,Palayamthodan,Medium,08/01/2023,2600,3200,2900
+Kerala,Ernakulam,Angamaly,Banana,Poovan,Medium,08/01/2023,6500,7100,6800
+Kerala,Ernakulam,Moovattupuzha,Banana,Other,Medium,08/01/2023,3900,4100,4000
+Kerala,Ernakulam,Moovattupuzha,Banana,Palayamthodan,Medium,08/01/2023,2400,2600,2500
+Kerala,Ernakulam,Moovattupuzha,Banana,Poovan,Medium,08/01/2023,6400,6600,6500
+Kerala,Ernakulam,Perumbavoor,Banana,Palayamthodan,Medium,08/01/2023,2200,3200,2500
+Kerala,Ernakulam,Thrippunithura,Banana,Palayamthodan,Medium,08/01/2023,2800,4000,3000
+Kerala,Ernakulam,Thrippunithura,Banana,Poovan,Medium,08/01/2023,4500,8000,5000
+Kerala,Idukki,Thodupuzha,Banana,Nendra Bale,Medium,08/01/2023,3800,4000,4000
+Kerala,Idukki,Thodupuzha,Banana,Other,Medium,08/01/2023,6600,6800,6800
+Kerala,Idukki,Thodupuzha,Banana,Palayamthodan,Medium,08/01/2023,1800,2000,2000
+Kerala,Idukki,Thodupuzha,Banana,Poovan,Medium,08/01/2023,2400,2500,2500
+Kerala,Idukki,Thodupuzha,Banana,Robusta,Medium,08/01/2023,2000,2200,2200
+Kerala,Idukki,Vandiperiyar,Banana,Nendra Bale,Medium,08/01/2023,2200,2200,2200
+Kerala,Kannur,Irikkur,Banana,Other,Medium,08/01/2023,5000,5000,5000
+Kerala,Kasargod,Kanjangadu,Banana,Other,Large,08/01/2023,5300,6000,5500
+Kerala,Kasargod,Kanjangadu,Banana,Other,Small,08/01/2023,5800,6500,6000
+Kerala,Kasargod,Neeleswaram,Banana,Other,Large,08/01/2023,6600,6800,6700
+Kerala,Kollam,Chathanoor,Banana,Banana - Ripe,Medium,08/01/2023,5800,6200,6000
+Kerala,Kollam,Chathanoor,Banana,Palayamthodan,Medium,08/01/2023,3800,4200,4000
+Kerala,Kollam,Chathanoor,Banana,Poovan,Medium,08/01/2023,5600,6000,5800
+Kerala,Kollam,Chathanoor,Banana,Red Banana,Medium,08/01/2023,6800,7200,7000
+Kerala,Kollam,Chathanoor,Banana,Robusta,Medium,08/01/2023,3800,4200,4000
+Kerala,Kollam,Kollam,Banana,Banana - Ripe,Medium,08/01/2023,6000,7000,6500
+Kerala,Kollam,Kollam,Banana,Palayamthodan,Medium,08/01/2023,2000,2500,2200
+Kerala,Kollam,Kollam,Banana,Poovan,Medium,08/01/2023,4500,5500,5000
+Kerala,Kollam,Kollam,Banana,Rasakathai,Medium,08/01/2023,4000,5000,4500
+Kerala,Kollam,Punalur,Banana,Banana - Ripe,Medium,08/01/2023,6600,7000,6800
+Kerala,Kollam,Punalur,Banana,Palayamthodan,Medium,08/01/2023,2000,2400,2200
+Kerala,Kollam,Punalur,Banana,Poovan,Medium,08/01/2023,4600,5000,4800
+Kerala,Kollam,Punalur,Banana,Red Banana,Medium,08/01/2023,4600,5000,4800
+Kerala,Kollam,Punalur,Banana,Robusta,Medium,08/01/2023,2600,3000,2800
+Kerala,Kollam,Sasthamkotta,Banana,Nendra Bale,Medium,08/01/2023,8000,8500,8200
+Kerala,Kollam,Sasthamkotta,Banana,Palayamthodan,Medium,08/01/2023,2500,3000,2800
+Kerala,Kollam,Sasthamkotta,Banana,Poovan,Medium,08/01/2023,5500,6000,5800
+Kerala,Kollam,Sasthamkotta,Banana,Red Banana,Medium,08/01/2023,6000,6500,6200
+Kerala,Kollam,Sasthamkotta,Banana,Robusta,Medium,08/01/2023,3000,3500,3200
+Kerala,Kottayam,Kottayam,Banana,Banana - Ripe,Medium,08/01/2023,5500,6200,6000
+Kerala,Kottayam,Kottayam,Banana,Palayamthodan,Medium,08/01/2023,2000,2400,2200
+Kerala,Kottayam,Kottayam,Banana,Poovan,Medium,08/01/2023,7200,7600,7400
+Kerala,Kottayam,Thalayolaparambu,Banana,Banana - Ripe,Medium,08/01/2023,4000,4500,4300
+Kerala,Kottayam,Thalayolaparambu,Banana,Palayamthodan,Medium,08/01/2023,2300,2700,2500
+Kerala,Kottayam,Thalayolaparambu,Banana,Poovan,Medium,08/01/2023,4400,4700,4600
+Kerala,Kottayam,Thalayolaparambu,Banana,Robusta,Medium,08/01/2023,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Nendra Bale,Medium,08/01/2023,5000,5400,5200
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Palayamthodan,Medium,08/01/2023,2800,3200,3000
+Kerala,Kozhikode(Calicut),Kallachi,Banana,Rasakathai,Medium,08/01/2023,5000,5400,5200
+Kerala,Malappuram,Kottakkal,Banana,Nendra Bale,Medium,08/01/2023,4300,4400,4350
+Kerala,Malappuram,Kottakkal,Banana,Palayamthodan,Large,08/01/2023,2400,2500,2450
+Kerala,Malappuram,Manjeri,Banana,Other,Large,08/01/2023,4500,4600,4550
+Kerala,Palakad,Palakkad,Banana,Nendra Bale,Large,08/01/2023,4200,5500,4900
+Kerala,Palakad,Palakkad,Banana,Nendra Bale,Medium,08/01/2023,4000,5000,4600
+Kerala,Palakad,Palakkad,Banana,Palayamthodan,Medium,08/01/2023,2300,3500,3000
+Kerala,Palakad,Palakkad,Banana,Poovan,Medium,08/01/2023,6000,7000,6600
+Kerala,Palakad,Pattambi,Banana,Nendra Bale,Medium,08/01/2023,5000,5500,5200
+Kerala,Palakad,Pattambi,Banana,Palayamthodan,Medium,08/01/2023,3000,4000,3500
+Kerala,Thirssur,Chavakkad,Banana,Palayamthodan,Medium,08/01/2023,2600,3400,3400
+Kerala,Thirssur,Chavakkad,Banana,Poovan,Medium,08/01/2023,5000,6000,6000
+Kerala,Thirssur,Chavakkad,Banana,Robusta,Medium,08/01/2023,2600,3400,3400
+Kerala,Thirssur,Mattathur,Banana,Nendra Bale,Medium,08/01/2023,3500,4700,4000
+Kerala,Thirssur,Mattathur,Banana,Poovan,Medium,08/01/2023,3500,3700,3600
+Kerala,Thirssur,Thrissur,Banana,Banana - Ripe,Medium,08/01/2023,5000,5500,5000
+Kerala,Thirssur,Thrissur,Banana,Palayamthodan,Medium,08/01/2023,3000,3500,3200
+Kerala,Thirssur,Thrissur,Banana,Robusta,Medium,08/01/2023,2800,3000,2800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Large,08/01/2023,4800,5000,4900
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Medium,08/01/2023,3800,4500,4000
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Nendra Bale,Small,08/01/2023,2500,3500,2800
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Small,08/01/2023,2000,2200,2100
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Large,08/01/2023,2600,2800,2700
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Palayamthodan,Medium,08/01/2023,2300,2500,2400
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Poovan,Large,08/01/2023,6000,6500,6400
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Poovan,Medium,08/01/2023,5000,5800,5500
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Red Banana,Medium,08/01/2023,4000,4500,4200
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Red Banana,Large,08/01/2023,5300,5500,5400
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Robusta,Large,08/01/2023,2600,2800,2700
+Kerala,Thiruvananthapuram,Maranelloor,Banana,Robusta,Medium,08/01/2023,2300,2500,2400
+Kerala,Thiruvananthapuram,Parassala,Banana,Banana - Ripe,Medium,08/01/2023,6000,6200,6000
+Kerala,Thiruvananthapuram,Parassala,Banana,Palayamthodan,Medium,08/01/2023,2700,2700,2700
+Kerala,Thiruvananthapuram,Parassala,Banana,Red Banana,Medium,08/01/2023,5000,5200,5000
+Madhya Pradesh,Indore,Indore(F&V),Banana,Other,Medium,08/01/2023,600,1600,1000
+Madhya Pradesh,Katni,Katni(F&V),Banana,Other,Medium,08/01/2023,1000,1000,1000
+Maharashtra,Jalgaon,Yawal,Banana,Other,FAQ,08/01/2023,1650,1850,1750
+Maharashtra,Nagpur,Nagpur,Banana,Khandesh,FAQ,08/01/2023,450,550,525
+Maharashtra,Pune,Pune,Banana,Other,FAQ,08/01/2023,800,1200,1000
+Maharashtra,Pune,Pune(Moshi),Banana,Other,FAQ,08/01/2023,2000,5000,3500
+Meghalaya,East Khasi Hills,Shillong,Banana,Banana - Ripe,Large,08/01/2023,2000,4000,3800
+Meghalaya,East Khasi Hills,Sohra,Banana,Other,Medium,08/01/2023,46000,50000,48000
+Nagaland,Mokokchung,Mangkolemba,Banana,Amruthapani,Medium,08/01/2023,1500,2500,2000
+Nagaland,Mokokchung,Mokokchung Town,Banana,Other,Medium,08/01/2023,1500,2500,2000
+Nagaland,Tuensang,Tuensang,Banana,Other,Medium,08/01/2023,9900,10200,10000
+NCT of Delhi,Delhi,Azadpur,Banana,Khandesh,Large,08/01/2023,1000,1800,1500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Banana,Other,Medium,08/01/2023,600,1500,1000
+Punjab,Bhatinda,Bhagta Bhai Ka,Banana,Other,Medium,08/01/2023,3700,3700,3700
+Punjab,Faridkot,Faridkot,Banana,Banana - Ripe,Large,08/01/2023,2500,3000,3000
+Punjab,Faridkot,Jaitu,Banana,Banana - Ripe,Medium,08/01/2023,2000,2000,2000
+Punjab,Fatehgarh,Bassi Pathana,Banana,Medium,Medium,08/01/2023,3200,3500,3300
+Punjab,Fazilka,Abohar,Banana,Other,Medium,08/01/2023,2450,3560,2580
+Punjab,Fazilka,Jalalabad,Banana,Other,Large,08/01/2023,2500,2700,2600
+Punjab,Gurdaspur,Dinanagar,Banana,Medium,Medium,08/01/2023,4000,5000,4500
+Punjab,Hoshiarpur,Garh Shankar,Banana,Medium,Medium,08/01/2023,1500,1800,1700
+Punjab,Hoshiarpur,Mukerian,Banana,Banana - Ripe,Medium,08/01/2023,2800,3600,3200
+Punjab,Hoshiarpur,Mukerian(Talwara),Banana,Other,Medium,08/01/2023,2200,2800,2500
+Punjab,Ludhiana,Doraha,Banana,Amruthapani,Medium,08/01/2023,3000,3000,3000
+Punjab,Moga,Baghapurana,Banana,Amruthapani,Medium,08/01/2023,2800,3200,3000
+Punjab,Pathankot,Pathankot,Banana,Medium,Medium,08/01/2023,2000,2500,2500
+Punjab,Patiala,Nabha,Banana,Other,Medium,08/01/2023,1600,2300,1900
+Punjab,Ropar (Rupnagar),Morinda,Banana,Medium,Medium,08/01/2023,3000,3500,3200
+Punjab,Sangrur,Bhawanigarh,Banana,Other,Medium,08/01/2023,2400,2400,2400
+Punjab,Tarntaran,Patti,Banana,Other,Medium,08/01/2023,4000,5000,4500
+Rajasthan,Bikaner,Bikaner(F&V),Banana,Other,Medium,08/01/2023,2100,2300,2200
+Rajasthan,Jaipur,Jaipur(F&V),Banana,Other,Medium,08/01/2023,2500,3000,2750
+Rajasthan,Udaipur,Udaipur(F&V),Banana,Other,Medium,08/01/2023,1200,1800,1500
+Telangana,Warangal,Warangal,Banana,Banana - Ripe,Large,08/01/2023,3000,3000,3000
+Tripura,Sepahijala,Bishramganj,Banana,Champa,Medium,08/01/2023,2000,3000,2500
+Tripura,Sepahijala,Melaghar,Banana,Banana - Ripe,Medium,08/01/2023,1700,2200,2000
+Uttar Pradesh,Agra,Achnera,Banana,Banana - Ripe,Medium,08/01/2023,2300,2360,2330
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Banana,Banana - Ripe,Medium,08/01/2023,2800,3300,3200
+Uttar Pradesh,Auraiya,Achalda,Banana,Banana - Ripe,Medium,08/01/2023,2500,2700,2600
+Uttar Pradesh,Auraiya,Auraiya,Banana,Banana - Ripe,Medium,08/01/2023,2400,2660,2550
+Uttar Pradesh,Bahraich,Bahraich,Banana,Banana - Ripe,Medium,08/01/2023,3060,3300,3175
+Uttar Pradesh,Bahraich,Naanpara,Banana,Banana - Ripe,Medium,08/01/2023,3100,3200,3150
+Uttar Pradesh,Ballia,Ballia,Banana,Medium,Medium,08/01/2023,3080,3140,3110
+Uttar Pradesh,Ballia,Rasda,Banana,Banana - Ripe,Medium,08/01/2023,3000,3150,3070
+Uttar Pradesh,Banda,Atarra,Banana,Banana - Ripe,Medium,08/01/2023,1950,2050,2000
+Uttar Pradesh,Barabanki,Safdarganj,Banana,Banana - Ripe,Medium,08/01/2023,3300,3400,3350
+Uttar Pradesh,Bareilly,Bareilly,Banana,Banana - Ripe,Medium,08/01/2023,2775,2850,2820
+Uttar Pradesh,Etah,Kasganj,Banana,Banana - Ripe,Large,08/01/2023,2000,2500,2250
+Uttar Pradesh,Etawah,Bharthna,Banana,Banana - Ripe,Medium,08/01/2023,2500,2900,2700
+Uttar Pradesh,Etawah,Etawah,Banana,Banana - Ripe,Medium,08/01/2023,2460,2800,2660
+Uttar Pradesh,Faizabad,Faizabad,Banana,Banana - Ripe,Medium,08/01/2023,2600,2800,2700
+Uttar Pradesh,Farukhabad,Farukhabad,Banana,Banana - Ripe,Medium,08/01/2023,2400,2600,2500
+Uttar Pradesh,Farukhabad,Kayamganj,Banana,Banana - Ripe,Medium,08/01/2023,2600,2700,2650
+Uttar Pradesh,Fatehpur,Bindki,Banana,Banana - Ripe,Medium,08/01/2023,2530,2630,2580
+Uttar Pradesh,Fatehpur,Fatehpur,Banana,Banana - Ripe,Medium,08/01/2023,2400,2620,2540
+Uttar Pradesh,Fatehpur,Khaga,Banana,Banana - Ripe,Medium,08/01/2023,2735,2775,2760
+Uttar Pradesh,Firozabad,Sirsaganj,Banana,Banana - Ripe,Medium,08/01/2023,2400,2570,2500
+Uttar Pradesh,Hamirpur,Bharuasumerpur,Banana,Banana - Ripe,Medium,08/01/2023,2000,2125,2075
+Uttar Pradesh,Hamirpur,Maudaha,Banana,Banana - Ripe,Medium,08/01/2023,2000,2200,2100
+Uttar Pradesh,Hamirpur,Muskara,Banana,Banana - Ripe,Medium,08/01/2023,1950,2100,2000
+Uttar Pradesh,Hamirpur,Raath,Banana,Banana - Ripe,Medium,08/01/2023,1880,2000,1950
+Uttar Pradesh,Jalaun (Orai),Jalaun,Banana,Banana - Ripe,Medium,08/01/2023,1850,2000,1900
+Uttar Pradesh,Jalaun (Orai),Konch,Banana,Banana - Ripe,Medium,08/01/2023,1950,2050,2000
+Uttar Pradesh,Jaunpur,Jaunpur,Banana,Banana - Ripe,Medium,08/01/2023,3150,3250,3200
+Uttar Pradesh,Jaunpur,Shahganj,Banana,Other,Medium,08/01/2023,2200,2400,2300
+Uttar Pradesh,Jhansi,Mauranipur,Banana,Banana - Ripe,Medium,08/01/2023,2100,2500,2325
+Uttar Pradesh,Jhansi,Moth,Banana,Banana - Ripe,Medium,08/01/2023,2140,2250,2200
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Banana,Other,Medium,08/01/2023,1420,1500,1450
+Uttar Pradesh,Kannuj,Chhibramau(Kannuj),Banana,Banana - Ripe,Medium,08/01/2023,2750,3110,2850
+Uttar Pradesh,Kanpur,Jhijhank,Banana,Banana - Ripe,Medium,08/01/2023,2350,2550,2450
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Banana,Banana - Ripe,Medium,08/01/2023,2500,2690,2600
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Banana,Amruthapani,Medium,08/01/2023,2600,2710,2650
+Uttar Pradesh,Lakhimpur,Golagokarnath,Banana,Banana - Ripe,Medium,08/01/2023,2550,2750,2650
+Uttar Pradesh,Lakhimpur,Lakhimpur,Banana,Banana - Ripe,Medium,08/01/2023,2590,2720,2660
+Uttar Pradesh,Lakhimpur,Paliakala,Banana,Besrai,Medium,08/01/2023,2550,2630,2600
+Uttar Pradesh,Lucknow,Lucknow,Banana,Banana - Ripe,Medium,08/01/2023,2700,2800,2760
+Uttar Pradesh,Mainpuri,Ghiraur,Banana,Banana - Ripe,Medium,08/01/2023,2230,2430,2330
+Uttar Pradesh,Mainpuri,Mainpuri,Banana,Banana - Ripe,Medium,08/01/2023,2240,2435,2350
+Uttar Pradesh,Mathura,Mathura,Banana,Banana - Ripe,Medium,08/01/2023,2100,2450,2300
+Uttar Pradesh,Mau(Maunathbhanjan),Kopaganj,Banana,Medium,Medium,08/01/2023,1000,1200,1150
+Uttar Pradesh,Muzaffarnagar,Khatauli,Banana,Banana - Ripe,Medium,08/01/2023,2200,2400,2300
+Uttar Pradesh,Pillibhit,Pilibhit,Banana,Banana - Ripe,Medium,08/01/2023,2800,2900,2850
+Uttar Pradesh,Pillibhit,Puranpur,Banana,Banana - Ripe,Medium,08/01/2023,2815,2910,2855
+Uttar Pradesh,Rampur,Rampur,Banana,Desi(Bontha),Medium,08/01/2023,2820,2900,2850
+Uttar Pradesh,Shahjahanpur,Shahjahanpur,Banana,Banana - Ripe,Medium,08/01/2023,2680,2840,2755
+Uttar Pradesh,Sitapur,Mehmoodabad,Banana,Banana - Ripe,Medium,08/01/2023,2670,2790,2725
+Uttar Pradesh,Sitapur,Sitapur,Banana,Banana - Ripe,Medium,08/01/2023,2600,2850,2740
+Uttar Pradesh,Sitapur,Viswan,Banana,Besrai,Medium,08/01/2023,2730,2770,2750
+Uttar Pradesh,Sultanpur,Jafarganj,Banana,Banana - Ripe,Medium,08/01/2023,3320,3400,3360
+Uttar Pradesh,Unnao,Bangarmau,Banana,Banana - Ripe,Medium,08/01/2023,2725,2800,2750
+Uttar Pradesh,Unnao,Purwa,Banana,Banana - Ripe,Medium,08/01/2023,2730,2830,2780
+Uttrakhand,Dehradoon,Dehradoon,Banana,Other,Medium,08/01/2023,1200,1800,1500
+Uttrakhand,Dehradoon,Rishikesh,Banana,Other,Small,08/01/2023,2000,2500,2100
+Uttrakhand,Dehradoon,Vikasnagar,Banana,Other,Medium,08/01/2023,1500,2500,2500
+Uttrakhand,Haridwar,Haridwar Union,Banana,Other,Medium,08/01/2023,1000,1500,1200
+Uttrakhand,Haridwar,Manglaur,Banana,Other,Medium,08/01/2023,900,1100,1000
+Uttrakhand,Nanital,Ramnagar,Banana,Other,Medium,08/01/2023,1200,1600,1400
+Uttrakhand,UdhamSinghNagar,Kashipur,Banana,Other,Large,08/01/2023,1700,2400,2200
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Banana,Banana - Ripe,Medium,08/02/2023,3600,4200,3900
+Himachal Pradesh,Kangra,Palampur,Banana,Banana - Ripe,Medium,08/02/2023,3500,4000,3750
+Kerala,Alappuzha,Harippad,Banana,Nendra Bale,Medium,08/02/2023,5000,5500,5000
+Nagaland,Mokokchung,Tuli,Banana,Other,Medium,08/02/2023,14000,14350,14175
+Punjab,Bhatinda,Bathinda,Banana,Other,Large,08/02/2023,1450,1550,1500
+,,,,,,,,,
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,07/27/2023,5000,6000,5500
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Plum,Other,Medium,07/28/2023,3000,5000,4000
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,07/28/2023,800,800,800
+Haryana,Hissar,Barwala(Hisar),Plum,Other,Medium,07/28/2023,4500,5000,4800
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,07/28/2023,4500,5000,4700
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Plum,Other,Medium,07/28/2023,5000,5000,5000
+Himachal Pradesh,Chamba,Chamba,Plum,Other,Medium,07/28/2023,2000,2500,2250
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,07/28/2023,4500,6500,5500
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Plum,Other,Medium,07/28/2023,4500,6500,5500
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,07/28/2023,3000,5000,4000
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Plum,Other,Medium,07/28/2023,5500,6000,5750
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,07/28/2023,5000,6000,5500
+Himachal Pradesh,Kullu,Bandrol,Plum,Plum,Medium,07/28/2023,1500,5000,3500
+Himachal Pradesh,Kullu,Bhuntar,Plum,Other,Medium,07/28/2023,1000,5000,3000
+Maharashtra,Pune,Pune,Plum,Other,FAQ,07/28/2023,4000,9000,6500
+Punjab,Fatehgarh,Bassi Pathana,Plum,Plum,Medium,07/28/2023,4500,5000,4800
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,07/28/2023,5500,6000,5700
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,07/28/2023,2400,3500,3000
+Punjab,Ropar (Rupnagar),Morinda,Plum,Plum,Medium,07/28/2023,2000,3000,2500
+Telangana,Warangal,Warangal,Plum,Plum,Medium,07/28/2023,10000,10000,10000
+Chandigarh,Chandigarh,Chandigarh(Grain/Fruit),Plum,Other,Medium,07/29/2023,3000,5000,4000
+Haryana,Ambala,Naraingarh,Plum,Plum,Medium,07/29/2023,800,800,800
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,07/29/2023,4000,6000,5000
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Plum,Other,Medium,07/29/2023,5000,8000,6500
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,07/29/2023,5000,5200,5000
+Punjab,Ropar (Rupnagar),Morinda,Plum,Plum,Medium,07/29/2023,4000,5000,4500
+Telangana,Warangal,Warangal,Plum,Plum,Large,07/29/2023,10000,10000,10000
+Telangana,Warangal,Warangal,Plum,Plum,Medium,07/29/2023,6500,6500,6500
+Telangana,Warangal,Warangal,Plum,Plum,Small,07/29/2023,6000,6000,6000
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,07/30/2023,1000,4000,3000
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,07/30/2023,1000,3500,2500
+Telangana,Warangal,Warangal,Plum,Plum,Medium,07/30/2023,8000,8000,8000
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,07/31/2023,4500,6790,6000
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,07/31/2023,5000,6000,5500
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Plum,Other,Medium,07/31/2023,8000,10000,9000
+Himachal Pradesh,Kangra,Kangra,Plum,Other,Medium,07/31/2023,3000,3500,3250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Plum,Other,Medium,07/31/2023,7200,7600,7400
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,07/31/2023,7000,7500,7250
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,07/31/2023,1000,4000,3000
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,07/31/2023,2000,4000,3000
+Jammu and Kashmir,Kathua,Kathua,Plum,Other,Medium,07/31/2023,6000,7000,6500
+Maharashtra,Pune,Pune,Plum,Other,FAQ,07/31/2023,4000,7000,5500
+Punjab,Barnala,Barnala,Plum,Other,Large,07/31/2023,6000,7200,6600
+Punjab,Fatehgarh,Bassi Pathana,Plum,Plum,Medium,07/31/2023,4500,6000,5000
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,07/31/2023,8000,8000,8000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,07/31/2023,2600,3600,3100
+Punjab,Ropar (Rupnagar),Morinda,Plum,Plum,Medium,07/31/2023,4000,5000,4500
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Plum,Other,Medium,07/31/2023,3000,7000,5000
+Telangana,Warangal,Warangal,Plum,Plum,Large,07/31/2023,10000,10000,10000
+Haryana,Kurukshetra,Shahabad,Plum,Other,Medium,08/01/2023,5000,6240,6000
+Haryana,Mahendragarh-Narnaul,Mohindergarh,Plum,Other,Medium,08/01/2023,5000,5000,5000
+Himachal Pradesh,Chamba,Chamba,Plum,Other,Medium,08/01/2023,2000,2500,2250
+Himachal Pradesh,Hamirpur,Hamirpur,Plum,Other,Medium,08/01/2023,5000,6000,5500
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Plum,Other,Medium,08/01/2023,7200,7600,7400
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,08/01/2023,7000,7500,7250
+Himachal Pradesh,Kullu,Kullu(Patli Kuhal),Plum,Other,Medium,08/01/2023,1000,3200,2500
+Himachal Pradesh,Mandi,Mandi(Takoli),Plum,Other,Medium,08/01/2023,2000,4500,3000
+Himachal Pradesh,Una,Una,Plum,Other,Medium,08/01/2023,5000,6000,5500
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Plum,Other,Medium,08/01/2023,4000,6000,5000
+Jammu and Kashmir,Kathua,Kathua,Plum,Other,Medium,08/01/2023,4000,6000,5000
+Maharashtra,Pune,Pune,Plum,Other,FAQ,08/01/2023,4000,8000,6000
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Plum,Other,Medium,08/01/2023,2000,4000,3300
+Punjab,Faridkot,Faridkot,Plum,Other,Large,08/01/2023,6000,7000,7000
+Punjab,Fatehgarh,Bassi Pathana,Plum,Plum,Medium,08/01/2023,4500,5500,5000
+Punjab,Fazilka,Jalalabad,Plum,Other,Large,08/01/2023,8000,8200,8000
+Punjab,Ferozpur,Zira,Plum,Other,Large,08/01/2023,3600,4000,3800
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Large,08/01/2023,3000,5000,4000
+Punjab,Hoshiarpur,Dasuya,Plum,Other,Medium,08/01/2023,2000,2000,2000
+Punjab,Hoshiarpur,Mukerian,Plum,Plum,Medium,08/01/2023,3500,5500,4500
+Punjab,Hoshiarpur,Tanda Urmur,Plum,Other,Medium,08/01/2023,6000,6600,6300
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Plum,Plum,Medium,08/01/2023,2500,3500,3000
+Punjab,Moga,Baghapurana,Plum,Other,Medium,08/01/2023,4200,5000,4500
+Punjab,Ropar (Rupnagar),Morinda,Plum,Plum,Medium,08/01/2023,2000,3000,2500
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Plum,Other,Medium,08/01/2023,3000,7000,5000
+Telangana,Hyderabad,Gaddiannaram,Plum,Other,Medium,08/01/2023,2100,5700,2700
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Plum,Other,Medium,08/02/2023,7200,7600,7400
+Himachal Pradesh,Kangra,Palampur,Plum,Other,Medium,08/02/2023,7000,7500,7250
+,,,,,,,,,
+Himachal Pradesh,Kangra,Palampur,Papaya,Other,Medium,07/27/2023,4200,4500,4350
+Uttrakhand,Haridwar,Roorkee,Papaya,Other,Medium,07/27/2023,1500,2500,2000
+Chattisgarh,Bilaspur,Tiphra,Papaya,Papaya,Large,07/28/2023,2000,2200,2100
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Papaya,Other,Medium,07/28/2023,1000,2000,1500
+Haryana,Mahendragarh-Narnaul,Narnaul,Papaya,Other,Medium,07/28/2023,2000,2000,2000
+Himachal Pradesh,Chamba,Chamba,Papaya,Other,Medium,07/28/2023,4500,5000,4750
+Himachal Pradesh,Hamirpur,Hamirpur,Papaya,Other,Medium,07/28/2023,4000,4500,4250
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Papaya,Other,Medium,07/28/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra,Papaya,Other,Medium,07/28/2023,3500,4000,3750
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Papaya,Other,Medium,07/28/2023,4800,5200,5000
+Himachal Pradesh,Kangra,Palampur,Papaya,Other,Medium,07/28/2023,4200,4500,4350
+Himachal Pradesh,Kullu,Bhuntar,Papaya,Other,Medium,07/28/2023,4000,4200,4100
+Himachal Pradesh,Kullu,Kullu,Papaya,Other,Medium,07/28/2023,4000,4200,4100
+Himachal Pradesh,Mandi,Mandi(Mandi),Papaya,Papaya,Medium,07/28/2023,3500,4200,4000
+Himachal Pradesh,Shimla,Shimla,Papaya,Other,Medium,07/28/2023,4000,4500,4200
+Himachal Pradesh,Sirmore,Nahan,Papaya,Other,Medium,07/28/2023,4000,4000,4000
+Himachal Pradesh,Sirmore,Paonta Sahib,Papaya,Other,Large,07/28/2023,4000,4000,4000
+Himachal Pradesh,Solan,Solan,Papaya,Other,Medium,07/28/2023,3000,3500,3200
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Papaya,Papaya,Large,07/28/2023,3300,3500,3400
+Jammu and Kashmir,Srinagar,Parimpore,Papaya,Other,Large,07/28/2023,3550,4200,3700
+Madhya Pradesh,Sagar,Sagar(F&V),Papaya,Other,Medium,07/28/2023,1200,1800,1600
+Maharashtra,Pune,Pune,Papaya,Other,FAQ,07/28/2023,1000,2500,1800
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,07/28/2023,1500,2000,1750
+Punjab,Fazilka,Fazilka,Papaya,Other,Medium,07/28/2023,2200,3000,2500
+Punjab,Fazilka,Jalalabad,Papaya,Other,Large,07/28/2023,3500,3800,3700
+Punjab,Hoshiarpur,Dasuya,Papaya,Other,Large,07/28/2023,4000,4000,4000
+Punjab,Hoshiarpur,Garh Shankar,Papaya,Other,Medium,07/28/2023,3000,4000,3500
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Papaya,Papaya,Medium,07/28/2023,900,1300,1100
+Punjab,Moga,Moga,Papaya,Other,Medium,07/28/2023,1200,1500,1400
+Punjab,Ropar (Rupnagar),Morinda,Papaya,Papaya,Medium,07/28/2023,3000,3500,3200
+Punjab,Sangrur,Bhawanigarh,Papaya,Other,Medium,07/28/2023,5000,5500,5250
+Rajasthan,Bikaner,Bikaner(F&V),Papaya,Other,Medium,07/28/2023,2100,2300,2200
+Rajasthan,Jaipur,Jaipur(F&V),Papaya,Other,Medium,07/28/2023,3500,4000,3750
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Papaya,Other,Medium,07/28/2023,1000,2000,1500
+Rajasthan,Kota,Kota (FV),Papaya,Other,Large,07/28/2023,1800,2200,2000
+Uttar Pradesh,Aligarh,Aligarh,Papaya,Papaya,Medium,07/28/2023,2900,3000,2940
+Uttar Pradesh,Badaun,Badayoun,Papaya,Papaya,Medium,07/28/2023,2400,2520,2450
+Uttar Pradesh,Bulandshahar,Khurja,Papaya,Papaya,Medium,07/28/2023,2350,2550,2450
+Uttar Pradesh,Bulandshahar,Sikanderabad,Papaya,Papaya,Medium,07/28/2023,2500,3000,2700
+Uttar Pradesh,Bulandshahar,Siyana,Papaya,Papaya,Medium,07/28/2023,1400,1500,1450
+Uttar Pradesh,Faizabad,Faizabad,Papaya,Other,Medium,07/28/2023,2400,2470,2450
+Uttar Pradesh,Ghaziabad,Muradnagar,Papaya,Papaya,Medium,07/28/2023,2400,2500,2440
+Uttar Pradesh,Hathras,Haathras,Papaya,Papaya,Medium,07/28/2023,2800,3000,2900
+Uttar Pradesh,Khiri (Lakhimpur),Maigalganj,Papaya,Papaya,Medium,07/28/2023,2370,2430,2400
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Papaya,Papaya,Medium,07/28/2023,240,248.5,244.5
+Uttar Pradesh,Lakhimpur,Lakhimpur,Papaya,Papaya,Medium,07/28/2023,2400,2460,2430
+Uttar Pradesh,Lucknow,Lucknow,Papaya,Papaya,Medium,07/28/2023,2450,2520,2475
+Uttar Pradesh,Muradabad,Muradabad,Papaya,Papaya,Medium,07/28/2023,2480,2520,2500
+Uttar Pradesh,Muzaffarnagar,Shamli,Papaya,Papaya,Medium,07/28/2023,2410,2510,2460
+Uttar Pradesh,Raebarelli,Raibareilly,Papaya,Papaya,Medium,07/28/2023,2450,2475,2460
+Uttar Pradesh,Rampur,Rampur,Papaya,Papaya,Medium,07/28/2023,2500,2600,2560
+Uttar Pradesh,Siddharth Nagar,Naugarh,Papaya,Papaya,Medium,07/28/2023,2260,2450,2350
+Uttar Pradesh,Sitapur,Sitapur,Papaya,Papaya,Medium,07/28/2023,2300,2550,2440
+Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,07/28/2023,2720,2800,2765
+Uttar Pradesh,Sultanpur,Sultanpur,Papaya,Papaya,Medium,07/28/2023,2550,2870,2750
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Papaya,Other,Medium,07/29/2023,2500,3150,2825
+Gujarat,Porbandar,Porbandar,Papaya,Other,Large,07/29/2023,1500,2000,1750
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Papaya,Other,Large,07/29/2023,1000,2000,1500
+Haryana,Kurukshetra,Pehowa,Papaya,Other,Medium,07/29/2023,1500,1600,1600
+Himachal Pradesh,Solan,Solan,Papaya,Other,Medium,07/29/2023,3000,3500,3200
+Kerala,Malappuram,Manjeri,Papaya,Papaya,Large,07/29/2023,2400,2500,2450
+Kerala,Thiruvananthapuram,Anyara(EEC),Papaya,Other,Medium,07/29/2023,4000,4200,4100
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,07/29/2023,2000,2000,2000
+Punjab,Fazilka,Jalalabad,Papaya,Other,Large,07/29/2023,3000,3500,3200
+Punjab,Ropar (Rupnagar),Morinda,Papaya,Papaya,Medium,07/29/2023,3000,4000,3500
+Telangana,Warangal,Warangal,Papaya,Papaya,Medium,07/29/2023,2000,2000,2000
+Uttar Pradesh,Barabanki,Barabanki,Papaya,Papaya,Medium,07/29/2023,2750,2850,2800
+Uttar Pradesh,Bulandshahar,Buland Shahr,Papaya,Papaya,Medium,07/29/2023,2200,2600,2440
+Uttar Pradesh,Bulandshahar,Jahangirabad,Papaya,Papaya,Medium,07/29/2023,2340,2550,2445
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Papaya,Papaya,Medium,07/29/2023,2330,2530,2430
+Uttar Pradesh,Ghaziabad,Ghaziabad,Papaya,Papaya,Medium,07/29/2023,2350,2450,2400
+Uttar Pradesh,Ghaziabad,Hapur,Papaya,Papaya,Medium,07/29/2023,2340,2460,2400
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Papaya,Papaya,Medium,07/29/2023,1420,1500,1450
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Papaya,Papaya,Medium,07/29/2023,2400,2550,2450
+Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,07/29/2023,2720,2800,2760
+Uttrakhand,Haridwar,Manglaur,Papaya,Other,Medium,07/29/2023,2000,3000,2500
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Papaya,Other,Medium,07/30/2023,1000,2000,1500
+Himachal Pradesh,Kullu,Bhuntar,Papaya,Other,Medium,07/30/2023,4000,4300,4250
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,07/30/2023,2000,2000,2000
+Telangana,Warangal,Warangal,Papaya,Papaya,Medium,07/30/2023,1500,1500,1500
+Uttar Pradesh,Gautam Budh Nagar,Dadri,Papaya,Papaya,Medium,07/30/2023,2330,2530,2430
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Papaya,Papaya,Medium,07/30/2023,1420,1500,1450
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Papaya,Papaya,Medium,07/30/2023,2350,2530,2430
+Uttar Pradesh,Siddharth Nagar,Naugarh,Papaya,Papaya,Medium,07/30/2023,2340,2360,2350
+Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,07/30/2023,2700,2800,2750
+Gujarat,Banaskanth,Deesa(Deesa Veg Yard),Papaya,Other,Medium,07/31/2023,2500,3200,2850
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Papaya,Other,Medium,07/31/2023,2000,3500,2750
+Haryana,Kurukshetra,Pehowa,Papaya,Other,Medium,07/31/2023,1600,1600,1600
+Himachal Pradesh,Hamirpur,Hamirpur,Papaya,Other,Medium,07/31/2023,4000,4500,4250
+Himachal Pradesh,Hamirpur,Hamirpur(Nadaun),Papaya,Other,Medium,07/31/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra,Papaya,Other,Medium,07/31/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Papaya,Other,Medium,07/31/2023,4800,5200,5000
+Himachal Pradesh,Kangra,Palampur,Papaya,Other,Medium,07/31/2023,4200,4500,4350
+Himachal Pradesh,Kullu,Bhuntar,Papaya,Other,Medium,07/31/2023,4000,4500,4200
+Himachal Pradesh,Kullu,Kullu,Papaya,Other,Medium,07/31/2023,4000,4500,4200
+Himachal Pradesh,Shimla,Shimla,Papaya,Other,Medium,07/31/2023,4000,6000,4500
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Papaya,Papaya,Large,07/31/2023,3300,3700,3500
+Jammu and Kashmir,Kathua,Kathua,Papaya,Other,Medium,07/31/2023,3000,4000,3500
+Kerala,Malappuram,Manjeri,Papaya,Papaya,Large,07/31/2023,2400,2500,2450
+Madhya Pradesh,Dhar,Dhar(F&V),Papaya,Other,Medium,07/31/2023,2000,4000,3000
+Maharashtra,Pune,Pune,Papaya,Other,FAQ,07/31/2023,1000,2500,1700
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,07/31/2023,1500,2000,1750
+Nagaland,Mokokchung,Mokokchung Town,Papaya,Other,Medium,07/31/2023,1500,2500,2000
+Nagaland,Wokha,Wokha Town,Papaya,Other,Medium,07/31/2023,4000,4700,4500
+Punjab,Barnala,Barnala,Papaya,Other,Large,07/31/2023,2500,6000,4250
+Punjab,Fazilka,Jalalabad,Papaya,Other,Large,07/31/2023,4000,4500,4300
+Punjab,Gurdaspur,Dinanagar,Papaya,Papaya,Medium,07/31/2023,3500,4000,4000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Papaya,Papaya,Medium,07/31/2023,900,1200,1100
+Punjab,Ropar (Rupnagar),Morinda,Papaya,Papaya,Medium,07/31/2023,2000,3000,2500
+Rajasthan,Jaipur,Jaipur(F&V),Papaya,Other,Medium,07/31/2023,3500,4000,3750
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Papaya,Other,Medium,07/31/2023,1000,2000,1500
+Telangana,Warangal,Warangal,Papaya,Papaya,Medium,07/31/2023,1500,1500,1500
+Uttar Pradesh,Agra,Agra,Papaya,Papaya,Medium,07/31/2023,2800,3000,2920
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Papaya,Papaya,Medium,07/31/2023,2700,2880,2800
+Uttar Pradesh,Badaun,Badayoun,Papaya,Papaya,Medium,07/31/2023,2430,2530,2490
+Uttar Pradesh,Bahraich,Bahraich,Papaya,Papaya,Medium,07/31/2023,2525,2700,2620
+Uttar Pradesh,Barabanki,Barabanki,Papaya,Papaya,Medium,07/31/2023,2900,3000,2950
+Uttar Pradesh,Bulandshahar,Sikanderabad,Papaya,Papaya,Medium,07/31/2023,2200,2600,2400
+Uttar Pradesh,Bulandshahar,Siyana,Papaya,Papaya,Medium,07/31/2023,1600,1800,1700
+Uttar Pradesh,Faizabad,Faizabad,Papaya,Papaya,Medium,07/31/2023,2400,2500,2450
+Uttar Pradesh,Ghaziabad,Ghaziabad,Papaya,Papaya,Medium,07/31/2023,2350,2450,2400
+Uttar Pradesh,Ghaziabad,Noida,Papaya,Papaya,Medium,07/31/2023,2320,2520,2420
+Uttar Pradesh,Jalaun (Orai),Konch,Papaya,Papaya,Medium,07/31/2023,2150,2250,2200
+Uttar Pradesh,Mirzapur,Mirzapur,Papaya,Papaya,Medium,07/31/2023,2575,2675,2625
+Uttar Pradesh,Muzaffarnagar,Shamli,Papaya,Papaya,Medium,07/31/2023,2375,2475,2425
+Uttar Pradesh,Rampur,Rampur,Papaya,Papaya,Medium,07/31/2023,2530,2605,2560
+Uttar Pradesh,Sitapur,Sitapur,Papaya,Papaya,Medium,07/31/2023,2300,2500,2400
+Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,07/31/2023,2720,2800,2760
+Uttar Pradesh,Sultanpur,Sultanpur,Papaya,Papaya,Medium,07/31/2023,2580,2850,2730
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Papaya,Other,Medium,08/01/2023,2000,3000,2500
+Haryana,Kurukshetra,Thanesar,Papaya,Papaya,Medium,08/01/2023,4000,5000,4500
+Himachal Pradesh,Chamba,Chamba,Papaya,Other,Medium,08/01/2023,4500,5000,4750
+Himachal Pradesh,Hamirpur,Hamirpur,Papaya,Other,Medium,08/01/2023,4000,4500,4250
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Papaya,Other,Medium,08/01/2023,4800,5200,5000
+Himachal Pradesh,Kangra,Palampur,Papaya,Other,Medium,08/01/2023,4200,4500,4350
+Himachal Pradesh,Kullu,Bhuntar,Papaya,Other,Medium,08/01/2023,4000,4500,4200
+Himachal Pradesh,Kullu,Kullu,Papaya,Other,Medium,08/01/2023,4000,4500,4200
+Himachal Pradesh,Mandi,Mandi(Mandi),Papaya,Papaya,Medium,08/01/2023,3000,4500,4000
+Himachal Pradesh,Shimla,Shimla,Papaya,Other,Medium,08/01/2023,5000,6500,5500
+Himachal Pradesh,Sirmore,Paonta Sahib,Papaya,Other,Medium,08/01/2023,4000,4500,4250
+Himachal Pradesh,Una,Una,Papaya,Other,Medium,08/01/2023,4000,4500,4250
+Jammu and Kashmir,Jammu,Narwal Jammu (F&V),Papaya,Other,Medium,08/01/2023,3000,3500,3250
+Jammu and Kashmir,Kathua,Kathua,Papaya,Other,Medium,08/01/2023,4000,4500,4250
+Karnataka,Bangalore,"Binny Mill (F&V), Bangalore",Papaya,Papaya,FAQ,08/01/2023,1000,2500,1800
+Karnataka,Davangere,Davangere,Papaya,Papaya,FAQ,08/01/2023,1000,2000,1500
+Karnataka,Gulbarga,Gulbarga,Papaya,Papaya,FAQ,08/01/2023,1000,1500,1250
+Kerala,Malappuram,Manjeri,Papaya,Papaya,Large,08/01/2023,2400,2500,2450
+Madhya Pradesh,Indore,Indore(F&V),Papaya,Papaya,Medium,08/01/2023,600,2200,1400
+Madhya Pradesh,Katni,Katni(F&V),Papaya,Other,Medium,08/01/2023,1000,1200,1200
+Maharashtra,Amarawati,Amrawati(Frui & Veg. Market),Papaya,Other,FAQ,08/01/2023,1500,2000,1750
+Maharashtra,Mumbai,Fruit Market,Papaya,Other,FAQ,08/01/2023,1500,3000,2250
+Maharashtra,Pune,Pune,Papaya,Other,FAQ,08/01/2023,800,2000,1400
+Maharashtra,Pune,Pune(Moshi),Papaya,Other,FAQ,08/01/2023,1000,1000,1000
+Maharashtra,Sholapur,Solapur,Papaya,Other,FAQ,08/01/2023,500,1100,900
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Papaya,Other,Medium,08/01/2023,700,1600,1100
+Punjab,Fazilka,Abohar,Papaya,Papaya,Medium,08/01/2023,2450,2800,2650
+Punjab,Fazilka,Jalalabad,Papaya,Other,Large,08/01/2023,4000,4200,4200
+Punjab,Ferozpur,Zira,Papaya,Other,Large,08/01/2023,2800,3200,3000
+Punjab,Hoshiarpur,Dasuya,Papaya,Other,Large,08/01/2023,4000,4000,4000
+Punjab,Hoshiarpur,Dasuya,Papaya,Other,Medium,08/01/2023,2000,2500,2250
+Punjab,Hoshiarpur,Garh Shankar,Papaya,Other,Medium,08/01/2023,3000,4000,3500
+Punjab,Hoshiarpur,Mukerian,Papaya,Papaya,Medium,08/01/2023,3500,5500,4500
+Punjab,Hoshiarpur,Tanda Urmur,Papaya,Other,Medium,08/01/2023,3500,4000,3800
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Papaya,Papaya,Medium,08/01/2023,800,1200,1000
+Punjab,Moga,Baghapurana,Papaya,Other,Medium,08/01/2023,3200,3700,3500
+Punjab,Patiala,Nabha,Papaya,Other,Medium,08/01/2023,3200,3200,3200
+Punjab,Ropar (Rupnagar),Morinda,Papaya,Papaya,Medium,08/01/2023,3000,3500,3200
+Rajasthan,Bikaner,Bikaner(F&V),Papaya,Other,Medium,08/01/2023,2100,2300,2200
+Rajasthan,Jaipur,Jaipur(F&V),Papaya,Other,Medium,08/01/2023,3500,4000,3750
+Rajasthan,Jodhpur,Jodhpur(F&V)(Bhadwasia),Papaya,Other,Medium,08/01/2023,600,1600,1000
+Rajasthan,Udaipur,Udaipur(F&V),Papaya,Other,Medium,08/01/2023,1500,2200,1850
+Telangana,Hyderabad,Gaddiannaram,Papaya,Other,Medium,08/01/2023,1200,2500,1800
+Uttar Pradesh,Ambedkarnagar,Akbarpur,Papaya,Papaya,Medium,08/01/2023,2700,2880,2800
+Uttar Pradesh,Bahraich,Bahraich,Papaya,Papaya,Medium,08/01/2023,2500,2675,2600
+Uttar Pradesh,Faizabad,Faizabad,Papaya,Papaya,Medium,08/01/2023,2400,2500,2460
+Uttar Pradesh,Gorakhpur,Gorakhpur,Papaya,Papaya,Medium,08/01/2023,2350,2600,2450
+Uttar Pradesh,Jalaun (Orai),Konch,Papaya,Papaya,Medium,08/01/2023,2050,2150,2100
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Papaya,Papaya,Medium,08/01/2023,1420,1500,1454
+Uttar Pradesh,Kanpur,Kanpur(Grain),Papaya,Papaya,Medium,08/01/2023,2450,2650,2550
+Uttar Pradesh,Khiri (Lakhimpur),Mohammdi,Papaya,Papaya,Medium,08/01/2023,238,245,241
+Uttar Pradesh,Lakhimpur,Lakhimpur,Papaya,Papaya,Medium,08/01/2023,2400,2450,2430
+Uttar Pradesh,Mathura,Mathura,Papaya,Papaya,Medium,08/01/2023,3000,3400,3200
+Uttar Pradesh,Muradabad,Muradabad,Papaya,Papaya,Medium,08/01/2023,2500,2540,2520
+Uttar Pradesh,Muzaffarnagar,Khatauli,Papaya,Papaya,Medium,08/01/2023,2400,2600,2500
+Uttar Pradesh,Muzaffarnagar,Muzzafarnagar,Papaya,Papaya,Medium,08/01/2023,2380,2500,2430
+Uttar Pradesh,Muzaffarnagar,Shamli,Papaya,Papaya,Medium,08/01/2023,2350,2450,2400
+Uttar Pradesh,Pillibhit,Pilibhit,Papaya,Papaya,Medium,08/01/2023,2415,2505,2465
+Uttar Pradesh,Pillibhit,Puranpur,Papaya,Papaya,Medium,08/01/2023,2420,2500,2460
+Uttar Pradesh,Raebarelli,Raibareilly,Papaya,Papaya,Medium,08/01/2023,2460,2500,2475
+Uttar Pradesh,Rampur,Rampur,Papaya,Papaya,Large,08/01/2023,2530,2600,2560
+Uttar Pradesh,Saharanpur,Saharanpur,Papaya,Papaya,Medium,08/01/2023,2250,2550,2400
+Uttar Pradesh,Siddharth Nagar,Naugarh,Papaya,Papaya,Medium,08/01/2023,2340,2360,2350
+Uttar Pradesh,Sitapur,Sitapur,Papaya,Papaya,Medium,08/01/2023,2300,2500,2420
+Uttar Pradesh,Sultanpur,Jafarganj,Papaya,Papaya,Medium,08/01/2023,2700,2770,2730
+Uttar Pradesh,Sultanpur,Sultanpur,Papaya,Papaya,Medium,08/01/2023,2580,2850,2725
+Uttrakhand,Dehradoon,Rishikesh,Papaya,Other,Small,08/01/2023,3000,4000,3200
+Uttrakhand,Haridwar,Haridwar Union,Papaya,Other,Medium,08/01/2023,2000,2600,2300
+Uttrakhand,UdhamSinghNagar,Kashipur,Papaya,Other,Large,08/01/2023,1500,1800,1800
+Himachal Pradesh,Kangra,Kangra(Jaisinghpur),Papaya,Other,Medium,08/02/2023,4800,5200,5000
+Himachal Pradesh,Kangra,Palampur,Papaya,Other,Medium,08/02/2023,4200,4500,4350
+Uttrakhand,Dehradoon,Vikasnagar,Papaya,Other,Medium,08/02/2023,1600,2000,2000
+,,,,,,,,,
+Himachal Pradesh,Kangra,Palampur,Guava,Other,Medium,07/27/2023,8000,11500,9750
+Haryana,Hissar,Barwala(Hisar),Guava,Other,Medium,07/28/2023,2000,3000,2500
+Haryana,Hissar,Hansi,Guava,Other,Medium,07/28/2023,3000,3000,3000
+Haryana,Kurukshetra,Shahabad,Guava,Guava,Medium,07/28/2023,4500,5000,4700
+Haryana,Rohtak,Meham,Guava,Guava,Medium,07/28/2023,3000,3000,3000
+Haryana,Sirsa,kalanwali,Guava,Other,Medium,07/28/2023,3000,3000,3000
+Haryana,Sonipat,Gohana,Guava,Other,Large,07/28/2023,1500,2000,1500
+Himachal Pradesh,Kangra,Kangra,Guava,Other,Medium,07/28/2023,3500,4000,3750
+Himachal Pradesh,Mandi,Mandi(Mandi),Guava,Guava,Medium,07/28/2023,7000,10000,8000
+Maharashtra,Pune,Pune,Guava,Other,FAQ,07/28/2023,1500,3500,3000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Guava,Other,Medium,07/28/2023,1200,2800,2600
+Rajasthan,Bikaner,Bikaner(F&V),Guava,Other,Medium,07/28/2023,2800,3000,2900
+Uttar Pradesh,Bulandshahar,Anoop Shahar,Guava,Guava,Large,07/28/2023,1600,2000,1800
+Uttar Pradesh,Bulandshahar,Sikanderabad,Guava,Guava,Medium,07/28/2023,1500,1800,1600
+Uttar Pradesh,Bulandshahar,Siyana,Guava,Guava,Medium,07/28/2023,1800,1960,1900
+Uttar Pradesh,Jalaun (Orai),Jalaun,Guava,Guava,Medium,07/28/2023,800,1050,1000
+Uttar Pradesh,Muzaffarnagar,Kadhle,Guava,Guava,Medium,07/28/2023,2100,2200,2150
+Uttar Pradesh,Shahjahanpur,Tilhar,Guava,Guava,Medium,07/28/2023,480,550,515
+Uttrakhand,Haridwar,Manglaur,Guava,Other,Medium,07/28/2023,2000,2500,2200
+Uttrakhand,Nanital,Ramnagar,Guava,Other,Medium,07/28/2023,1800,2200,2000
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Guava,Other,Medium,07/28/2023,6000,7000,6500
+Haryana,Faridabad,Ballabhgarh,Guava,Other,Medium,07/29/2023,1000,1500,1200
+Haryana,Hissar,Barwala(Hisar),Guava,Other,Medium,07/29/2023,2500,3000,2800
+Haryana,Kurukshetra,Shahabad,Guava,Guava,Medium,07/29/2023,5000,5000,5000
+Haryana,Sonipat,Ganaur,Guava,Other,Medium,07/29/2023,3000,4000,3500
+Haryana,Sonipat,Gohana,Guava,Other,Large,07/29/2023,2000,5000,2000
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Guava,Guava,Medium,07/29/2023,1810,2000,1850
+Uttrakhand,Haridwar,Manglaur,Guava,Other,Medium,07/29/2023,2500,4000,3500
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Guava,Guava,Medium,07/30/2023,1810,2000,1850
+Gujarat,Rajkot,Gondal(Veg.market Gondal),Guava,Guava,Medium,07/31/2023,1000,3500,2250
+Haryana,Hissar,Hansi,Guava,Other,Medium,07/31/2023,2000,2800,2500
+Haryana,Kurukshetra,Shahabad,Guava,Guava,Medium,07/31/2023,5000,5500,5200
+Himachal Pradesh,Kangra,Kangra,Guava,Other,Medium,07/31/2023,10000,11000,10500
+Maharashtra,Pune,Pune,Guava,Other,FAQ,07/31/2023,1500,3500,2500
+Punjab,Barnala,Barnala,Guava,Other,Large,07/31/2023,4000,10000,7000
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Guava,Other,Medium,07/31/2023,1200,2800,2500
+Uttar Pradesh,Bulandshahar,Siyana,Guava,Guava,Medium,07/31/2023,3200,3400,3300
+Uttar Pradesh,Muzaffarnagar,Kadhle,Guava,Guava,Medium,07/31/2023,2100,2200,2150
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Guava,Other,Medium,07/31/2023,5000,6000,5500
+Haryana,Gurgaon,Pataudi,Guava,Other,Large,08/01/2023,1800,2200,2000
+Haryana,Hissar,Barwala(Hisar),Guava,Other,Medium,08/01/2023,2000,2500,2400
+Haryana,Hissar,Uklana,Guava,Guava,Medium,08/01/2023,2000,2500,2500
+Haryana,Kurukshetra,Shahabad,Guava,Guava,Medium,08/01/2023,2000,6000,5000
+Haryana,Kurukshetra,Thanesar,Guava,Guava,Medium,08/01/2023,6000,8000,7000
+Haryana,Rohtak,Meham,Guava,Guava,Medium,08/01/2023,2500,2500,2500
+Haryana,Rohtak,Rohtak,Guava,Other,Large,08/01/2023,1500,3000,2000
+Haryana,Sonipat,Gohana,Guava,Other,Large,08/01/2023,2000,6000,2000
+Himachal Pradesh,Mandi,Mandi(Mandi),Guava,Guava,Medium,08/01/2023,7000,11000,9000
+Himachal Pradesh,Una,Una,Guava,Guava,Medium,08/01/2023,10000,12000,11000
+Karnataka,Gulbarga,Gulbarga,Guava,Guava,FAQ,08/01/2023,800,1500,1150
+Maharashtra,Mumbai,Fruit Market,Guava,Other,FAQ,08/01/2023,2000,6000,4000
+Maharashtra,Pune,Pune,Guava,Other,FAQ,08/01/2023,1500,3500,2500
+Maharashtra,Sholapur,Solapur,Guava,Other,FAQ,08/01/2023,1000,4000,2500
+Punjab,Amritsar,Amritsar(Amritsar Mewa Mandi),Guava,Other,Medium,08/01/2023,2000,4500,3500
+Punjab,Jalandhar,Jalandhar City(Jalandhar),Guava,Other,Medium,08/01/2023,1100,2700,2400
+Punjab,Patiala,Nabha,Guava,Other,Medium,08/01/2023,3500,6000,4800
+Rajasthan,Bikaner,Bikaner(F&V),Guava,Other,Medium,08/01/2023,2800,3000,2900
+Telangana,Hyderabad,Gaddiannaram,Guava,Guava,Medium,08/01/2023,1500,4500,2250
+Uttar Pradesh,Jalaun (Orai),Jalaun,Guava,Guava,Medium,08/01/2023,900,1200,1000
+Uttar Pradesh,Jyotiba Phule Nagar,Hasanpur,Guava,Guava,Medium,08/01/2023,1810,2000,1850
+Uttar Pradesh,Lakhimpur,Paliakala,Guava,Guava,Medium,08/01/2023,1800,2000,1900
+Uttrakhand,Haridwar,Manglaur,Guava,Other,Medium,08/01/2023,2500,4000,3500
+Uttrakhand,UdhamSinghNagar,Kashipur,Guava,Other,Large,08/01/2023,1800,2400,2000
+West Bengal,Sounth 24 Parganas,Baruipur(Canning),Guava,Other,Medium,08/01/2023,5000,6000,5500
+,,,,,,,,,
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Peach,Other,Large,07/28/2023,1200,1600,1400
+Jammu and Kashmir,Srinagar,Ganderbal,Peach,Peach,Large,07/28/2023,1500,2500,2000
+Uttrakhand,Nanital,Haldwani,Peach,Other,Large,07/28/2023,1000,2000,1200
+Jammu and Kashmir,Anantnag,Ashahipora (Anantnagh),Peach,Other,Large,07/31/2023,1800,2000,1900
